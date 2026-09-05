@@ -1,0 +1,17 @@
+---
+description: Bloqueadores de produção e configs que não podem voltar ao estado do autor
+globs: "**/App.config,**/Web.config,**/config.xml,**/*Login*.cs,**/*.ashx.cs"
+alwaysApply: false
+---
+
+# Produção
+
+Não chame o servidor de “pronto” se ainda existir:
+
+- Bypass de senha (`Login.ashx` / `if (true)`)
+- Connection string do autor (`KHANHDUY\\SQLEXPRESS`, `sa` / `abc@123`)
+- LoginKey Flash ≠ Request
+- `FlashSV1/config.xml` com `SITE=http://gunny.vcdn.vn/` ou `USE_MD5=true` (playgame lê **este** arquivo)
+- Senha, RSA privada ou `.env` no git
+
+Religar World Boss/League só com teste. `GameAdmin` ainda espera `Db_Tank`.

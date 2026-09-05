@@ -1,0 +1,22 @@
+---
+description: Como editar arquivos de idioma do cliente Flash e do LanguageMgr
+globs: "**/language.txt,**/Language-*.txt,**/Languages/**,**/LanguageMgr.cs,**/config.xml"
+alwaysApply: false
+---
+
+# Traduções
+
+Separador = **primeiro `:`**. Nunca traduza a chave. Encoding UTF-8.
+
+```
+# bom
+Pet.Adopt.NotFound:Pet não encontrado.
+# ruim — chave humana; se faltar no arquivo, o jogador vê vietnamita
+GetTranslation("Không tìm thấy pet!")
+```
+
+- Preserve `{0}`, `{1}` e HTML. Não quebre `string.Format`.
+- Flash carrega `ui/{LANGUAGE}/language.txt` em runtime. Prefira `ui/pt-BR/` + `<LANGUAGE value="pt-BR"/>` em `FlashSV1/config.xml` em vez de apagar `ui/vietnam/`.
+- `Language-vn.txt` hoje só está em `bin\`. Edite/crie fonte versionada e replique em Road, Fighting, Center, Request, Flash, GameAdmin.
+- Sem tradução automática em massa. Glossário em `AGENTS.md` §4.3.
+- Camada SQL (nome de item/quest) é outra frente — não misture no mesmo arquivo.

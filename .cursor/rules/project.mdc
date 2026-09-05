@@ -1,0 +1,17 @@
+---
+description: Identidade do projeto, docs canônicos e regras gerais para qualquer agente
+alwaysApply: true
+---
+
+# DDTank41
+
+Leia `AGENTS.md` no início da sessão. Código + `AGENTS.md` vencem memória da conversa.
+
+- Fork vietnamita Gunny/7Road (edição 10990). Vale **este** código, não o oficial.
+- Missão: servidor jogável em produção + traduções **pt-BR** de qualidade.
+- Fale com o usuário em português. Explique termo técnico na primeira vez.
+- Ordem de mudança: config → SQL → idioma → C# → Flash AS3 → resource.
+- Não commite/push sem pedido. Não refatore “o projeto inteiro”.
+- Não use CDN/launcher DDClassico. Não scrapeie resource de terceiros.
+- Docs: `DOCUMENTACAO.md`, `GUIA-SUBIR-SERVIDOR.md`, `DOCUMENTACAO-COMBATE.md`, `DOCUMENTACAO-MODIFICACOES.md`.
+- VS não é obrigatório; servidores compilam com MSBuild / `dotnet build` (`DDTank 3.0.sln`, net472/net48).

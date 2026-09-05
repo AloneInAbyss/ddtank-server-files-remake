@@ -1,0 +1,15 @@
+---
+description: Convenções ao alterar o servidor C# (.NET Framework 4.7.2/4.8)
+globs: "**/*.cs,**/*.csproj"
+alwaysApply: false
+---
+
+# Servidor C#
+
+- Estilo do arquivo atual (legado/decompilado). Não modernize linguagem sem ganho.
+- Combat: `Game.Logic`. Freedom/PvE no Road; Match no Fighting. Fórmulas em `DOCUMENTACAO-COMBATE.md`. `GP_RATE` / `LeagueMoney_*` não entram no `PVPGame` deste fork.
+- String ao jogador: chave estável + linha no arquivo de idioma. Proibido `GetTranslation("frase việt")`.
+- Produção: não deixar `if (true)` em `Login.ashx`; não gravar senha `sa`/`abc@123` nem `KHANHDUY\\SQLEXPRESS`.
+- Scripts PvE: `scripts/`, compilados em runtime.
+- Depois de mudar DLL que o Road carrega no `Init`, compile. Erro derruba o processo.
+- Sem NuGet novo sem necessidade. Sem rewrite de `LanguageMgr`.
