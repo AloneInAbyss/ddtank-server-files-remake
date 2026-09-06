@@ -2,9 +2,9 @@
 
 Este documento descreve **o Center deste fork** (edição 10990), não o “oficial” da 7Road. Tudo abaixo foi lido em `Center.Service`, `Center.Server`, `Bussiness` e nos clientes que falam com ele (`Game.Server`, `Tank.Request`).
 
-Documentos irmãos: [`DOCUMENTACAO.md`](DOCUMENTACAO.md) (mapa do sistema), [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md) (como ligar), [`DOCUMENTACAO-AMBIENTE-LOCAL.md`](DOCUMENTACAO-AMBIENTE-LOCAL.md) (boot neste PC), [`DOCUMENTACAO-MODIFICACOES.md`](DOCUMENTACAO-MODIFICACOES.md) (onde cada tipo de mudança mora).
+Documentos irmãos: [`DOCUMENTACAO.md`](DOCUMENTACAO.md), [`DOCUMENTACAO-ROAD.md`](DOCUMENTACAO-ROAD.md), [`DOCUMENTACAO-FIGHTING.md`](DOCUMENTACAO-FIGHTING.md), [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md), [`DOCUMENTACAO-AMBIENTE-LOCAL.md`](DOCUMENTACAO-AMBIENTE-LOCAL.md), [`DOCUMENTACAO-MODIFICACOES.md`](DOCUMENTACAO-MODIFICACOES.md).
 
-Road e Fighting terão docs próprios no mesmo estilo. Este arquivo é **só o Center**.
+Este arquivo é **só o Center**.
 
 ---
 
@@ -519,4 +519,4 @@ Game.Server\Packets\Client\UserLoginHandler.cs
 Tank.Request\ServerList.ashx.cs
 ```
 
-Quando for o doc do Road: comece em `Road.Service\Program.cs` e `Game.Server\GameServer.cs`. Quando for o do Fighting: `Fighting.Service` + `Fighting.Server\FightServer.cs` + [`DOCUMENTACAO-COMBATE.md`](DOCUMENTACAO-COMBATE.md).
+Road: [`DOCUMENTACAO-ROAD.md`](DOCUMENTACAO-ROAD.md) (`GameServer.cs`). Fighting: [`DOCUMENTACAO-FIGHTING.md`](DOCUMENTACAO-FIGHTING.md) + [`DOCUMENTACAO-COMBATE.md`](DOCUMENTACAO-COMBATE.md).

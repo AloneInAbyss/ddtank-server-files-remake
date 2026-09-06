@@ -4,7 +4,7 @@ Este documento descreve **como a luta funciona neste código**, não o jogo ofic
 
 Se você nunca viu o código: o jogador escolhe **ângulo** e **força**, atira, o servidor simula a bola no ar (gravidade + vento), cava o mapa se acertar o chão, e aplica dano se a explosão alcançar alguém.
 
-Documentos irmãos: [`DOCUMENTACAO.md`](DOCUMENTACAO.md), [`DOCUMENTACAO-MODIFICACOES.md`](DOCUMENTACAO-MODIFICACOES.md).
+Documentos irmãos: [`DOCUMENTACAO.md`](DOCUMENTACAO.md), [`DOCUMENTACAO-MODIFICACOES.md`](DOCUMENTACAO-MODIFICACOES.md), [`DOCUMENTACAO-ROAD.md`](DOCUMENTACAO-ROAD.md) (Freedom/PvE neste processo), [`DOCUMENTACAO-FIGHTING.md`](DOCUMENTACAO-FIGHTING.md) (só Match).
 
 ---
 
@@ -36,13 +36,15 @@ Tudo parte de `Game.Server\Rooms\StartGameAction.cs`. Três caminhos:
 
 ### 2.3 PvP match (ranked / liga)
 
+Processo, pairing e pacotes: [`DOCUMENTACAO-FIGHTING.md`](DOCUMENTACAO-FIGHTING.md).
+
 1. A sala vai para `BattleMgr` → `BattleServer` (`Game.Server\Battle\`).
-2. O Road manda a sala por TCP (porta **9208**) ao Fighting.
+2. O Road manda a sala por TCP (porta **9208**) ao Fighting (`battle.xml`, não `FightServerIp`).
 3. Lá ela vira um `ProxyRoom` (`Fighting.Server\Rooms\`).
 4. A cada **5 segundos** o `ProxyRoomMgr` tenta emparelhar duas salas.
 5. Quando casa: `GameMgr.StartBattleGame` → `BattleGame` (um `PVPGame` que fala com os jogadores via `ProxyRoom`).
 
-O Fighting atualiza o jogo a cada **40 ms**.
+O Fighting atualiza o jogo a cada **40 ms**. A thread das salas roda a **20 ms**.
 
 ### Tipos de partida (enums)
 
