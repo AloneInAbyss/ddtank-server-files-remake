@@ -507,40 +507,38 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\khanh\\.nuget\\packages\\": {}
+    "C:\\Users\\Thiago\\AppData\\Local\\Temp\\cursor-sandbox-cache\\35281abacf7d4ebfa6e05409113c1866\\nuget": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\ShareSource\\DDTank41\\Center.Service\\Center.Service.csproj",
+      "projectUniqueName": "E:\\Arquivos\\Projetos\\DDTank41\\Center.Service\\Center.Service.csproj",
       "projectName": "Center.Service",
-      "projectPath": "W:\\ShareSource\\DDTank41\\Center.Service\\Center.Service.csproj",
-      "packagesPath": "C:\\Users\\khanh\\.nuget\\packages\\",
-      "outputPath": "W:\\ShareSource\\DDTank41\\Center.Service\\obj\\",
+      "projectPath": "E:\\Arquivos\\Projetos\\DDTank41\\Center.Service\\Center.Service.csproj",
+      "packagesPath": "C:\\Users\\Thiago\\AppData\\Local\\Temp\\cursor-sandbox-cache\\35281abacf7d4ebfa6e05409113c1866\\nuget",
+      "outputPath": "E:\\Arquivos\\Projetos\\DDTank41\\Center.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\khanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net48"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net48": {
           "targetAlias": "net48",
           "projectReferences": {
-            "W:\\ShareSource\\DDTank41\\Bussiness\\Bussiness.csproj": {
-              "projectPath": "W:\\ShareSource\\DDTank41\\Bussiness\\Bussiness.csproj"
+            "E:\\Arquivos\\Projetos\\DDTank41\\Bussiness\\Bussiness.csproj": {
+              "projectPath": "E:\\Arquivos\\Projetos\\DDTank41\\Bussiness\\Bussiness.csproj"
             },
-            "W:\\ShareSource\\DDTank41\\Center.Server\\Center.Server.csproj": {
-              "projectPath": "W:\\ShareSource\\DDTank41\\Center.Server\\Center.Server.csproj"
+            "E:\\Arquivos\\Projetos\\DDTank41\\Center.Server\\Center.Server.csproj": {
+              "projectPath": "E:\\Arquivos\\Projetos\\DDTank41\\Center.Server\\Center.Server.csproj"
             },
-            "W:\\ShareSource\\DDTank41\\Game.Base\\Game.Base.csproj": {
-              "projectPath": "W:\\ShareSource\\DDTank41\\Game.Base\\Game.Base.csproj"
+            "E:\\Arquivos\\Projetos\\DDTank41\\Game.Base\\Game.Base.csproj": {
+              "projectPath": "E:\\Arquivos\\Projetos\\DDTank41\\Game.Base\\Game.Base.csproj"
             }
           }
         }
@@ -554,7 +552,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net48": {
@@ -565,8 +564,20 @@
             "version": "[2.0.14, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.317\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'log4net' 2.0.14 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-4f7c-pmjv-c25w",
+      "libraryId": "log4net",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    }
+  ]
 }

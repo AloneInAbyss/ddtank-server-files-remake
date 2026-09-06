@@ -146,7 +146,7 @@ Como o pack é 3.6 e o cliente é 4.1, **item muito novo do 4.1 pode não ter de
 | Propriedades globais | `Bussiness\GameProperties.cs` + valores no SQL |
 | Itens / loja / quest | Banco `Project_Player34` / `Project_Game34` (SPs `SP_Items_*`, `SP_Shop_*`, `SP_Quest_*`) |
 | Regras e combate | `Game.Server\`, `Game.Logic\`, `Fighting.Server\` |
-| Login HTTP | `Tank.Request\Login.ashx.cs`, `CreateLogin.aspx` |
+| Login HTTP | `Tank.Request\Login.ashx` (**inline neste PC**), `CreateLogin.aspx` |
 | Textos e switches do cliente | `Source Flash\FlashSV1\config.xml`, `ui\vietnam\` |
 | Gráfico e som | `resource\image\`, `resource\sound\` |
 | Painel GM (depois de alinhar DB) | `GameAdmin\` |

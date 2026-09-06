@@ -6,6 +6,8 @@
 
 **Como o combate funciona (turnos, física, dano, PvE, recompensas):** [`DOCUMENTACAO-COMBATE.md`](DOCUMENTACAO-COMBATE.md).
 
+**O que foi instalado neste PC, o boot até o lobby (5/set/2026) e como desfazer:** [`DOCUMENTACAO-AMBIENTE-LOCAL.md`](DOCUMENTACAO-AMBIENTE-LOCAL.md).
+
 Este documento explica, do zero, o que é este repositório, como um servidor de DDTank funciona, o que já existe aqui e o que ainda falta para o jogo realmente abrir.
 
 Você **não precisa saber programar** para entender o texto. Quando um termo técnico aparecer, ele é explicado na hora.
@@ -14,7 +16,9 @@ Você **não precisa saber programar** para entender o texto. Quando um termo t�
 
 ## 1. Resposta direta: dá para rodar um servidor com o que está aqui?
 
-**Quase. O código do servidor está completo, mas o pacote não está pronto para “ligar e jogar”.**
+**Neste PC, sim — até o lobby.** Em 5 de setembro de 2026 o boot local chegou na cidade (canal Local, personagem da conta de teste). Detalhe do que foi instalado e patchado: [`DOCUMENTACAO-AMBIENTE-LOCAL.md`](DOCUMENTACAO-AMBIENTE-LOCAL.md).
+
+O pacote **ainda não** é “produção”: senha frouxa, IP do autor no SQL, resource 3.6 com cliente 4.1 (prédio de dungeon sem figurinha), sem pt-BR. O código do servidor em si estava completo; faltava alinhar SQL, IIS, Flash e o TCP do Road.
 
 | Peça | Está no projeto? | Sem isso, o que acontece? |
 |------|------------------|---------------------------|
@@ -643,17 +647,17 @@ Database\*.bak
 
 Este repositório **tem o servidor**. Não é um recorte vazio: há os três processos, a API HTTP, o site, o cliente Flash (fonte + SWFs de UI), o launcher, o painel admin e três backups SQL.
 
-Ele **não tem tudo para um iniciante ligar e jogar**, principalmente porque:
+Neste PC o **boot local já passou** (SQL restaurado, IIS, Center/Fighting/Road, Electron + Flash, lobby). O texto abaixo é o que ainda vale para **outro** clone do repo, ou para produção:
 
-1. falta o pacote gráfico `/resource/`;
-2. as configs ainda são da máquina `KHANHDUY\SQLEXPRESS`;
-3. Flash Player não roda em navegador atual;
-4. nomes de banco e chaves de login estão inconsistentes entre os projetos;
-5. o backup pode ou não ter 100% das procedures/dados que o `GameServer.Start()` exige — isso só se confirma restaurando.
+1. a pasta `/resource/` **não vai no git** (~1 GB); sem ela o cliente não desenha;
+2. configs versionadas ainda podem nascer com `KHANHDUY\SQLEXPRESS` — aqui já apontam para `.\SQLEXPRESS` (não commitar a senha);
+3. Chrome atual não roda Flash; o caminho local é Electron 11 + Pepper Flash (`abrir-electron.bat`);
+4. LoginKey, CreateLogin e lista de servidores precisam estar alinhados (vários handlers do Request neste PC estão **inline**);
+5. resource 3.6 + cliente 4.1: item/prédio sem figurinha = quadrado vazio, não necessariamente crash.
 
-Se o objetivo é **estudar** como um emulador DDTank é organizado, este projeto é um bom mapa: a arquitetura Center + Road + Fighting + Request + Flash é a padrão da comunidade.
+Se o objetivo é **estudar** a arquitetura, o mapa Center + Road + Fighting + Request + Flash continua o padrão da comunidade.
 
-Se o objetivo é **abrir o jogo e atirar**, o próximo trabalho não é “escrever servidor”: é restaurar o SQL, unificar as connection strings, publicar IIS, conseguir o resource pack da mesma versão (10990 / vietnam), e só então ligar Center → Fighting → Road.
+Se o objetivo é **produção + pt-BR**, o próximo trabalho não é “escrever servidor”: é segurança mínima, um combate de verdade, depois inventário de tradução. Ordem em [`DOCUMENTACAO-AMBIENTE-LOCAL.md`](DOCUMENTACAO-AMBIENTE-LOCAL.md) §10 e no [`AGENTS.md`](AGENTS.md) §9.
 
 ---
 

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head><title>DDTank DDT</title></head>
+<body style="margin:0;background:#000;text-align:center;">
+<div id="box"></div>
+<script>
+var bannedFlash = [];
+function flashloaded() { return true; }
+function pageload() { return true; }
+function beforeloadflash() { return true; }
+function IsDesktop() { return false; }
+function setFlashCall() {}
+function isSafeFlash() { return 0; }
+var q = location.search;
+var src = "http://127.0.0.1/flash/DDT_Loadin2.swf" + q + (q ? "&" : "?") + "config=http://127.0.0.1/flash/config.xml";
+var vars = q.replace(/^\?/, "") + "&config=http://127.0.0.1/flash/config.xml";
+document.getElementById("box").innerHTML =
+  '<embed width="1000" height="600" src="' + src + '" flashvars="' + vars +
+  '" type="application/x-shockwave-flash" allowscriptaccess="always" wmode="direct" />';
+</script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "name": "ddtank41-launcher",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "11.5.0"
+  }
+}

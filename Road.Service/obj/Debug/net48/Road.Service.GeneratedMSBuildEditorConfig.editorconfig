@@ -1,5 +1,8 @@
 is_global = true
 build_property.RootNamespace = Road.Service
-build_property.ProjectDir = W:\ShareSource\DDTank41\Road.Service\
+build_property.ProjectDir = E:\Arquivos\Projetos\DDTank41\Road.Service\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

@@ -425,26 +425,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\khanh\\.nuget\\packages\\": {}
+    "C:\\Users\\Thiago\\AppData\\Local\\Temp\\cursor-sandbox-cache\\35281abacf7d4ebfa6e05409113c1866\\nuget": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\ShareSource\\DDTank41\\SqlDataProvider\\SqlDataProvider.csproj",
+      "projectUniqueName": "E:\\Arquivos\\Projetos\\DDTank41\\SqlDataProvider\\SqlDataProvider.csproj",
       "projectName": "SqlDataProvider",
-      "projectPath": "W:\\ShareSource\\DDTank41\\SqlDataProvider\\SqlDataProvider.csproj",
-      "packagesPath": "C:\\Users\\khanh\\.nuget\\packages\\",
-      "outputPath": "W:\\ShareSource\\DDTank41\\SqlDataProvider\\obj\\",
+      "projectPath": "E:\\Arquivos\\Projetos\\DDTank41\\SqlDataProvider\\SqlDataProvider.csproj",
+      "packagesPath": "C:\\Users\\Thiago\\AppData\\Local\\Temp\\cursor-sandbox-cache\\35281abacf7d4ebfa6e05409113c1866\\nuget",
+      "outputPath": "E:\\Arquivos\\Projetos\\DDTank41\\SqlDataProvider\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\khanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Thiago\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net472"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -462,7 +460,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net472": {
@@ -481,8 +480,20 @@
             "version": "[3.0.101, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.317\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'log4net' 2.0.14 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-4f7c-pmjv-c25w",
+      "libraryId": "log4net",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
 }

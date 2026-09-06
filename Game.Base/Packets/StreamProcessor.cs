@@ -97,7 +97,10 @@ namespace Game.Base.Packets
                             length += num5;
                             if (@in.Length <= firstPkgOffset)
                             {
-                                tcpQueue.Dequeue();
+                                if (tcpQueue.Count > 0)
+                                {
+                                    tcpQueue.Dequeue();
+                                }
                                 firstPkgOffset = 0;
                                 if (client.Encryted)
                                 {

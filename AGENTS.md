@@ -7,6 +7,7 @@ Documentação humana (não reescrever o que já está aqui):
 | Arquivo | Quando abrir |
 |---------|----------------|
 | [`DOCUMENTACAO.md`](DOCUMENTACAO.md) | Arquitetura, peças, o que falta |
+| [`DOCUMENTACAO-AMBIENTE-LOCAL.md`](DOCUMENTACAO-AMBIENTE-LOCAL.md) | O que foi feito **neste PC** (boot até o lobby, 5/set/2026) |
 | [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md) | Subir o ambiente neste PC |
 | [`DOCUMENTACAO-COMBATE.md`](DOCUMENTACAO-COMBATE.md) | Física, dano, turnos, recompensas |
 | [`DOCUMENTACAO-MODIFICACOES.md`](DOCUMENTACAO-MODIFICACOES.md) | Onde cada tipo de mudança mora |

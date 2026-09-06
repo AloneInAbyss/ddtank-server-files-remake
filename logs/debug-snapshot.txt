@@ -1,0 +1,37 @@
+﻿=== 2026-09-05 21:47:12 ===
+--- ports ---
+
+LocalPort OwningProcess
+--------- -------------
+     9500         12092
+     9208          6284
+     9202          5412
+      843         33240
+
+
+
+--- ServerList ---
+<Result value="true" message="Success!" total="0"><Item ID="4" Name="Local" IP="127.0.0.1" Port="9431" State="2" MustLevel="100" LowestLevel="0" Online="0" Remark="" /></Result>
+--- last-login.xml ---
+(missing)
+--- last-select.xml ---
+(missing)
+--- request-debug tail ---
+(missing)
+--- policy-843 tail ---
+(missing)
+--- flashlog ---
+(missing C:\Users\Thiago\AppData\Roaming\Macromedia\Flash Player\Logs\flashlog.txt)
+--- policyfiles ---
+(missing C:\Users\Thiago\AppData\Roaming\Macromedia\Flash Player\Logs\policyfiles.txt)
+--- Road Incoming last ---
+2026-09-05 20:09:08,993 - [MAIN] - INFO  - Game.Server.GameServer - Login To CenterServer: True
+2026-09-05 20:09:08,993 - [MAIN] - ERROR - Game.Server.GameServer - Cant parse other login server!
+2026-09-05 20:09:08,993 - [MAIN] - INFO  - Game.Server.GameServer - Login To OtherCenterServer: True
+2026-09-05 20:09:09,033 - [MAIN] - INFO  - Game.Server.GameServer - AccumulActiveLoginMgr Init: True
+2026-09-05 21:37:18,743 - [58] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51622
+2026-09-05 21:37:18,747 - [58] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:51622), received bytes=0
+2026-09-05 21:39:27,899 - [54] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51721
+2026-09-05 21:39:27,900 - [54] - INFO  - Game.Base.BaseClient - Disconnecting client (127.0.0.1:51721), received bytes=0
+2026-09-05 21:39:27,946 - [54] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:51722
+2026-09-05 21:44:13,213 - [56] - INFO  - Game.Base.BaseServer - Incoming connection from 127.0.0.1:55724

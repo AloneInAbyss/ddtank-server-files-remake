@@ -3,16 +3,18 @@
 <FLASHSITE value="http://127.0.0.1/flash/"/>
 <BACKUP_FLASHSITE value="http://127.0.0.1/flash/"/>
 <!--  是否使用md5头校验  -->
-<USE_MD5 value="true"/>
-<SITE value="http://gunny.vcdn.vn/"/>
+<USE_MD5 value="false"/>
+<SITE value="http://127.0.0.1/resource/"/>
 <FIRSTPAGE value="http://127.0.0.1/"/>
 <REGISTER value="http://127.0.0.1/"/>
 <REQUEST_PATH value="http://127.0.0.1/Request/"/>
-<LOGIN_PATH value="http://127.0.0.1/server_list.html" siteName="风云弹弹堂"/>
+<LOGIN_PATH value="http://127.0.0.1/index.htm" siteName="风云弹弹堂"/>
 <FILL_PATH value="http://127.0.0.1/pay/"/>
 <WEEKLYSITE value="http://127.0.0.1/flash/"/>
 <POLICY_FILES>
-<file value="http://127.0.0.1/flash/crossdomain.xml"/>
+<file value="http://127.0.0.1/resource/crossdomain.xml"/>
+<file value="xmlsocket://127.0.0.1:843"/>
+<file value="xmlsocket://127.0.0.1:9500"/>
 </POLICY_FILES>
 <FIGHTLIB value="true"/>
 <ALLOW_MULTI value="true"/>
@@ -29,7 +31,7 @@
 <!--  战斗中的箱子显示，1箱子，3粽子，4月饼，5南瓜，6铃铛，7灯笼,8新春灯笼 -->
 <GAME_BOXPIC value="8"/>
 <ISTOPDERIICT value="true"/>
-<COUNT_PATH value="http://assayerhandler.7road.com/"/>
+<COUNT_PATH value=""/>
 <PHP isShow="false" link="false" site="http://baidu.com/" infoPath="http://stest.ddt.kaixin001.com.cn/test/SnsServer/GetSnsUserPortrait?uid={uid}"/>
 <OFFICIAL_SITE value="http://www.7road.com"/>
 <GAME_FORUM value="http://hi.baidu.com"/>
@@ -68,9 +70,9 @@
 -->
 <DISABLE_TASK_ID value="545,382,383,384,385"/>
 <CLIENT_DOWNLOAD value=""/>
-<STATISTICS enable="true"/>
+<STATISTICS enable="false"/>
 <!--  360游戏统计，包括登陆，进入战斗等 -->
-<EXTERNAL_INTERFACE_360 value="http://s.1360.cn/game_event" enable="true"/>
+<EXTERNAL_INTERFACE_360 value="" enable="false"/>
 <!-- 小游戏等级限制开关 -->
 <LITTLEGAMEMINLV value="20"/>
 <!--  交友中心和结婚的开关 -->

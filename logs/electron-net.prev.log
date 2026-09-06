@@ -1,0 +1,364 @@
+[2026-09-06T00:50:11.189Z] pepper=C:\Users\Thiago\AppData\Local\Programs\ddclassico-launcher\resources\flashver\pepflashplayer64.dll
+[2026-09-06T00:50:11.197Z] start=http://127.0.0.1/index.htm
+[2026-09-06T00:50:11.257Z] POLICY 843 error: listen EADDRINUSE: address already in use 0.0.0.0:843
+[2026-09-06T00:50:11.281Z] REQ  GET mainFrame http://127.0.0.1/index.htm
+[2026-09-06T00:50:12.302Z] OK   200 GET mainFrame http://127.0.0.1/index.htm
+[2026-09-06T00:50:12.338Z] REQ  GET stylesheet http://127.0.0.1/css/demo.css
+[2026-09-06T00:50:12.340Z] REQ  GET stylesheet http://127.0.0.1/css/style3.css
+[2026-09-06T00:50:12.341Z] REQ  GET stylesheet http://127.0.0.1/css/animate-custom.css
+[2026-09-06T00:50:12.341Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.all.css
+[2026-09-06T00:50:12.341Z] REQ  GET script http://127.0.0.1/script/jquery-1.7.2.min.js
+[2026-09-06T00:50:12.342Z] REQ  GET script http://127.0.0.1/script/webtoolkit.md5.js
+[2026-09-06T00:50:12.342Z] REQ  GET script http://127.0.0.1/script/jquery.corner.js
+[2026-09-06T00:50:12.342Z] REQ  GET script http://127.0.0.1/script/jquery-ui-1.8.21.custom.js
+[2026-09-06T00:50:12.343Z] REQ  GET script http://127.0.0.1/script/jquery.ui.button.js
+[2026-09-06T00:50:12.349Z] OK   200 GET stylesheet http://127.0.0.1/css/demo.css
+[2026-09-06T00:50:12.350Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.all.css
+[2026-09-06T00:50:12.350Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.base.css
+[2026-09-06T00:50:12.351Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.theme.css
+[2026-09-06T00:50:12.352Z] OK   200 GET stylesheet http://127.0.0.1/css/animate-custom.css
+[2026-09-06T00:50:12.352Z] OK   200 GET script http://127.0.0.1/script/jquery-1.7.2.min.js
+[2026-09-06T00:50:12.353Z] OK   200 GET stylesheet http://127.0.0.1/css/style3.css
+[2026-09-06T00:50:12.354Z] OK   200 GET script http://127.0.0.1/script/webtoolkit.md5.js
+[2026-09-06T00:50:12.355Z] OK   200 GET script http://127.0.0.1/script/jquery.corner.js
+[2026-09-06T00:50:12.356Z] OK   200 GET script http://127.0.0.1/script/jquery-ui-1.8.21.custom.js
+[2026-09-06T00:50:12.357Z] OK   200 GET script http://127.0.0.1/script/jquery.ui.button.js
+[2026-09-06T00:50:12.358Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.base.css
+[2026-09-06T00:50:12.359Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.core.css
+[2026-09-06T00:50:12.359Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.resizable.css
+[2026-09-06T00:50:12.360Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.selectable.css
+[2026-09-06T00:50:12.360Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.accordion.css
+[2026-09-06T00:50:12.360Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.autocomplete.css
+[2026-09-06T00:50:12.361Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.button.css
+[2026-09-06T00:50:12.361Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.dialog.css
+[2026-09-06T00:50:12.362Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.slider.css
+[2026-09-06T00:50:12.362Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.tabs.css
+[2026-09-06T00:50:12.363Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.datepicker.css
+[2026-09-06T00:50:12.363Z] REQ  GET stylesheet http://127.0.0.1/css/base/jquery.ui.progressbar.css
+[2026-09-06T00:50:12.364Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.theme.css
+[2026-09-06T00:50:12.369Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.selectable.css
+[2026-09-06T00:50:12.370Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.resizable.css
+[2026-09-06T00:50:12.370Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.core.css
+[2026-09-06T00:50:12.371Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.accordion.css
+[2026-09-06T00:50:12.372Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.button.css
+[2026-09-06T00:50:12.372Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.autocomplete.css
+[2026-09-06T00:50:12.372Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.dialog.css
+[2026-09-06T00:50:12.373Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.slider.css
+[2026-09-06T00:50:12.373Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.tabs.css
+[2026-09-06T00:50:12.374Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.datepicker.css
+[2026-09-06T00:50:12.375Z] OK   200 GET stylesheet http://127.0.0.1/css/base/jquery.ui.progressbar.css
+[2026-09-06T00:50:12.375Z] REQ  GET image http://127.0.0.1/images/loading.gif
+[2026-09-06T00:50:12.376Z] REQ  GET image http://127.0.0.1/auth/validatecode.ashx
+[2026-09-06T00:50:12.379Z] OK   200 GET image http://127.0.0.1/images/loading.gif
+[2026-09-06T00:50:12.384Z] OK   200 GET image http://127.0.0.1/auth/validatecode.ashx
+[2026-09-06T00:50:12.398Z] REQ  GET image http://127.0.0.1/images/bg.jpg
+[2026-09-06T00:50:12.405Z] REQ  GET other http://127.0.0.1/css/fonts/franchise-bold-webfont.woff
+[2026-09-06T00:50:12.405Z] REQ  GET other http://127.0.0.1/css/fonts/fontomas-webfont.woff
+[2026-09-06T00:50:12.406Z] ERR  net::ERR_CACHE_MISS GET http://127.0.0.1/css/fonts/franchise-bold-webfont.woff
+[2026-09-06T00:50:12.407Z] ERR  net::ERR_CACHE_MISS GET http://127.0.0.1/css/fonts/fontomas-webfont.woff
+[2026-09-06T00:50:12.439Z] REQ  GET other http://127.0.0.1/css/fonts/franchise-bold-webfont.woff
+[2026-09-06T00:50:12.440Z] REQ  GET other http://127.0.0.1/css/fonts/fontomas-webfont.woff
+[2026-09-06T00:50:12.442Z] OK   200 GET image http://127.0.0.1/images/bg.jpg
+[2026-09-06T00:50:12.444Z] OK   200 GET other http://127.0.0.1/css/fonts/franchise-bold-webfont.woff
+[2026-09-06T00:50:12.445Z] OK   200 GET other http://127.0.0.1/css/fonts/fontomas-webfont.woff
+[2026-09-06T00:50:12.455Z] PAGE loaded http://127.0.0.1/index.htm
+[2026-09-06T00:50:12.456Z] CONS[2] %cElectron Security Warning (Insecure Resources) font-weight: bold; This renderer process loads resources using insecure
+  protocols. This exposes users of this app to unnecessary security risks.
+  Consider loading the following resources over HTTPS or FTPS. 
+- http://127.0.0.1/css/demo.css
+- http://127.0.0.1/css/style3.css
+- http://127.0.0.1/css/animate-custom.css
+- http://127.0.0.1/css/base/jquery.ui.all.css
+- http://127.0.0.1/script/jquery-1.7.2.min.js
+- http://127.0.0.1/script/webtoolkit.md5.js
+- http://127.0.0.1/script/jquery.corner.js
+- http://127.0.0.1/script/jquery-ui-1.8.21.custom.js
+- http://127.0.0.1/script/jquery.ui.button.js
+- http://127.0.0.1/images/loading.gif
+- http://127.0.0.1/auth/validatecode.ashx
+- http://127.0.0.1/css/base/jquery.ui.base.css
+- http://127.0.0.1/css/base/jquery.ui.theme.css
+- http://127.0.0.1/css/base/jquery.ui.core.css
+- http://127.0.0.1/css/base/jquery.ui.resizable.css
+- http://127.0.0.1/css/base/jquery.ui.selectable.css
+- http://127.0.0.1/css/base/jquery.ui.accordion.css
+- http://127.0.0.1/css/base/jquery.ui.autocomplete.css
+- http://127.0.0.1/css/base/jquery.ui.button.css
+- http://127.0.0.1/css/base/jquery.ui.dialog.css
+- http://127.0.0.1/css/base/jquery.ui.slider.css
+- http://127.0.0.1/css/base/jquery.ui.tabs.css
+- http://127.0.0.1/css/base/jquery.ui.datepicker.css
+- http://127.0.0.1/css/base/jquery.ui.progressbar.css
+- http://127.0.0.1/images/bg.jpg
+- http://127.0.0.1/css/fonts/franchise-bold-webfont.woff
+- http://127.0.0.1/css/fonts/fontomas-webfont.woff
+  
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged. (electron/js2c/renderer_init.js:111)
+[2026-09-06T00:50:12.457Z] CONS[2] %cElectron Security Warning (Insecure Content-Security-Policy) font-weight: bold; This renderer process has either no Content Security
+    Policy set or a policy with "unsafe-eval" enabled. This exposes users of
+    this app to unnecessary security risks.
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged. (electron/js2c/renderer_init.js:111)
+[2026-09-06T00:50:19.222Z] REQ  GET xhr http://127.0.0.1/checkuser.ashx?username=myaccount&password=061b876db2ac78e2473150f959cb7ae3
+[2026-09-06T00:50:19.224Z] REQ  GET xhr http://127.0.0.1/checkuser.ashx?username=myaccount&password=061b876db2ac78e2473150f959cb7ae3
+[2026-09-06T00:50:19.236Z] OK   200 GET xhr http://127.0.0.1/checkuser.ashx?username=myaccount&password=061b876db2ac78e2473150f959cb7ae3
+[2026-09-06T00:50:19.239Z] REQ  GET mainFrame http://127.0.0.1/loading.htm
+[2026-09-06T00:50:19.251Z] OK   200 GET mainFrame http://127.0.0.1/loading.htm
+[2026-09-06T00:50:19.251Z] ERR  net::ERR_ABORTED GET http://127.0.0.1/checkuser.ashx?username=myaccount&password=061b876db2ac78e2473150f959cb7ae3
+[2026-09-06T00:50:19.446Z] REQ  GET stylesheet http://127.0.0.1/css/style.css
+[2026-09-06T00:50:19.447Z] REQ  GET script http://127.0.0.1/script/modernizr.custom.63321.js
+[2026-09-06T00:50:19.448Z] REQ  GET stylesheet http://127.0.0.1/css/thickbox.css
+[2026-09-06T00:50:19.455Z] OK   200 GET stylesheet http://127.0.0.1/css/style.css
+[2026-09-06T00:50:19.455Z] OK   200 GET script http://127.0.0.1/script/modernizr.custom.63321.js
+[2026-09-06T00:50:19.456Z] REQ  GET stylesheet http://127.0.0.1/css/font-awesome.css
+[2026-09-06T00:50:19.457Z] OK   200 GET stylesheet http://127.0.0.1/css/thickbox.css
+[2026-09-06T00:50:19.460Z] OK   200 GET stylesheet http://127.0.0.1/css/font-awesome.css
+[2026-09-06T00:50:19.471Z] REQ  GET image http://127.0.0.1/images/bg_all.jpg
+[2026-09-06T00:50:19.476Z] REQ  GET xhr http://127.0.0.1/LoginGame.aspx
+[2026-09-06T00:50:19.486Z] OK   200 GET image http://127.0.0.1/images/bg_all.jpg
+[2026-09-06T00:50:19.488Z] PAGE loaded http://127.0.0.1/loading.htm
+[2026-09-06T00:50:19.489Z] CONS[2] %cElectron Security Warning (Insecure Resources) font-weight: bold; This renderer process loads resources using insecure
+  protocols. This exposes users of this app to unnecessary security risks.
+  Consider loading the following resources over HTTPS or FTPS. 
+- http://127.0.0.1/css/style.css
+- http://127.0.0.1/script/jquery-1.7.2.min.js
+- http://127.0.0.1/script/modernizr.custom.63321.js
+- http://127.0.0.1/css/thickbox.css
+- http://127.0.0.1/images/loading.gif
+- http://127.0.0.1/css/font-awesome.css
+- http://127.0.0.1/images/bg_all.jpg
+  
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged. (electron/js2c/renderer_init.js:111)
+[2026-09-06T00:50:19.490Z] CONS[2] %cElectron Security Warning (Insecure Content-Security-Policy) font-weight: bold; This renderer process has either no Content Security
+    Policy set or a policy with "unsafe-eval" enabled. This exposes users of
+    this app to unnecessary security risks.
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged. (electron/js2c/renderer_init.js:111)
+[2026-09-06T00:50:19.967Z] OK   200 GET xhr http://127.0.0.1/LoginGame.aspx
+[2026-09-06T00:50:19.970Z] REQ  GET subFrame http://127.0.0.1/playgame.aspx?user=myaccount&key=DF843500-B96B-4FCD-BBB6-9DAEE89FDF90
+[2026-09-06T00:50:19.983Z] OK   200 GET subFrame http://127.0.0.1/playgame.aspx?user=myaccount&key=DF843500-B96B-4FCD-BBB6-9DAEE89FDF90
+[2026-09-06T00:50:19.991Z] REQ  GET script http://127.0.0.1/script/dandantang.js
+[2026-09-06T00:50:19.992Z] REQ  GET script http://127.0.0.1/script/rightClick.js
+[2026-09-06T00:50:19.993Z] REQ  GET script http://127.0.0.1/script/swfobject.js
+[2026-09-06T00:50:19.993Z] REQ  GET script http://127.0.0.1/script/isSafeFlash.js
+[2026-09-06T00:50:19.997Z] OK   200 GET script http://127.0.0.1/script/rightClick.js
+[2026-09-06T00:50:19.998Z] OK   200 GET script http://127.0.0.1/script/dandantang.js
+[2026-09-06T00:50:19.999Z] OK   200 GET script http://127.0.0.1/script/swfobject.js
+[2026-09-06T00:50:19.999Z] OK   200 GET script http://127.0.0.1/script/isSafeFlash.js
+[2026-09-06T00:50:20.203Z] REQ  GET other http://127.0.0.1/flash/DDT_Loadin2.swf?user=myaccount&key=DF843500-B96B-4FCD-BBB6-9DAEE89FDF90&config=http://127.0.0.1/flash/config.xml
+[2026-09-06T00:50:20.218Z] OK   200 GET other http://127.0.0.1/flash/DDT_Loadin2.swf?user=myaccount&key=DF843500-B96B-4FCD-BBB6-9DAEE89FDF90&config=http://127.0.0.1/flash/config.xml
+[2026-09-06T00:50:20.486Z] REQ  GET other http://127.0.0.1/flash/config.xml?rnd=0.5531198219396174
+[2026-09-06T00:50:20.495Z] OK   200 GET other http://127.0.0.1/flash/config.xml?rnd=0.5531198219396174
+[2026-09-06T00:50:20.530Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/xml/xml.png?lv=17
+[2026-09-06T00:50:20.531Z] REQ  GET other http://127.0.0.1/flash/2.png?lv=17
+[2026-09-06T00:50:20.534Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/xml/xml.png?lv=17
+[2026-09-06T00:50:20.567Z] OK   200 GET other http://127.0.0.1/flash/2.png?lv=17
+[2026-09-06T00:50:21.229Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/levelreward.xml?rnd=0.5531198219396174
+[2026-09-06T00:50:21.230Z] REQ  GET other http://127.0.0.1/resource/flash/characterDefine.xml?rnd=0.4454316250048578
+[2026-09-06T00:50:21.231Z] REQ  GET other http://127.0.0.1/request/fightspirittemplatelist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:50:21.231Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/language.txt?rnd=0.5531198219396174
+[2026-09-06T00:50:21.231Z] REQ  GET other http://127.0.0.1/resource/crossdomain.xml
+[2026-09-06T00:50:21.236Z] OK   200 GET other http://127.0.0.1/request/fightspirittemplatelist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:50:21.250Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/levelreward.xml?rnd=0.5531198219396174
+[2026-09-06T00:50:21.251Z] OK   200 GET other http://127.0.0.1/resource/flash/characterDefine.xml?rnd=0.4454316250048578
+[2026-09-06T00:50:21.251Z] OK   200 GET other http://127.0.0.1/resource/crossdomain.xml
+[2026-09-06T00:50:21.252Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/language.txt?rnd=0.5531198219396174
+[2026-09-06T00:50:21.276Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/zhancode.txt?rnd=0.5531198219396174
+[2026-09-06T00:50:21.277Z] REQ  GET other http://127.0.0.1/crossdomain.xml
+[2026-09-06T00:50:21.281Z] OK   200 GET other http://127.0.0.1/crossdomain.xml
+[2026-09-06T00:50:21.281Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/zhancode.txt?rnd=0.5531198219396174
+[2026-09-06T00:50:21.327Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/expression.swf?lv=17
+[2026-09-06T00:50:21.331Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/expression.swf?lv=17
+[2026-09-06T00:50:21.363Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/roadcomponent.swf?lv=17
+[2026-09-06T00:50:21.367Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/roadcomponent.swf?lv=17
+[2026-09-06T00:50:21.394Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/coreiconandtip.swf?lv=17
+[2026-09-06T00:50:21.398Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/coreiconandtip.swf?lv=17
+[2026-09-06T00:50:21.457Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/corescalebitmap.swf?lv=17
+[2026-09-06T00:50:21.482Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/corescalebitmap.swf?lv=17
+[2026-09-06T00:50:21.554Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/corei.swf?lv=17
+[2026-09-06T00:50:21.592Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/corei.swf?lv=17
+[2026-09-06T00:50:21.628Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/coreii.swf?lv=17
+[2026-09-06T00:50:21.655Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/coreii.swf?lv=17
+[2026-09-06T00:50:21.691Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/chat.swf?lv=17
+[2026-09-06T00:50:21.717Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/chat.swf?lv=17
+[2026-09-06T00:50:21.751Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/playertip.swf?lv=17
+[2026-09-06T00:50:21.755Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/playertip.swf?lv=17
+[2026-09-06T00:50:21.781Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/levelicon.swf?lv=17
+[2026-09-06T00:50:21.785Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/levelicon.swf?lv=17
+[2026-09-06T00:50:21.845Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/enthrall.swf?lv=17
+[2026-09-06T00:50:21.849Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/enthrall.swf?lv=17
+[2026-09-06T00:50:21.875Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/hall.swf?lv=17
+[2026-09-06T00:50:21.905Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/hall.swf?lv=17
+[2026-09-06T00:50:21.938Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/toolbar.swf?lv=17
+[2026-09-06T00:50:21.942Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/toolbar.swf?lv=17
+[2026-09-06T00:50:21.954Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/quest.swf?lv=17
+[2026-09-06T00:50:21.958Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/quest.swf?lv=17
+[2026-09-06T00:50:22.001Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/awardsystem.swf?lv=17
+[2026-09-06T00:50:22.007Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/awardsystem.swf?lv=17
+[2026-09-06T00:50:22.070Z] REQ  GET other http://127.0.0.1/request/activelist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:50:22.071Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/academycommon.swf?lv=17
+[2026-09-06T00:50:22.077Z] OK   200 GET other http://127.0.0.1/request/activelist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:50:22.091Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/academycommon.swf?lv=17
+[2026-09-06T00:50:22.126Z] REQ  GET other http://127.0.0.1/request/templatealllist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:50:22.127Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/ddtcorescalebitmap.swf?lv=17
+[2026-09-06T00:50:22.133Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/ddtcorescalebitmap.swf?lv=17
+[2026-09-06T00:50:22.135Z] OK   200 GET other http://127.0.0.1/request/templatealllist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:50:22.300Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/ddthallicon.swf?lv=17
+[2026-09-06T00:50:22.329Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/ddthallicon.swf?lv=17
+[2026-09-06T00:50:22.364Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/wonderfulactivity.swf?lv=17
+[2026-09-06T00:50:22.388Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/wonderfulactivity.swf?lv=17
+[2026-09-06T00:50:34.037Z] REQ  GET other http://127.0.0.1/request/loaditemscategory.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:50:34.045Z] OK   200 GET other http://127.0.0.1/request/loaditemscategory.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:50:34.549Z] REQ  GET other http://127.0.0.1/request/shopitemlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:50:34.554Z] OK   200 GET other http://127.0.0.1/request/shopitemlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:39.630Z] REQ  GET other http://127.0.0.1/request/cardupdatecondition.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:39.635Z] OK   200 GET other http://127.0.0.1/request/cardupdatecondition.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:40.144Z] REQ  GET other http://127.0.0.1/request/cardupdateinfo.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:40.150Z] OK   200 GET other http://127.0.0.1/request/cardupdateinfo.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:40.646Z] REQ  GET other http://127.0.0.1/request/cardinfolist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:40.661Z] OK   200 GET other http://127.0.0.1/request/cardinfolist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:41.159Z] REQ  GET other http://127.0.0.1/request/cardbufflist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:41.173Z] OK   200 GET other http://127.0.0.1/request/cardbufflist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:41.673Z] REQ  GET other http://127.0.0.1/request/consortiabuffertemp.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:41.686Z] OK   200 GET other http://127.0.0.1/request/consortiabuffertemp.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:42.186Z] REQ  GET other http://127.0.0.1/request/serverlist.ashx?rnd=0%2E16656174324452877
+[2026-09-06T00:51:42.190Z] OK   200 GET other http://127.0.0.1/request/serverlist.ashx?rnd=0%2E16656174324452877
+[2026-09-06T00:51:42.701Z] REQ  GET other http://127.0.0.1/request/loginselectlist.ashx?username=myaccount
+[2026-09-06T00:51:42.738Z] OK   200 GET other http://127.0.0.1/request/loginselectlist.ashx?username=myaccount
+[2026-09-06T00:51:43.215Z] REQ  GET other http://127.0.0.1/request/questlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:43.228Z] OK   200 GET other http://127.0.0.1/request/questlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:43.731Z] REQ  GET other http://127.0.0.1/request/achievementlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:43.736Z] OK   200 GET other http://127.0.0.1/request/achievementlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:44.243Z] REQ  GET other http://127.0.0.1/request/loadallquestions.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:44.255Z] OK   200 GET other http://127.0.0.1/request/loadallquestions.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:44.753Z] REQ  GET other http://127.0.0.1/request/loaduserbox.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:44.757Z] OK   200 GET other http://127.0.0.1/request/loaduserbox.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:45.268Z] REQ  GET other http://127.0.0.1/request/loadboxtemp.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:45.273Z] OK   200 GET other http://127.0.0.1/request/loadboxtemp.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:45.783Z] REQ  GET other http://127.0.0.1/request/dailyawardlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:45.787Z] OK   200 GET other http://127.0.0.1/request/dailyawardlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:46.299Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/movingnotification.txt?rnd=0.5531198219396174
+[2026-09-06T00:51:46.311Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/movingnotification.txt?rnd=0.5531198219396174
+[2026-09-06T00:51:46.810Z] REQ  GET other http://127.0.0.1/request/shopgoodsshowlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:51:46.823Z] OK   200 GET other http://127.0.0.1/request/shopgoodsshowlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:19.697Z] REQ  GET other http://127.0.0.1/request/loadmapsitems.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:19.714Z] OK   200 GET other http://127.0.0.1/request/loadmapsitems.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:20.209Z] REQ  GET other http://127.0.0.1/request/loadpveitems.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:20.222Z] OK   200 GET other http://127.0.0.1/request/loadpveitems.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:20.710Z] REQ  GET other http://127.0.0.1/request/mapserverlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:20.724Z] OK   200 GET other http://127.0.0.1/request/mapserverlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:21.221Z] REQ  GET other http://127.0.0.1/request/levellist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:21.226Z] OK   200 GET other http://127.0.0.1/request/levellist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:21.724Z] REQ  GET other http://127.0.0.1/request/bombconfig.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:21.740Z] OK   200 GET other http://127.0.0.1/request/bombconfig.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:22.240Z] REQ  GET other http://127.0.0.1/request/balllist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:22.253Z] OK   200 GET other http://127.0.0.1/request/balllist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:22.754Z] REQ  GET other http://127.0.0.1/request/exerciseinfolist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:22.760Z] OK   200 GET other http://127.0.0.1/request/exerciseinfolist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:23.254Z] REQ  GET other http://127.0.0.1/request/consortiabadgeconfig.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:23.258Z] OK   200 GET other http://127.0.0.1/request/consortiabadgeconfig.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:23.767Z] REQ  GET other http://127.0.0.1/request/dailyleagueaward.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:23.771Z] OK   200 GET other http://127.0.0.1/request/dailyleagueaward.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:24.280Z] REQ  GET other http://127.0.0.1/request/dailyleaguelevel.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:24.288Z] OK   200 GET other http://127.0.0.1/request/dailyleaguelevel.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:24.795Z] REQ  GET other http://127.0.0.1/request/goldequiptemplateload.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:24.811Z] OK   200 GET other http://127.0.0.1/request/goldequiptemplateload.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:25.304Z] REQ  GET other http://127.0.0.1/request/serverconfig.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:25.317Z] OK   200 GET other http://127.0.0.1/request/serverconfig.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:25.820Z] REQ  GET other http://127.0.0.1/request/eventrewarditemlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:25.827Z] OK   200 GET other http://127.0.0.1/request/eventrewarditemlist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:26.332Z] REQ  GET other http://127.0.0.1/request/pettemplateinfo.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:26.346Z] OK   200 GET other http://127.0.0.1/request/pettemplateinfo.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:26.846Z] REQ  GET other http://127.0.0.1/request/petskillinfo.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:26.861Z] OK   200 GET other http://127.0.0.1/request/petskillinfo.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:27.360Z] REQ  GET other http://127.0.0.1/request/petconfiginfo.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:27.373Z] OK   200 GET other http://127.0.0.1/request/petconfiginfo.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:27.874Z] REQ  GET other http://127.0.0.1/request/petlevelinfo.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:27.887Z] OK   200 GET other http://127.0.0.1/request/petlevelinfo.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:28.389Z] REQ  GET other http://127.0.0.1/request/loadpetmoeproperty.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:28.403Z] OK   200 GET other http://127.0.0.1/request/loadpetmoeproperty.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:28.901Z] REQ  GET other http://127.0.0.1/request/loadstrengthexp.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:28.914Z] OK   200 GET other http://127.0.0.1/request/loadstrengthexp.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:29.412Z] REQ  GET other http://127.0.0.1/request/itemstrengthengoodsinfo.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:29.420Z] OK   200 GET other http://127.0.0.1/request/itemstrengthengoodsinfo.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:29.927Z] REQ  GET other http://127.0.0.1/request/loadpetfightproperty.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:29.940Z] OK   200 GET other http://127.0.0.1/request/loadpetfightproperty.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:30.430Z] REQ  GET other http://127.0.0.1/request/loadpetstarexp.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:30.435Z] OK   200 GET other http://127.0.0.1/request/loadpetstarexp.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:30.943Z] REQ  GET other http://127.0.0.1/request/suittemplateinfolist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:30.948Z] OK   200 GET other http://127.0.0.1/request/suittemplateinfolist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:31.456Z] REQ  GET other http://127.0.0.1/request/suitpartequipinfolist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:31.469Z] OK   200 GET other http://127.0.0.1/request/suitpartequipinfolist.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:31.970Z] REQ  GET other http://127.0.0.1/request/loginawarditemtemplate.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:31.974Z] OK   200 GET other http://127.0.0.1/request/loginawarditemtemplate.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:32.483Z] REQ  GET other http://127.0.0.1/request/newtitleinfo.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:32.497Z] OK   200 GET other http://127.0.0.1/request/newtitleinfo.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:32.986Z] REQ  GET other http://127.0.0.1/request/activitysystemitems.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:32.998Z] OK   200 GET other http://127.0.0.1/request/activitysystemitems.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:33.500Z] REQ  GET other http://127.0.0.1/request/clothpropertytemplateinfo.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:33.504Z] OK   200 GET other http://127.0.0.1/request/clothpropertytemplateinfo.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:34.014Z] REQ  GET other http://127.0.0.1/request/clothgrouptemplateinfo.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:34.027Z] OK   200 GET other http://127.0.0.1/request/clothgrouptemplateinfo.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:34.528Z] REQ  GET other http://127.0.0.1/request/toteminfo.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:34.541Z] OK   200 GET other http://127.0.0.1/request/toteminfo.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:35.042Z] REQ  GET other http://127.0.0.1/request/totemhonortemplate.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:35.055Z] OK   200 GET other http://127.0.0.1/request/totemhonortemplate.xml?rnd=0.5531198219396174
+[2026-09-06T00:52:35.558Z] REQ  GET other http://127.0.0.1/request/setsbuildtemp.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:35.562Z] OK   200 GET other http://127.0.0.1/request/setsbuildtemp.xml?rnd=0.5531198219396174rnd=0%2E5531198219396174
+[2026-09-06T00:52:36.073Z] REQ  GET other http://127.0.0.1/request/login.ashx?key=8a4f913b39122fab2aec5b2513930c30&rid=&v=5498628&site=&p=E8R14aEnhJmOavMiehX9r3U%2Bh%2Fh2VtGyIDs4nnsB9P8JfZ1J9YqpWsU94tJ5Y60f%2BSrxRR7djADRhiev8UnMIob1n%2FTBOIhAQREUA5FOXe194UPT%2BHer%2BOUNxp9A6bnrUExhlmYv4MJBMMo0rX8SiifI9sQT44cWKX69HHYs2fE%3D&selfid=NaN
+[2026-09-06T00:52:36.075Z] REQ  GET other http://127.0.0.1/request/fightlabdropitemlist.xml?key=8a4f913b39122fab2aec5b2513930c30selfid=NaN&rnd=0.5531198219396174key=8a4f913b39122fab2aec5b2513930c30&selfid=NaN&rnd=0%2E5531198219396174
+[2026-09-06T00:52:36.080Z] OK   200 GET other http://127.0.0.1/request/fightlabdropitemlist.xml?key=8a4f913b39122fab2aec5b2513930c30selfid=NaN&rnd=0.5531198219396174key=8a4f913b39122fab2aec5b2513930c30&selfid=NaN&rnd=0%2E5531198219396174
+[2026-09-06T00:52:36.166Z] OK   200 GET other http://127.0.0.1/request/login.ashx?key=8a4f913b39122fab2aec5b2513930c30&rid=&v=5498628&site=&p=E8R14aEnhJmOavMiehX9r3U%2Bh%2Fh2VtGyIDs4nnsB9P8JfZ1J9YqpWsU94tJ5Y60f%2BSrxRR7djADRhiev8UnMIob1n%2FTBOIhAQREUA5FOXe194UPT%2BHer%2BOUNxp9A6bnrUExhlmYv4MJBMMo0rX8SiifI9sQT44cWKX69HHYs2fE%3D&selfid=NaN
+[2026-09-06T00:52:36.586Z] REQ  GET other http://127.0.0.1/resource/image/equip/f/suits/default/1/show.png?lv=17
+[2026-09-06T00:52:36.587Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/glass/default/1/show.png?lv=17
+[2026-09-06T00:52:36.589Z] OK   200 GET other http://127.0.0.1/resource/image/equip/f/suits/default/1/show.png?lv=17
+[2026-09-06T00:52:36.590Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/glass/default/2/show.png?lv=17
+[2026-09-06T00:52:36.591Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/glass/default/1/show.png?lv=17
+[2026-09-06T00:52:36.592Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/head/default/1/show.png?lv=17
+[2026-09-06T00:52:36.595Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/head/default/1/show.png?lv=17
+[2026-09-06T00:52:36.596Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/glass/default/2/show.png?lv=17
+[2026-09-06T00:52:36.597Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/head/default/2/show.png?lv=17
+[2026-09-06T00:52:36.598Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/eff/default/1/show.png?lv=17
+[2026-09-06T00:52:36.600Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/head/default/2/show.png?lv=17
+[2026-09-06T00:52:36.601Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/eff/default/2/show.png?lv=17
+[2026-09-06T00:52:36.602Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/eff/default/1/show.png?lv=17
+[2026-09-06T00:52:36.602Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/trainer.swf?lv=17
+[2026-09-06T00:52:36.604Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/eff/default/2/show.png?lv=17
+[2026-09-06T00:52:36.614Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/trainer.swf?lv=17
+[2026-09-06T00:52:37.117Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/cloth/default/1/show.png?lv=17
+[2026-09-06T00:52:37.118Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/cloth/default/2/show.png?lv=17
+[2026-09-06T00:52:37.129Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/cloth/default/2/show.png?lv=17
+[2026-09-06T00:52:37.130Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/cloth/default/1/show.png?lv=17
+[2026-09-06T00:52:37.131Z] REQ  GET other http://127.0.0.1/flash/ui/vietnam/swf/trainerui.swf?lv=17
+[2026-09-06T00:52:37.132Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/cloth/default/3/show.png?lv=17
+[2026-09-06T00:52:37.135Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/cloth/default/3/show.png?lv=17
+[2026-09-06T00:52:37.135Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/hair/default/1/b/show.png?lv=17
+[2026-09-06T00:52:37.138Z] OK   200 GET other http://127.0.0.1/flash/ui/vietnam/swf/trainerui.swf?lv=17
+[2026-09-06T00:52:37.139Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/hair/default/2/b/show.png?lv=17
+[2026-09-06T00:52:37.140Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/hair/default/1/b/show.png?lv=17
+[2026-09-06T00:52:37.141Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/face/default/1/show.png?lv=17
+[2026-09-06T00:52:37.145Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/face/default/1/show.png?lv=17
+[2026-09-06T00:52:37.146Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/hair/default/2/b/show.png?lv=17
+[2026-09-06T00:52:37.146Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/face/default/2/show.png?lv=17
+[2026-09-06T00:52:37.149Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/face/default/2/show.png?lv=17
+[2026-09-06T00:52:37.643Z] REQ  GET other http://127.0.0.1/resource/image/equip/m/face/default/3/show.png?lv=17
+[2026-09-06T00:52:37.644Z] REQ  GET other http://127.0.0.1/resource/image/arm/axe/1/0/show.png?lv=17
+[2026-09-06T00:52:37.649Z] OK   200 GET other http://127.0.0.1/resource/image/equip/m/face/default/3/show.png?lv=17
+[2026-09-06T00:52:37.650Z] OK   200 GET other http://127.0.0.1/resource/image/arm/axe/1/0/show.png?lv=17
+[2026-09-06T00:52:37.650Z] REQ  GET other http://127.0.0.1/resource/image/equip/wing/default/wings.swf?lv=17
+[2026-09-06T00:52:37.654Z] OK   200 GET other http://127.0.0.1/resource/image/equip/wing/default/wings.swf?lv=17
+[2026-09-06T00:52:38.173Z] CONS[1] FLASH_INTERRUPT http://127.0.0.1/index.htm Xin lỗi, kết nối thất bại, hãy thử lại sau! (http://127.0.0.1/playgame.aspx?user=myaccount&key=DF843500-B96B-4FCD-BBB6-9DAEE89FDF90:17)

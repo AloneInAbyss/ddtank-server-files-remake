@@ -39,13 +39,15 @@ namespace Tank.Flash
       
         protected void Page_Load(object sender, EventArgs e)
         {
-            if ((Session["username"] == null) && string.IsNullOrEmpty(Session["username"].ToString()))
+            if (Session["username"] == null || string.IsNullOrEmpty(Session["username"].ToString()))
             {
                 Response.Redirect(LoginOnUrl, false);
+                return;
             }
             else if (!LoadingManager.Login(Session["username"].ToString(), Session["password"].ToString()))
             {
                 Response.Redirect(LoginOnUrl, false);
+                return;
             }
             string result = "";
             try
@@ -53,15 +55,10 @@ namespace Tank.Flash
                 string name = Session["username"].ToString();
                 string password = Guid.NewGuid().ToString();
                 string time = BaseInterface.ConvertDateTimeInt(DateTime.Now).ToString();
-                string key = string.Empty;
-                
-                if (string.IsNullOrEmpty(key))
-                {
-                    key = BaseInterface.GetLoginKey;
-                }
-                string v = BaseInterface.md5(name + password + time.ToString() + key);
-                string Url = (BaseInterface.LoginUrl + "?content=" + HttpUtility.UrlEncode(name + "|" + password +"|srv|login" + "|" + time.ToString() + "|" + v));
-                result = BaseInterface.RequestContent(Url);
+                string key = BaseInterface.GetLoginKey;
+                string v = BaseInterface.md5(name + password + time + key);
+                string Url = (BaseInterface.LoginUrl + "?content=" + HttpUtility.UrlEncode(name + "|" + password + "|" + time + "|" + v));
+                result = BaseInterface.RequestContent(Url).Trim();
                 if (result == "0")
                 {
                     string url = FlashUrl + "?user=" + HttpUtility.UrlEncode(name) + "&key=" + HttpUtility.UrlEncode(password.ToUpper());     

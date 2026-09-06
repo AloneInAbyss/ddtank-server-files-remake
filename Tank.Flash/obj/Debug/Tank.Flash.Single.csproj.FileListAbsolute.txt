@@ -1,0 +1,2 @@
+E:\Arquivos\Projetos\DDTank41\Tank.Flash\obj\Debug\Tank.Flash.Single.csproj.AssemblyReference.cache
+E:\Arquivos\Projetos\DDTank41\Tank.Flash\obj\Debug\Tank.Flash.Single.csproj.CoreCompileInputs.cache

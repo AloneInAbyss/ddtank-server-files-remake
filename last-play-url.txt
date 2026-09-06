@@ -1,0 +1,1 @@
+http://127.0.0.1/flash/DDT_Loadin2.swf?v=2&user=myaccount&key=57F69911-40D0-4462-966E-A81F83459A6B&config=http://127.0.0.1/flash/config.xml
