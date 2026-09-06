@@ -1,1 +1,7 @@
 resource/
+
+# Logs de servidor e diagnóstico local (crescem a cada boot e travam a UI do Git)
+*.log
+*.log.*
+logs/
+**/logs/
