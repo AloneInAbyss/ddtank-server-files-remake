@@ -8,6 +8,8 @@
 
 **O que foi instalado neste PC, o boot até o lobby (5/set/2026) e como desfazer:** [`DOCUMENTACAO-AMBIENTE-LOCAL.md`](DOCUMENTACAO-AMBIENTE-LOCAL.md).
 
+**Servidor Center (coordenação, sessão, WCF, timers):** [`DOCUMENTACAO-CENTER.md`](DOCUMENTACAO-CENTER.md).
+
 Este documento explica, do zero, o que é este repositório, como um servidor de DDTank funciona, o que já existe aqui e o que ainda falta para o jogo realmente abrir.
 
 Você **não precisa saber programar** para entender o texto. Quando um termo técnico aparecer, ele é explicado na hora.
@@ -158,21 +160,14 @@ Não existe pasta `resource/` neste repositório. Isso é o buraco mais grave pa
 
 ### 5.1 Center.Service — o “cérebro coordenador”
 
+Detalhe (pastas, boot, sessão, WCF, timers, o que mudar): [`DOCUMENTACAO-CENTER.md`](DOCUMENTACAO-CENTER.md).
+
 - **Executável:** `Center.Service\bin\Debug\net48\Center.Service.exe`
-- **Como sobe:** ao abrir, se você não passar argumento, ele assume `--start`.
-- **Portas:**
-  - **9202** — TCP. O Game Server se conecta aqui (configurado como `LoginServerPort`).
-  - **2008** — HTTP do WCF (`http://127.0.0.1:2008/CenterService/`).
-  - **2009** — WCF `net.tcp`. Usado por `Tank.Request`, `Road.Service` e `GameAdmin`.
+- **Como sobe:** sem argumento assume `--start` → `CenterServer.Start()`.
+- **Portas:** **9202** TCP (Road), **2008** HTTP WCF, **2009** `net.tcp` (`Tank.Request`, Road via `Bussiness`, `GameAdmin`).
+- **Não** é onde o jogador joga. Coordena canais, sessão de login, correio/leilão/guilda e avisos.
 
-Ele **não** é o lugar onde o jogador “joga”. Ele:
-
-- registra quais canais (Game Servers) estão online;
-- varre periodicamente correio, leilão e guildas;
-- publica avisos do sistema;
-- controla prêmio diário e algumas flags globais.
-
-Configuração: `Center.Service\App.config`.
+Configuração: `Center.Service\App.config`. League / World Boss no timer do Center estão **comentados** — não religar sem teste.
 
 ### 5.2 Road.Service — o canal onde o jogador fica
 
@@ -619,6 +614,7 @@ Isso **não** é um servidor “oficial 4.1 lacrado”. É um fork comunitário 
 ## 16. Arquivos-chave se for explorar o código
 
 ```
+DOCUMENTACAO-CENTER.md
 Center.Service\Program.cs
 Center.Server\CenterServer.cs
 Road.Service\Program.cs

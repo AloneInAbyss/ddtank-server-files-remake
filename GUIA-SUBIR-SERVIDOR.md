@@ -1,6 +1,6 @@
 # Guia: subir o DDTank neste PC
 
-Guia só de **fazer o jogo abrir**. Não explica a arquitetura (isso está no [`DOCUMENTACAO.md`](DOCUMENTACAO.md)).
+Guia só de **fazer o jogo abrir**. Arquitetura: [`DOCUMENTACAO.md`](DOCUMENTACAO.md). O que o Center faz: [`DOCUMENTACAO-CENTER.md`](DOCUMENTACAO-CENTER.md).
 
 Raiz do projeto (ajuste se a sua for outra):
 

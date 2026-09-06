@@ -4,7 +4,7 @@ Com os arquivos que temos (servidor 4.1 em C#, cliente Flash, bancos `.bak` e a 
 
 O limite é: cada tipo de mudança mora num lugar diferente. Algumas pedem ferramenta que ainda não está no fluxo do dia a dia (compilador Flash, edição calma do SQL).
 
-Documentos irmãos: [`DOCUMENTACAO.md`](DOCUMENTACAO.md), [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md).
+Documentos irmãos: [`DOCUMENTACAO.md`](DOCUMENTACAO.md), [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md), [`DOCUMENTACAO-CENTER.md`](DOCUMENTACAO-CENTER.md) (o que o servidor Center faz e o que dá para mudar nele).
 
 ---
 
