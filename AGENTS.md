@@ -13,6 +13,9 @@ Documentação humana (não reescrever o que já está aqui):
 | [`DOCUMENTACAO-MODIFICACOES.md`](DOCUMENTACAO-MODIFICACOES.md) | Onde cada tipo de mudança mora |
 | [`DOCUMENTACAO-RESOURCE.md`](DOCUMENTACAO-RESOURCE.md) | Pacote gráfico `resource/` |
 | [`DOCUMENTACAO-LAUNCHER.md`](DOCUMENTACAO-LAUNCHER.md) | Launcher (referência; não copiar CDN de terceiros) |
+| [`DOCUMENTACAO-CENTER.md`](DOCUMENTACAO-CENTER.md) | Servidor Center: pastas, portas, sessão, WCF, timers |
+| [`DOCUMENTACAO-ROAD.md`](DOCUMENTACAO-ROAD.md) | Servidor Road (canal): lobby, handlers, salas, Center/Fighting |
+| [`DOCUMENTACAO-FIGHTING.md`](DOCUMENTACAO-FIGHTING.md) | Servidor Fighting: fila Match, pairing, proxy |
 
 ---
 

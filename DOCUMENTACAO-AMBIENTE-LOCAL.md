@@ -2,7 +2,7 @@
 
 Texto para quem nunca usou SQL Server, IIS ou “servidor de jogo”. Não é um manual de programação.
 
-Cobre **só o que aconteceu nesta máquina**. Documentos irmãos: [`DOCUMENTACAO.md`](DOCUMENTACAO.md), [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md), [`DOCUMENTACAO-LAUNCHER.md`](DOCUMENTACAO-LAUNCHER.md).
+Cobre **só o que aconteceu nesta máquina**. Documentos irmãos: [`DOCUMENTACAO.md`](DOCUMENTACAO.md), [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md), [`DOCUMENTACAO-LAUNCHER.md`](DOCUMENTACAO-LAUNCHER.md), [`DOCUMENTACAO-CENTER.md`](DOCUMENTACAO-CENTER.md), [`DOCUMENTACAO-ROAD.md`](DOCUMENTACAO-ROAD.md), [`DOCUMENTACAO-FIGHTING.md`](DOCUMENTACAO-FIGHTING.md).
 
 **Nada disso foi commitado no git** (configs têm senha `sa`). Não faça commit dessas connection strings.
 

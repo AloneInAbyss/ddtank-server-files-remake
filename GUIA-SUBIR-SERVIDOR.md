@@ -1,6 +1,6 @@
 # Guia: subir o DDTank neste PC
 
-Guia só de **fazer o jogo abrir**. Não explica a arquitetura (isso está no [`DOCUMENTACAO.md`](DOCUMENTACAO.md)).
+Guia só de **fazer o jogo abrir**. Arquitetura: [`DOCUMENTACAO.md`](DOCUMENTACAO.md). Os três processos: [`DOCUMENTACAO-CENTER.md`](DOCUMENTACAO-CENTER.md), [`DOCUMENTACAO-ROAD.md`](DOCUMENTACAO-ROAD.md), [`DOCUMENTACAO-FIGHTING.md`](DOCUMENTACAO-FIGHTING.md).
 
 Raiz do projeto (ajuste se a sua for outra):
 
