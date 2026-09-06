@@ -157,7 +157,11 @@ SQL (item/quest) é **outra frente**. Não misturar no mesmo PR do `language.txt
 
 ## 6. Ordem dos lotes
 
-Infra primeiro (pastas, sem traduzir frase): `Languages/` na raiz + `ui/pt-BR/` cópia de `ui/vietnam/`. Vietnamita continua o locale ativo.
+Infra (já no repo):
+
+- Fonte do servidor: `Languages/Language-vn.txt` (canônico) e `Languages/Language-pt-BR.txt`. Ao ligar o locale, copiar o pt-BR para `bin\Languages\` de Road, Fighting, Center, Request, Flash e GameAdmin, e apontar `LanguagePath`.
+- Cliente: `Source Flash/FlashSV1/ui/pt-BR/` (`language.txt`, `xml/`, `movingnotification.txt`). SWF/img **não** vão no Git (~60 MB duplicados); no PC rode `tools/setup-locale-pt-BR.ps1` (ou o `.sh`) para copiar de `ui/vietnam/`.
+- Vietnamita (`ui/vietnam/`, `Language-vn.txt`) continua no disco. O locale ativo só muda quando `<LANGUAGE>` / `LanguagePath` apontam para pt-BR.
 
 Depois o Flash, que é o que o jogador vê:
 

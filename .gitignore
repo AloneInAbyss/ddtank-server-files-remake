@@ -5,3 +5,7 @@ resource/
 *.log.*
 logs/
 **/logs/
+
+# SWF/img do locale pt-BR: cópia de ui/vietnam (não versionar duplicata de ~60 MB)
+Source Flash/FlashSV1/ui/pt-BR/swf/
+Source Flash/FlashSV1/ui/pt-BR/img/
