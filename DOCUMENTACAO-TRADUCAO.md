@@ -174,7 +174,9 @@ Depois o Flash, que é o que o jogador vê:
 | E | Guilda, igreja, fazenda, pet | ~300 |
 | F | Resto (eventos, boss mundial…) | o que sobrar |
 
-Ligar `<LANGUAGE value="pt-BR"/>` depois de **A+B** revisados.
+O locale **já aponta** para pt-BR (`FlashSV1/config.xml` e `LanguagePath` dos serviços). No PC Windows, rode `tools/setup-locale-pt-BR.ps1` para copiar SWF/img e reinicie Center → Fighting → Road + Electron.
+
+`GameServerScript` (diálogos PvE) e nomes de item no SQL **ainda não** foram traduzidos. Alguns textos de loteria/Facebook no Flash continuam em espanhol.
 
 Servidor em seguida: erro de sala/login → combate → guilda/correio → fazenda/pet → `GameServerScript` por missão.
 
