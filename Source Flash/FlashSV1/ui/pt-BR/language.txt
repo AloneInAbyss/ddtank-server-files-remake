@@ -145,39 +145,39 @@ tank.game.BuffTip24:Thuộc tính phòng ngự tăng {0}%.
 tank.game.BuffTip25:Mỗi hiệp nếu trúng sát thương độc sẽ giảm {0} điểm.
 tank.game.BuffTip26:Dùng thiên sứ trị liệu tăng {0} máu.
 tank.game.BuffTip27:Giảm sát thương
-tank.invite.response.title:Lời mời từ{0}
-tank.invite.InviteView.close:Đóng
+tank.invite.response.title:Convite de {0}
+tank.invite.InviteView.close:Fechar
 tank.bagAndInfo.ColorShell.NoWeapon:Bạn chưa trang bị vũ khí,không thể sử dụng.
-tank.room.RoomIIController.weapon:Không có vũ khí,không thể bắt đầu
-tank.room.RoomIIController.all:Tất cả phải chuẩn bị
-tank.room.RoomIIController.balance:Tổ đội không cân bằng
-tank.room.RoomIIMapSet.room:Thông tin phòng không cho phép
-tank.room.RoomIIMapSet.room2:Sửa thông tin phòng
-tank.room.RoomIIPlayerItem.new:Tân thủ 
-tank.room.RoomIIPlayerItem.unallowed:Không cho phép thao tác lại
-tank.room.RoomIIPlayerItem.make:Lúc thi đấu không cho phép thao tác lại.
-tank.room.RoomIIPlayerItem.position:Phải giữ lại tối thiểu một chỗ
-tank.room.RoomIIView2.kick:Bạn đã bị đuổi ra khỏi phòng
-tank.room.RoomIIView2.owner:Không phải là chủ phòng, không có quyền hủy bỏ
-tank.room.RoomIIView2.noallow:Không phải là chủ phòng, không được phép thi
-tank.roomlist.RoomListIIBGView.start:Trò chơi đã bắt đầu
-tank.roomlist.RoomListIIBGView.room:Phòng đã đầy
-tank.roomlist.RoomListIICreateRoomView.tank:Gunny! Gunny! Dzo! Dzo!
-tank.roomlist.RoomListIICreateRoomView.go:Gunny! Go! Go! Go!
-tank.roomlist.RoomListIICreateRoomView.fire:Bất phân thắng bại!
-tank.roomlist.RoomListIICreateRoomView.happy:Gunny, niềm vui vô hạn!
-tank.roomlist.RoomListIICreateRoomView.time:Thời gian thi đấu mỗi hiệp quy
-tank.roomlist.RoomListIICreateRoomView.name:Không được để phòng trống
-tank.roomlist.RoomListIICreateRoomView.string:Tên phòng có kí tự không phù
-tank.roomlist.RoomListIICreateRoomView.set:Hãy đặt mật mã phòng của bạn
-tank.roomlist.RoomListIICreateRoomView.set1:Hãy chọn hình thức chiến đấu
-tank.roomlist.RoomListIICreateRoomView.set2:Hãy chọn lọai phòng
-tank.roomlist.RoomListIIFindRoomPanel.search:Tìm phòng
-tank.roomlist.RoomListIIFindRoomPanel.id:Mời nhập ID phòng
-tank.roomlist.RoomListIIFindRoomPanel.room:Phòng không tồn tại
-tank.roomlist.RoomListIIPassInput.write:Hãy nhập mật mã
-tank.roomlist.RoomListIIPassInput.write1:Escriba la \ncontraseña 
-tank.hall.ChooseHallView.sorry:Xin lỗi, chức năng này chưa mở.
+tank.room.RoomIIController.weapon:Sem arma, não é possível começar
+tank.room.RoomIIController.all:Todos precisam ficar Prontos
+tank.room.RoomIIController.balance:Os times estão desequilibrados
+tank.room.RoomIIMapSet.room:Não é permitido alterar as informações da sala
+tank.room.RoomIIMapSet.room2:Alterar informações da sala
+tank.room.RoomIIPlayerItem.new:Iniciante
+tank.room.RoomIIPlayerItem.unallowed:Não é permitido fazer isso de novo
+tank.room.RoomIIPlayerItem.make:Não é permitido fazer isso durante o combate.
+tank.room.RoomIIPlayerItem.position:É preciso manter pelo menos uma vaga
+tank.room.RoomIIView2.kick:Você foi expulso da sala
+tank.room.RoomIIView2.owner:Só o dono da sala pode cancelar
+tank.room.RoomIIView2.noallow:Só o dono da sala pode iniciar
+tank.roomlist.RoomListIIBGView.start:O combate já começou
+tank.roomlist.RoomListIIBGView.room:Sala cheia
+tank.roomlist.RoomListIICreateRoomView.tank:DDTank! Bora!
+tank.roomlist.RoomListIICreateRoomView.go:DDTank! Vai! Vai! Vai!
+tank.roomlist.RoomListIICreateRoomView.fire:Até o fim!
+tank.roomlist.RoomListIICreateRoomView.happy:DDTank, diversão sem fim!
+tank.roomlist.RoomListIICreateRoomView.time:Tempo de cada turno
+tank.roomlist.RoomListIICreateRoomView.name:O nome da sala não pode ficar vazio
+tank.roomlist.RoomListIICreateRoomView.string:O nome da sala tem caracteres inválidos
+tank.roomlist.RoomListIICreateRoomView.set:Defina a senha da sala
+tank.roomlist.RoomListIICreateRoomView.set1:Escolha o modo de combate
+tank.roomlist.RoomListIICreateRoomView.set2:Escolha o tipo de sala
+tank.roomlist.RoomListIIFindRoomPanel.search:Buscar sala
+tank.roomlist.RoomListIIFindRoomPanel.id:Digite o ID da sala
+tank.roomlist.RoomListIIFindRoomPanel.room:A sala não existe
+tank.roomlist.RoomListIIPassInput.write:Digite a senha
+tank.roomlist.RoomListIIPassInput.write1:Digite a \nsenha
+tank.hall.ChooseHallView.sorry:Desculpe, esta função ainda não está aberta.
 tank.movement.MovementRightView.pass:Hãy nhập mật mã thẻ
 tank.serverlist.ServerListPosView.choose:Escolha um servidor
 tank.serverlist.ServerListPosView.low:Seu nível é baixo demais para este servidor
@@ -363,32 +363,32 @@ tank.game.ToolStripView.proplayer1:Chuyển thành dọc
 tank.game.ToolStripView.proplayer2:Chuyển thành ngang 
 tank.game.ToolStripView.suicide:Tự sát
 tank.game.ToolStripView.task:Nhiệm vụ (Q)
-tank.roomlist.RoomListIIRoomBtnPanel.createRoom:Tạo phòng
-tank.roomlist.RoomListIIRoomBtnPanel.fastjojn:Nhập tổ đội nhanh
-tank.roomlist.RoomListIIRoomBtnPanel.fastjojnQj:Nhập đọat cờ nhanh
-tank.roomlist.RoomListIIRoomBtnPanel.findRoom:Tìm phòng
-tank.roomlist.RoomListIIRoomBtnPanel.waitRoomList:Danh sách phòng chờ
-tank.roomlist.RoomListIIRoomBtnPanel.allRoom:Danh sách tòan bộ phòng
-tank.view.common.BellowStripViewII.shop:Cửa hàng
-tank.view.common.BellowStripViewII.bag: Túi (B)
-tank.view.common.BellowStripViewII.email: Thư (R)
-tank.view.common.BellowStripViewII.back:Quay lại
-tank.view.common.BellowStripViewII.shortcut:Click chuột trái để tạo shortcut Gunny.
+tank.roomlist.RoomListIIRoomBtnPanel.createRoom:Criar sala
+tank.roomlist.RoomListIIRoomBtnPanel.fastjojn:Entrar rápido em um grupo
+tank.roomlist.RoomListIIRoomBtnPanel.fastjojnQj:Entrar rápido em captura de bandeira
+tank.roomlist.RoomListIIRoomBtnPanel.findRoom:Buscar sala
+tank.roomlist.RoomListIIRoomBtnPanel.waitRoomList:Salas aguardando
+tank.roomlist.RoomListIIRoomBtnPanel.allRoom:Todas as salas
+tank.view.common.BellowStripViewII.shop:Loja
+tank.view.common.BellowStripViewII.bag:Mochila (B)
+tank.view.common.BellowStripViewII.email:Correio (R)
+tank.view.common.BellowStripViewII.back:Voltar
+tank.view.common.BellowStripViewII.shortcut:Clique esquerdo para criar um atalho do DDTank.
 tank.view.common.FPSView.biaozhun: Tiêu chuẩn 25FPS\n
 tank.view.common.FPSView.dangqian: Trước:{0} FPS\n
 tank.view.common.FPSView.xingneng:Tính năng
-FPSView.as.InviteAlertPanel.ruguo:Sau {0} giây, mặc định từ chối
-FPSView.as.InviteAlertPanel.ModeLabel: Kiểu trò chơi
-FPSView.as.InviteAlertPanel.name:Tên Phòng
-FPSView.as.InviteAlertPanel.mode:Mô hình:
-FPSView.as.InviteAlertPanel.free:Đội tự do
-FPSView.as.InviteAlertPanel.duoqi:Đọat cờ
-tank.invite.InviteView.request:Mời
-FPSView.as.InviteAlertPanel.yaoqingni:Mời bạn vào phòng
-FPSView.as.InviteAlertPanel.map:Tên Map:
-FPSView.as.InviteAlertPanel.huihetime:Thời gian:
-FPSView.as.InviteAlertPanel.second:giây
-FPSView.as.InviteAlertPanel.nochoice: Chưa chọn
+FPSView.as.InviteAlertPanel.ruguo:Após {0} segundos, recusar automaticamente
+FPSView.as.InviteAlertPanel.ModeLabel:Modo de jogo
+FPSView.as.InviteAlertPanel.name:Nome da sala
+FPSView.as.InviteAlertPanel.mode:Modo:
+FPSView.as.InviteAlertPanel.free:Time livre
+FPSView.as.InviteAlertPanel.duoqi:Captura de bandeira
+tank.invite.InviteView.request:Convidar
+FPSView.as.InviteAlertPanel.yaoqingni:Convidou você para a sala
+FPSView.as.InviteAlertPanel.map:Mapa:
+FPSView.as.InviteAlertPanel.huihetime:Tempo:
+FPSView.as.InviteAlertPanel.second:segundo
+FPSView.as.InviteAlertPanel.nochoice:Não escolhido
 tank.view.scenechatII.PrivateChatIIView.privatename:Chat riêng
 tank.view.scenechatII.PrivateChatIIView.nick:Tên nhân vật
 tank.view.scenechatII.SceneChatIIController.littleb: ]Sử dụng loa nhỏ nói
@@ -474,15 +474,15 @@ shop.ShopIITryDressView.returnToBegin2:Chọn lại hình dáng ban đầu
 road.ui.controls.TabPanel.zhi: index Trị của phải từ 0 đến {0}
 road.ui.controls.TabPanel.zhijian: Trong khỏang
 tank.game.ToolStripView.limit:Máu ít hơn 30% không thể tự sát
-tank.room.RoomIIPlayerItem.chat:Chat riêng
-tank.room.RoomIIPlayerItem.look:Kiểm tra
-tank.room.RoomIIPlayerItem.friend:Thêm bạn
-tank.room.RoomIIPlayerItem.copy:Sao chép tên
+tank.room.RoomIIPlayerItem.chat:Chat privado
+tank.room.RoomIIPlayerItem.look:Ver
+tank.room.RoomIIPlayerItem.friend:Adicionar amigo
+tank.room.RoomIIPlayerItem.copy:Copiar nome
 tank.view.scenechatII.SceneChatIIView.selfChat:Không thể chat với chính mì
 tank.view.bagII.DeleteGoodsBtn.break:Giảm điểm
-tank.room.RoomIIPlayerItem.addFriend:Thêm bạn
-tank.room.RoomIIPlayerItem.view:Kiểm tra
-tank.room.RoomIIPlayerItem.exitRoom:Đá khỏi phòng
+tank.room.RoomIIPlayerItem.addFriend:Adicionar amigo
+tank.room.RoomIIPlayerItem.view:Ver
+tank.room.RoomIIPlayerItem.exitRoom:Expulsar da sala
 tank.view.bagII.BreakGoodsView.wrong2:Mời nhập số lượng
 shop.ShopIITryDressView.hideHat:Nón
 tank.task.TaskPannelPosView.loginPath:Gunny _ Đăng nhập chính thức
@@ -505,7 +505,7 @@ tank.menu.Level:Level:{0}
 tank.menu.WinCount:Thắng:{0}
 tank.menu.LostCount:Thua:{0}
 tank.menu.Winrate:Thắng:{0}
-tank.room.UpdateGameStyle:Đội của bạn đã gia nhập Guild, xếp đội tự do
+tank.room.UpdateGameStyle:Sua equipe entrou na guilda; o modo livre foi ajustado
 tank.data.RoomInfo.BeginFree:Kết hợp thành công, đội của bạn bắt đầu chiến
 tank.data.RoomInfo.BeginClub:Kết hợp thành công, đội của bạn bắt đầu chiến
 tank.manager.PlayerManger.friendOnline:Bạn vừa online
@@ -513,7 +513,7 @@ tank.manager.PlayerManger.friendOffline:Bạn đã offline
 tank.data.player.FightingPlayerInfo.your:Bạn đạt được <{0}>
 tank.game.GameView.player:Người chơi [{0}] đã rời khỏi
 tank.view.chat.ChatInput.time:Bạn nhập nhanh quá
-tank.room.PickupPanel.ChangeStyle:Tạm thời chưa có Guild!<br> bạn muốn đợi?
+tank.room.PickupPanel.ChangeStyle:Você ainda não tem guilda!<br>Quer esperar?
 tank.consortia.club.consortiaList:Danh sách guild
 tank.consortia.club.searchTxt:Hãy nhập tên Guild
 tank.consortia.club.text:Nhóc con lười biếng quá
@@ -627,8 +627,8 @@ tank.view.common.BuggleView.news2:
 tank.view.common.ConsortiaIcon.middle:Trung lập
 tank.view.common.ConsortiaIcon.enemy:Đối địch
 tank.view.common.ConsortiaIcon.self:Thành viên guild
-tank.view.common.RoomIIPropTip.infinity:(Vô hạn)
-tank.view.common.RoomIIPropTip.consume:Tiêu hao thể lực
+tank.view.common.RoomIIPropTip.infinity:(Ilimitado)
+tank.view.common.RoomIIPropTip.consume:Gasta vigor
 tank.view.im.AddBlackListFrame.titleText:Thêm vào sổ đen 
 tank.view.im.AddBlackListFrame.btnText:Thêm vào DS đen
 tank.view.im.AddBlackListFrame.chat:Nhấp vào tên để lấy được tên nhân vật
@@ -653,10 +653,10 @@ tank.game.ToolStripView.itemTemplateInfo.Name:Nộ Khí [B]
 tank.game.ToolStripView.itemTemplateInfo.Description:Nhấp vào nút Pow để tấn công, không dùng chung với súng 3 tia
 tank.game.ToolStripView.itemTemplateInfo.Name2:Pow 2 [R]
 tank.game.ToolStripView.itemTemplateInfo.Description2:Nhấp chọn lửa phẩn nộ để có thể dùng pow 2 và không dùng chung với súng 3 tia
-tank.room.RoomIIMapSetPanel.room:Thiết lập phòng
-tank.roomlist.RoomListIICreateRoomView.titleText:Tạo phòng
-tank.roomlist.RoomListIICreateRoomView.contest:Phòng đấu không thể đọat cờ
-tank.roomlist.RoomListIIFindRoomPanel.room.info:Số phòng bạn nhập không tồn tại
+tank.room.RoomIIMapSetPanel.room:Configurar sala
+tank.roomlist.RoomListIICreateRoomView.titleText:Criar sala
+tank.roomlist.RoomListIICreateRoomView.contest:Sala de torneio não pode ser captura de bandeira
+tank.roomlist.RoomListIIFindRoomPanel.room.info:O número da sala não existe
 tank.tofflist.view.TofflistLeftCurrentCharcter.cdr:Chủ guild
 tank.tofflist.view.TofflistLeftInfo.no:Không có guild
 Crazytank.load:Falha ao carregar o pacote de idioma
@@ -896,8 +896,8 @@ nextPage:Trang sau
 lastPage:Trang cuối
 prePage:Trang trước
 firstPage:Trang 1
-tank.roomlist.RoomListIICreateRoomView.DESCRIPTION:Hình thức thi đấu ngẫu nhiên chọn đối thủ, là hình thức chính của trò chơi.
-tank.roomlist.RoomListIICreateRoomView.DESCRIPTION2:Hiình thức huấn luyện có thể chọn đối thủ, phần thưởng ít
+tank.roomlist.RoomListIICreateRoomView.DESCRIPTION:Modo que escolhe o oponente aleatoriamente. É o modo principal do jogo.
+tank.roomlist.RoomListIICreateRoomView.DESCRIPTION2:No treino você escolhe o oponente; a recompensa é menor
 shop.DataError.NoGood:Dữ liệu sai,không tìm thấy vật phẩm
 shop.ShopIISaveFigurePanel.okBtn.label:Trả phí
 shop.ShopIISaveFigurePanel.cancelBtn.label:Không trả
@@ -923,7 +923,7 @@ ConsortiaShopItem.gongXunbuzu:Công trạng không đủ
 Crazytank.share:Enviar para amigos
 Crazytank.collection:Salvar endereço
 Crazytank.supply:Recarregar cupons
-tank.view.common.BellowStripViewII.channel: Nhiều hơn(T)
+tank.view.common.BellowStripViewII.channel:Mais (T)
 tank.common.fastMenu.hasnotOfficialSite:Chưa mở 1
 tank.common.fastMenu.hasnotForum:Chưa mở 2
 tank.manager.enthrallRemind1:Hôm nay bạn đã online 1 giờ
@@ -951,11 +951,11 @@ tank.data.auctionHouse.AuctionGoodsInfo.tlong:2 giờ đến 12 giờ
 tank.data.auctionHouse.AuctionGoodsInfo.tvery:hơn 12 giờ
 store.view.fusion.StoreIIFusionBG.useNoExtends:Dung luyện xong thuộc tính hợp thành không cộng dồn, xác định tiếp tục?<br><FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'>Chú ý:Vật phẩm dung luyện ra sẽ có hạn sử dụng của vật phẩm dung luyện có hạn sử dụng ngắn nhất.</FONT>
 tank.gameover.NotEnoughPayToTakeCard:xu không đủ ,không thể tiến hành lật bài
-tank.room.RoomIIView2.noplacetoinvite:phòng không có chỗ trống
+tank.room.RoomIIView2.noplacetoinvite:A sala não tem vaga
 tank.view.changeColor.lackCard1:Lần chuyển đổi cần tốn {0} xu, tiếp tục không?
-tank.room.RoomIIView2.notenoughmoney.title:Nhắc nhở
-tank.room.RoomIIView2.notenoughmoney.content:Xu không đủ, nạp thẻ ngay?
-tank.room.RoomIIView2.confirmtostartgame:thao tác sẽ trừ bạn 100 xu,tiếp tục không?
+tank.room.RoomIIView2.notenoughmoney.title:Aviso
+tank.room.RoomIIView2.notenoughmoney.content:Cupons insuficientes. Recarregar agora?
+tank.room.RoomIIView2.confirmtostartgame:Isso vai cobrar 100 cupons. Continuar?
 continue:tiếp tục
 shop.ShopIISaveFigurePanel.gift: lễ kim không đủ ,{0}
 tank.data.EquipType.offhand: trợ thủ
@@ -971,8 +971,8 @@ tank.view.bagII.GoodsTipPanel.holeLv:(Lỗ cấp {0})
 tank.dungeon.help.hited:Đã đánh bại
 tank.dungeon.tryagain.title:chơi thêm 1 lần
 tank.dungeon.tryagain.content:   Thách đâu cửa ải lần nữa<br><FONT COLOR='#FF0000' SIZE='13'> Nếu chọn thách đấu lại sẽ tốn 500 xu</FONT>
-tank.invite.InvitePlayerItem.levelInadequate:Đẳng cấp người chơi này và đẳng cấp phòng không phù hợp
-tank.roomlist.RoomListIIPveBGView.levelCheck:đẳng cấp của bạn và đẳng cấp phòng không phù hợp, xin chọn lại
+tank.invite.InvitePlayerItem.levelInadequate:O nível deste jogador não combina com o da sala
+tank.roomlist.RoomListIIPveBGView.levelCheck:Seu nível não combina com o da sala. Escolha outra
 tank.view.common.shortcutBuyItem:Comprar {0} custa {1} cupom(ns). Continuar?
 tank.gameover.payConfirm.title:mua 1 lần lật bài
 tank.gameover.payConfirm.contentCommon:Lần lật bài này sẽ trừ 486 xu (VIP sẽ giảm 49 xu),\nđồng ký không?
@@ -980,21 +980,21 @@ tank.gameover.payConfirm.contentVip:VIP thân mến,lần lật bài này chỉ 
 tank.missionsettle.dungeon.leaveConfirm.title:thoát phó bản
 tank.missionsettle.dungeon.leaveConfirm.contents:<font color='#ff0000'> Phó bản chưa kết thúc, thoát lúc  này sẽ không nhận được phần thưởng khi hoàn thành! </font>
 tank.missionsettle.explore.leaveConfirm.title:thoát chiến đấu
-tank.room.RoomIIView2.affirm:Xem xong
-tank.room.RoomIIView2.clewContent:Phó bản rất khó, thích hợp cho tổ đội  <FONT COLOR='#FF0000'> 2</FONT> người trở lên, <br>vẫn muốn tham gia chứ?
+tank.room.RoomIIView2.affirm:Entendi
+tank.room.RoomIIView2.clewContent:Esta missão é difícil. O ideal é um grupo de <FONT COLOR='#FF0000'>2</FONT> ou mais.<br>Ainda quer entrar?
 tank.game.ArrowViewIII.deputyweapon.title:trợ thủ [R]
 tank.game.ArrowViewIII.deputyweapon.description:vũ khí phụ
-tank.room.difficulty.simple:dễ
-tank.room.difficulty.normal:thường
-tank.room.difficulty.hard:khó
-tank.room.difficulty.hero:anh hùng
+tank.room.difficulty.simple:Fácil
+tank.room.difficulty.normal:Normal
+tank.room.difficulty.hard:Difícil
+tank.room.difficulty.hero:Herói
 tank.game.prop.effect.seal:bị phong ấn không thể sử dụng đạo cụ
-tank.roomlist.RoomListIICreatePveRoomView.tank: phiêu lưu mạo hiểm! come on
-tank.roomlist.RoomListIICreatePveRoomView.go: Chiến đấu đoàn đội, quyết chiến!
-tank.roomlist.RoomListIICreatePveRoomView.fire: thách đấu vô hạn, vui vô bờ bến!
-tank.room.RoomMapSetPanelDuplicate.choiceMap:mời chọn bản đồ
-tank.room.RoomMapSetPanelDuplicate.choicePermissionType:Mời chọn mức độ
-tank.room.RoomIIView2.setRoomInfo:mời thiết lập thông tin phòng
+tank.roomlist.RoomListIICreatePveRoomView.tank:Aventura! Vamos nessa!
+tank.roomlist.RoomListIICreatePveRoomView.go:Combate em equipe!
+tank.roomlist.RoomListIICreatePveRoomView.fire:Desafio sem fim!
+tank.room.RoomMapSetPanelDuplicate.choiceMap:Escolha o mapa
+tank.room.RoomMapSetPanelDuplicate.choicePermissionType:Escolha a dificuldade
+tank.room.RoomIIView2.setRoomInfo:Configure as informações da sala
 tank.view.task.Taskstatus.onProgress:(chưa xong)
 tank.manager.PlayerManager.gradeLow:Người chơi cấp {0} trở lên mới có thể vào ải viễn chinh.
 tank.gameover.takecard.getgold:Bạn nhận được {0} vàng
@@ -1067,15 +1067,15 @@ tank.view.store.matte.notType:không hợp
 tank.view.store.matte.LevelWrong:Cấp bậc lỗ khảm thấp,không thể khảm nạm
 store.view.transfer.StoreIITransferBG.lijinbuzu:lễ kim không đủ, mời tiếp phí
 tank.view.store.matte.goldQuickBuy:mua nhanh 
-tank.view.common.levelRange: phân cấp:
-tank.view.common.roomLevel:mức độ phòng:
-tank.view.common.duplicateName:Tên phó bản:
-tank.view.common.gameLevel:Độ khó:
-tank.view.common.freeFight:Tự do
-tank.view.common.guildFight:GUILD chiến 
-tank.view.common.exploreFight:Thử nghiệm 
-tank.view.common.bossFight:đánh BOSS
-tank.view.common.duplicateFight:Phó bản:
+tank.view.common.levelRange:Faixa de nível:
+tank.view.common.roomLevel:Nível da sala:
+tank.view.common.duplicateName:Nome da missão:
+tank.view.common.gameLevel:Dificuldade:
+tank.view.common.freeFight:Livre
+tank.view.common.guildFight:Combate de guilda
+tank.view.common.exploreFight:Teste
+tank.view.common.bossFight:BOSS
+tank.view.common.duplicateFight:Missão:
 tank.gameover.clientGainEXP:người dùng client nhận được kinh nghiệm 
 tank.gameover.times:lần 
 shop.view.madelLack:huy hiệu không đủ 
@@ -1146,17 +1146,17 @@ tank.gametrainer.study.fengongbogu:Hồng hồng
 tank.gametrainer.view.freshmanQustion:hỏi đáp tân thủ
 tank.gametrainer.view.agree:đồng ý 
 tank.missionresult.leave:thoát
-tank.room.explanation:hướng dẫn 
-tank.room.statistics:thống kê chiến đấu
-tank.room.moreThanOne:số người mỗi bên lớn hơn 1
-tank.room.somebodyInvalidate:phòng có người chơi và đẳng cấp chọn không hợp 
-tank.roomlist.lessLevel:bạn chưa đến cấp {0},không thể vào phòng phó bản.
-tank.roomlist.cantBeChallenged:người chơi cấp 4 trở xuống  không thể bị thách đấu 
-tank.roomlist.friendOffline:bạn không online 
-tank.roomlist.joinDuplicateQuickly:vào nhanh phó bản
-tank.roomlist.joinBossBattleQuickly:vào nhanh đánh BOSS
-tank.roomlist.joinExploreBattleQuickly:vào nhanh mô hình thử nghiệm
-tank.roomlist.joinBattleQuickly:vào nhanh mô hình mô hình chiến đấu
+tank.room.explanation:Ajuda
+tank.room.statistics:Estatísticas de combate
+tank.room.moreThanOne:Cada lado precisa de mais de 1 jogador
+tank.room.somebodyInvalidate:Há jogador na sala cujo nível não combina com o escolhido
+tank.roomlist.lessLevel:Você ainda não chegou ao nível {0} e não pode entrar na sala de missão.
+tank.roomlist.cantBeChallenged:Jogadores de nível 4 ou menos não podem ser desafiados
+tank.roomlist.friendOffline:O amigo não está online
+tank.roomlist.joinDuplicateQuickly:Entrar rápido em missão
+tank.roomlist.joinBossBattleQuickly:Entrar rápido em BOSS
+tank.roomlist.joinExploreBattleQuickly:Entrar rápido no modo teste
+tank.roomlist.joinBattleQuickly:Entrar rápido em combate
 tank.loginstate.loginURLFail:Falha no link
 tank.loginstate.chooseCharacter:Escolher personagem
 tank.loginstate.inputUserName:Digite o nome de usuário!
@@ -1205,7 +1205,7 @@ tank.gametrainer.data.TrainerModel.answer4:2. Làm sao để bắn pháo?
 tank.gametrainer.data.TrainerModel.answer6: Giữ spacebar để bắn
 tank.view.common.BuyGiftBagButton.initliziItemTemplate.excellent:Khuyến mãi
 tank.view.common.BuyGiftBagButton.initliziItemTemplate.info:Gồm đá cường hóa 4x3, bùa ma thuật x1,bùa may mắn 25%x1 (đều khóa).Mua ngay sẽ được giảm 15%.
-tank.invite.InvitePlayerItem.cannot:Không thể mời người chơi thấp hơn cấp 4
+tank.invite.InvitePlayerItem.cannot:Não é possível convidar jogadores abaixo do nível 4
 tank.view.bagII.baglocked.question1:Tên cha bạn?
 tank.view.bagII.baglocked.question2:Danh số của bạn trong lớp?
 tank.view.bagII.baglocked.question3:Trường tiểu học của bạn?
@@ -1239,7 +1239,7 @@ tank.view.common.BuggleView.cross:]Sử dụng loa thế giới  phát tin tức
 tank.dialog.showbugleframe.crossbugletitle:Hãy mau mua loa lớn thế giới
 tank.game.GameView.unexpectedBattle:Chiến đấu
 tank.game.GameView.dungeonBattle:Phó bản
-tank.room.duplicate.notOpen:Phó bản này chưa mở!
+tank.room.duplicate.notOpen:Esta missão ainda não está aberta!
 tank.view.chat.ChannelListSelectView.cross:loa thế giới  
 tank.view.chatFormat.cross:Không cùng máy chủ, không thể chat riêng
 tank.game.BloodStrip.HP:Máu
@@ -1247,10 +1247,10 @@ tank.game.actions.kill:Công kích
 tank.game.actions.turn:Hiệp 
 tank.game.PowerStrip.energy:Thể lực: 
 tank.game.deputyWeapon.canNotUse:Số lần sử dụng Thiên sứ ban phúc trong trận đã hết
-tank.view.common.InviteAlertPanel.pass:Ải:
+tank.view.common.InviteAlertPanel.pass:Fase:
 tank.menu.FightPower:Lực chiến:{0} 
 tank.manager.GradeExaltClewManager:Chúc mừng bạn đã tăng cấp!
-tank.hall.ChooseHallView.hotWellAlert:Suối nước nóng
+tank.hall.ChooseHallView.hotWellAlert:Fonte termal
 tank.view.ConsortiaReworkNameView.consortiaNameModify:Sửa tên công hội
 tank.view.ConsortiaReworkNameView.consortiaNameAlert:Có thể nhập tiếng Anh,Hoa hoặc số,không dài hơn 12 ký tự
 tank.view.ConsortiaReworkNameView.consortiaNameAlert1:Bạn chưa gia nhập hội, không thể sử dụng thẻ đội tên hội
@@ -1271,8 +1271,8 @@ tank.game.PowerStrip.tip:người chơi di duyển,sử dụng vật phẩm sẽ
 #2.30versio:#2.30version
 tank.fightLib.AwardBox.FullBag:túi đã đầy,vật phẩm chứa trong hộp thư.
 tank.fightLib.questionInfo:Hiện tại có {0} câu, đáp đúng {1} có thể thông qua. \n Đã đáp đúng được {2}/{1} câu,còn dư {3} câu.
-tank.room.RoomIIView.cross.kuaqu: Chuyển đến chiến trường liên server
-tank.room.RoomIIView.cross.benqu:Chuyển đến chiến trường server gốc
+tank.room.RoomIIView.cross.kuaqu:Ir para o campo de batalha entre servidores
+tank.room.RoomIIView.cross.benqu:Ir para o campo de batalha deste servidor
 tank.fightLib.FirstGetPass:Vượt thành công!
 tank.fightLib.Lesson.Message1:Phải vượt qua được độ khó cao cấp bài học đo màn hình
 tank.fightLib.Lesson.Message2:Phải vượt qua được độ khó cao cấp bài học bắn góc 65 hoặc siêu cao.
@@ -1334,7 +1334,7 @@ tank.command.fightLibCommands.script.MeasureScree.watchAgain:Xem lại lần n�
 tank.command.fightLibCommands.script.MeasureScree.understood:Hiểu rồi
 tank.fightLib.ChooseFightLibTypeView.selectFightLibInfo:Hãy chọn bài học
 tank.fightLib.ChooseFightLibTypeView.selectDifficulty:Hãy chọn độ khó
-tank.hall.ChooseHallView.fifteenGrade:Cấp bậc 15 trở lên mới có thể vào phòng luyện tập
+tank.hall.ChooseHallView.fifteenGrade:É preciso ser nível 15 ou mais para entrar no laboratório de combate
 shop.ShopIIModel.countOver:Vật phẩm này đã bán hết
 tank.view.ChannelList.FastMenu.exit:Đóng
 tank.game.ToolStripView.isExit: Xác nhận thoát trận đấu hiện tại?
@@ -1345,7 +1345,7 @@ tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASHOPGRADE:Xác nh�
 tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASTOREGRADE:Xác nhận nâng cấp két sắt?
 tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASMITHGRADE:Xác nhận nâng cấp tiệm rèn?
 are.you.sure.to.marry:Xác nhận tiến hành lễ cưới ngay?
-tank.room.RoomIIView2.leaveRoom:Xác nhận rời khỏi phòng?
+tank.room.RoomIIView2.leaveRoom:Sair da sala?
 tank.missionsettle.explore.leaveConfirm.contents:Xác nhận thoát trận đấu hiện tại?
 tank.gametrainer.data.TrainerModel.answer3:Dùng tay di chuyển màn hình.
 tank.gametrainer.data.TrainerModel.answer5:Dùng ý nghĩ phân phối.
@@ -1383,7 +1383,7 @@ tank.hotSpring.money:Xu
 tank.hotSpring.gold:Vàng
 tank.hotSpring.comfirm:Phòng Thường | Để vào phòng này tốn 10000 Vàng,xác nhận?
 tank.hotSpring.comfirm1:Phòng VIP | Để vào phòng này tốn 2500 Xu,xác nhận?
-tank.room.duplicate.previewTitle:Pháo đài hắc ám
+tank.room.duplicate.previewTitle:Fortaleza sombria
 tank.game.map.smallMapView.slow:Hệ thống kiểm tra thấy game đang chậm,\n đóng hiệu ứng đặc biệt để game nhanh hơn không?
 store.view.strength.clew2:<FONT SIZE='16' FACE='Arial' KERNING='2' COLOR='#FF0000'><B>sau khi vũ khí cường hóa đạt cấp 10,thuộc tính \nkhông thể dịch chuyển,xác nhận cường hóa?</B></FONT>
 tank.manager.PlayerManager.pass:<{0}>Hội đã duyệt đơn của bạn
@@ -1391,7 +1391,7 @@ tank.view.common.NPCPairingDialog.title:Gặp đối thủ mạnh
 tank.view.common.NPCPairingDialog.accept:Tiếp nhận
 tank.view.common.NPCPairingDialog.refuse:Từ chối
 tank.view.common.NPCPairingDialog.content:Gặp đối thủ mạnh lạ mặt, nhận lời thách đấu không?
-tank.room.RoomMapSetPanelDuplicate.clew:Cấp bậc của bạn chưa đạt cấp {0}, không thể tạo phòng phó bản
+tank.room.RoomMapSetPanelDuplicate.clew:Você ainda não chegou ao nível {0} e não pode criar sala de missão
 tank.view.im.IMBlackList.add:Thêm vào danh sách đen
 tank.game.smallmap.simple1:Sơ cấp
 tank.game.smallmap.normal1:Trung cấp
@@ -1399,7 +1399,7 @@ tank.game.smallmap.difficulty1:Cao cấp
 tank.fightLib.Award.GetMessage:Bạn nhận được 
 tank.fightLib.FightLibQuestionFrame.reAnswer:Thử lại lần nữa
 tank.fightLib.FightLibQuestionFrame.viewTutorial:Xem bài học
-tank.hall.ChooseHallView.campaignLabAlert:Phòng luyện tập
+tank.hall.ChooseHallView.campaignLabAlert:Laboratório de combate
 store.view.strength.clew:<FONT SIZE='16' FACE='Arial Unicode MS' KERNING='2' COLOR='#FF0000'><B>Dùng đá cường hóa 5 tỉ lệ cường hóa cao hơn đó,\n  dung luyện 4 đá cường hóa 4 sẽ nhận được đá cường hóa 5 đó!</B></FONT>
 tank.auctionHouse.view.BrowseLeftMenuView.qianghua5:Đá cường hóa cấp 5
 2.35versio:2.35version
@@ -1548,7 +1548,7 @@ feedback.view.delPostsBtnText:Kết thúc
 feedback.view.continueSubmitBtnText:Tiếp tục
 feedback.view.submitAssessmentBtnText:Đánh giá
 feedback.view.explainTextAreaText:<p align="center"><b>Quy tắc đền bù</b></p><br><b>1.Thời hạn đền bù</b><br>a)Có thể phục hồi vật phẩm bị mất trong vòng 15 ngày gần nhất.<br>b)Mất vật phẩm quá 15 ngày có thể không được phục hồi.<br><br><b>2.Nội dùng phục hồi</b><br>a)Dựa theo đơn khiếu kiện,sau khi xác nật vật phẩm mất là khóa và tiến hành qua hợp thành hoặc cường hóa có thể đền bù.<br>b)Dựa theo đơn khiếu kiện,sau khi xác nhận KH từng sở hữu vật phẩm hiếm-khóa có thể đền bù.<br><br><b>3.Không thể phục hồi</b><br>a)Vật phẩm chưa khóa.<br>b)Vật phẩm được mua bán giao dịch hoặc gửi tặng.<br>c)Tiền trong game,gồm cả xu và lễ kim.<br>d)Vật phẩm tiêu hao trong game (như tài nguyên cường hóa, hợp thành, card,nớc kinh nghiệm, túi quà).<br><br><b>4.Có thể truy cứu</b><br>a)Xác định rõ tài khoản đã bị hack.<br>b)Tiến hành khóa tài khoản hack, tra cứu các vật phẩm có trong túi tiến hành trả lại cho người bị hack.<br><br><b>5.Phải đền bù toàn bộ</b><br>a)Do lỗi game dẫn đến việc KH bị mất vật phẩm,sau khi xác thực, tiến hành đền bù.
-room.view.chooseMap.DungeonChooseMapView.dungeonModeDescription:Kiểu này gồm nhiều ải, đánh bại Boss cuối cùng có thể nhận được phần thưởng quý hiếm. 
+room.view.chooseMap.DungeonChooseMapView.dungeonModeDescription:Este modo tem várias fases. Derrotar o último Boss rende recompensas raras.
 im.imList.blackTitle:Danh sách đen
 im.CMFriendList.title:Đã thêm vào DS bạn GN
 im.CMFriendList.titleII:Chưa thêm vào DS bạn GN
@@ -1685,9 +1685,9 @@ store.showTips.fusion.nofusonStone:Bạn chưa cho vào công thức dung luyệ
 ddt.view.vote.title:Phiếu khảo sát
 ddt.view.vote.loadXMLError:Tải thông tin bỏ phiếu thất bại !
 ddt.view.vote.choseOne:Cần chọn ít nhất 1 đáp án
-room.roomRightPropView.bagFull:Mỗi lần chiến đấu chỉ có thể mang kèm 3 đạo cụ
-room.roomRightPropView.uppropTip:Nhấp vào sẽ làm mất vật phẩm
-room.roomRightPropView.downpropTip:Nhấp hình để chọn đạo cụ kèm theo
+room.roomRightPropView.bagFull:Em cada combate você só pode levar 3 itens
+room.roomRightPropView.uppropTip:Clicar remove o item
+room.roomRightPropView.downpropTip:Clique no ícone para escolher o item extra
 ddt.vip.vipIcon.otherVipTip:VIP
 ddt.vip.vipIcon.clickOpen:Nhấp để kích hoạt VIP
 ddt.vip.vipIcon.reduceVipExp:Điểm kinh nghiệm VIP mỗi ngày giảm {0} điểm
@@ -1908,8 +1908,8 @@ ddt.functionLimitTip:Tính năng này tạm đóng,đạt cấp {0} rồi quay l
 ddt.storeLimitTip:Hoàn thành nhiệm vụ “Viễn chinh lần đầu" là có thể mở! 
 ddt.room.cantOpenMuti:Đạt cấp 6 có thể nhấp tại đây để tăng số lượng người trong phòng của phe mình
 ddt.playerManager.addFriend.isRefused:Bạn bè đã thiết lập từ chối kết bạn!
-room.view.roomView.MatchRoomView.roundTimeTip:Thời gian đếm ngược trong chiến đấu giảm thành 10s
-room.view.roomView.MatchRoomView.challengeTip:Đã mở tính năng khiêu chiến,có thể chọn phòng trong phòng game hoặc  chọn\n tên người khác rời chọn "khiêu chiến"
+room.view.roomView.MatchRoomView.roundTimeTip:A contagem no combate cai para 10 s
+room.view.roomView.MatchRoomView.challengeTip:Desafio ligado: escolha uma sala ou o nome de alguém e use "desafiar"
 shop.manager.ShopBuyManager.textImg:Số lượng mua
 shop.view.ShopRankingView.NoSearchResults:Không tìm thấy kết quả
 im.playerState.awayReply:Hiện tôi vắng mặt, xin liên lạc lại sau.
@@ -2001,8 +2001,8 @@ game.PlayerThumbnailTipItemText_2:Thì thầm
 littlegame.AwardScore:Điểm t.lũy
 littlegame.MinLvNote:Cấp bậc đạt đến cấp {0} mới có thể vào
 littlegame.ScoreNote:Cấp bậc đạt đến cấp {0} mới có thể vào
-room.UnableToSwitchToAnotherViewer:Không thể từ vị trí xem thi đấu này sang vị trí xem khác.	
-room.UnableToSwitchToAnotherViewerWhenIsReady:đang ở trạng thái chuẩn bị không thể đổi sang vị trí xem thi đấu.	
+room.UnableToSwitchToAnotherViewer:Não é possível mudar de posição de espectador.
+room.UnableToSwitchToAnotherViewerWhenIsReady:No estado Pronto não é possível virar espectador.
 core.crossZone.AddFriendUnable:Bạn khác server không thể thêm bạn.	
 tank.MessageTip.GhostProp:Cho đồng đội dùng rồi	
 tank.MessageTip.AutoGuide:Liên tiếp 4 lượt không bắn trúng đối thủ,sẽ nhận được hiệu ứng dẫn đường
@@ -2244,9 +2244,9 @@ tank.game.BuffTip46:Kinh nghiệm chiến đấu x2<br> Công trạng chiến đ
 tank.game.BuffTip47:Kinh nghiệm chiến đấu x2<br> Công trạng chiến đấu x2<br> Điểm hộ giáp tăng {0}
 tank.game.BuffTip48:Kinh nghiệm chiến đấu x2<br> Công trạng chiến đấu x2<br>Điểm sát thương tăng {0}
 tank.game.BuffTip49:Trong chiến đấu {0} tăng {1} điểm
-tank.room.ToShopConfirm:Bạn muốn sang shop?	
-tank.room.RoomIIController.reduceGains: Phó bản này sẽ làm giảm điểm cống hiến
-tank.roomlist.siftAllFb:Toàn bộ phó bản
+tank.room.ToShopConfirm:Ir para a loja?
+tank.room.RoomIIController.reduceGains:Esta missão reduz os pontos de contribuição
+tank.roomlist.siftAllFb:Todas as missões
 shop.SetsTitle:Kích hoạt lời chúc của Quốc Vương Gà
 tank.data.EquipType.TEMPARMLET: Bao tay tạm thời
 tank.data.EquipType.tempTEMPRING: Nhẫn tạm thời
@@ -2257,15 +2257,15 @@ tank.view.bagII.GoodsTipPanel.drillnote:Mũi khoan cấp {0}
 tank.game.IM.custom:Thêm nhóm mặc định
 tank.game.ToolStripView.sign:Thú cưng	
 tank.game.ToolStripView.transparent:Trong suốt(T)	
-tank.view.common.BellowStripViewII.supply: nạp thẻ	
-tank.view.common.BellowStripViewII.exit: thoát	
+tank.view.common.BellowStripViewII.supply:Recarregar
+tank.view.common.BellowStripViewII.exit:Sair
 tank.view.emailII.EmailIIdiamondview.distill:Ghi chú
 tank.view.chat.ChatInput.time1:Nói quá nhanh, hãy nghỉ trong giây lát!
 tank.view.chat.ChatInput.time2:Thêm nhanh
-tank.view.common.RoomIIPropTip.Energy:<b>Tiêu hao: </b><font color='#f2c834'>{0} thể lực</font>
-tank.view.common.RoomIIPropTip.Psychic:<b>Tiêu hao: </b><font color='#f2c834'>{0} linh lực</font>
+tank.view.common.RoomIIPropTip.Energy:<b>Custo: </b><font color='#f2c834'>{0} de vigor</font>
+tank.view.common.RoomIIPropTip.Psychic:<b>Custo: </b><font color='#f2c834'>{0} de espírito</font>
 tank.view.common.RoomIIPropTip.Gold:<b>giá
-tank.view.common.RoomIIPropTip.Description:<b>Chức năng:</b>\r{0}
+tank.view.common.RoomIIPropTip.Description:<b>Função:</b>\r{0}
 tank.view.im.IMGourp.sure:Xác nhận xóa nhóm mặc định [{0}]?
 tank.view.quest.bubble.TankLink:[chính]	
 tank.view.quest.bubble.BranchLine:[phụ]	
@@ -2294,8 +2294,8 @@ store.ShowSuccessRate.basallevelTxt:% gốc
 store.ShowSuccessRate.luckyTxt:bùa may mắn	
 store.ShowSuccessRate.sociatyTxt:guild	
 tank.data.EquipType.decorate: Trang sức
-tank.room.difficulty.all:Toàn bộ
-tank.room.difficulty.none:không	
+tank.room.difficulty.all:Todos
+tank.room.difficulty.none:nenhum
 tank.dialog.showbugleframe.texpQuickBuy:Mua nhanh nước tu luyện
 tank.view.personalinfoII.luckyday:[cộng thêm từ ngày may mắn ]
 tank.view.continuation.contiuationTitle:tiếp phí nhanh	
@@ -2303,24 +2303,24 @@ tank.view.HealStone.ErrorGrade: cấp {0} trở lên mới có thể trang 
 tank.game.prop.EmptyEnergy:Thể lực không đủ
 tank.game.PsychicBar.Title:Điểm sinh linh
 tank.game.PsychicBar.Content:tiêu hao sinh linh để dùng vật phẩm giúp đồng đội.	
-tank.roomlist.notGotoIntoRoom:Người chơi dưới cấp {0} không được vào phòng {1}	
-tank.roomlist.challenge:Khiêu chiến 	
+tank.roomlist.notGotoIntoRoom:Jogadores abaixo do nível {0} não podem entrar na sala {1}
+tank.roomlist.challenge:Desafiar
 tank.view.chat.ChannelListSelectView.crossBugle:Loa thế giới 
 tank.fightLib.AngleMessage:Không bắn trong góc quy định,bắn trúng không tính.
 tank.command.fightLibCommands.script.MeasureScree.DifficultTwentyDegree.command3:Bài tập này hướng dẫn cách bắn góc 20 độ vượt quá 1 màn, chúng ta hãy bắt đầu tập luyện cao cấp nào!
 tank.game.ToolStripView.isExitLib:Bạn muốn ngưng tập luyện?
 tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASKILLGRADE:tăng cấp kĩ năng guild?	
-tank.hall.ChooseHallView.auction:Khu đấu giá	
-tank.hall.ChooseHallView.church:Lễ đường kết hôn	
-tank.hall.ChooseHallView.civil:Kết bạn	
-tank.hall.ChooseHallView.consortia:Guild	
-tank.hall.ChooseHallView.hotWell:Suối nước nóng	
-tank.hall.ChooseHallView.roomList:Phòng game	
-tank.hall.ChooseHallView.shop:trung tâm mua sắm	
-tank.hall.ChooseHallView.tofflist:Phòng cao thủ	
-tank.hall.ChooseHallView.dungeon: Ải viễn chinh	
-tank.hall.ChooseHallView.master:Phòng sư đồ	
-tank.hall.ChooseHallView.openBuildTip:Chúc mừng bạn đã khởi động chức năng {0}!	
+tank.hall.ChooseHallView.auction:Leilão
+tank.hall.ChooseHallView.church:Igreja
+tank.hall.ChooseHallView.civil:Fazer amigos
+tank.hall.ChooseHallView.consortia:Guilda
+tank.hall.ChooseHallView.hotWell:Fonte termal
+tank.hall.ChooseHallView.roomList:Salas
+tank.hall.ChooseHallView.shop:Loja
+tank.hall.ChooseHallView.tofflist:Ranking
+tank.hall.ChooseHallView.dungeon:Missão
+tank.hall.ChooseHallView.master:Academia
+tank.hall.ChooseHallView.openBuildTip:Parabéns, você desbloqueou {0}!
 tank.consortia.myconsortia.MyConsortiaMemberInfoItem.month:Trên 1 tháng
 tanl.timebox.LimitAwardTip: Sự kiện này sẽ kết thúc sau khi đếm ngược về không. Hãy nhanh tay mời bạn bè tham gia.
 tank.view.effort.EffortRigthItemView.honorNameII:Tiêu đề
@@ -2547,7 +2547,7 @@ ddt.quest.collectInfo.phoneNumberError:mã kiểm chứng vô hiệu, mời nh�
 ddt.quest.collectInfo.notValidMailAddress:địa chỉ email vô hiệu	
 ddt.quest.collectInfo.notUsualMailAddress:không phải là địa chỉ email hay gặp	
 ddt.quest.collectInfo.validMailAddress:địa chỉ email có hiệu quả 	
-tank.view.common.BellowStripViewII.downLoadClient:click tải launcher về desktop	
+tank.view.common.BellowStripViewII.downLoadClient:Clique para baixar o launcher na área de trabalho
 ddt.view.academyCommon.academyRequest.state:đối phương không online, mời thử lại sau	
 IMControl.addNullFriend:mời nhập tên	
 calendar.view.ActiveState.StartNot:Sự kiện này chưa bắt đầu
@@ -2636,13 +2636,13 @@ core.badgeTip.description:Cấp guild phải lớn hơn hoặc bằng cấp {0},
 consortia.buyBadge.levelTooLow:Cấp guild chưa đạt điều kiện
 EliteGame.loadScoreRank.fail:Tải xếp hạng tích lũy thất bại!
 email.complain.lan:Thư khiếu nại
-BaseRoomView.getout.Timeout:Bạn sẽ bị đuổi khỏi phòng sau 30 giây.
-room.scoreRoom.isInRoom:Bạn đang trong phòng không thể khởi tạo
-eliteGame.readyFrame.title:Vòng hai
-eliteGame.readyFrame.firstLine:Bắt đầu vòng thứ hai
-eliteGame.readyFrame.alert:Hãy chuẩn bị trong vòng {0} giây trước khi vào trận
-eliteGame.readyFrame.readyOther:Đang tìm đối thủ...
-eliteGame.readyFrame.readyOk:Sẵn sàng
+BaseRoomView.getout.Timeout:Você será expulso da sala em 30 segundos.
+room.scoreRoom.isInRoom:Você já está em uma sala e não pode criar outra
+eliteGame.readyFrame.title:Segunda rodada
+eliteGame.readyFrame.firstLine:Começa a segunda rodada
+eliteGame.readyFrame.alert:Fique Pronto em {0} segundos para entrar na partida
+eliteGame.readyFrame.readyOther:Procurando oponente...
+eliteGame.readyFrame.readyOk:Pronto
 store.fusion.donMoveGoods:Đang dung luyện vật phẩm, không thể di chuyển vật phẩm!
 store.fusion.autoSplit.inputNumber:Nhập số lượng dung luyện
 loading.asset:Arquivo de origem
@@ -2720,7 +2720,7 @@ tank.lottery.cardLottery.chosenLimit:Has escogido {0} cartas
 tank.lottery.cardLottery.haveChosen:Has escogido esta carta
 tank.view.surpriseRoulette.close:Bạn chắc chắn muốn thoát khỏi Rương Phát Tài ?
 tank.view.surpriseRoulette.quit:Rương đang quay, bạn không thể tắt bây giờ !
-tank.invite.InviteView.list:Clear
+tank.invite.InviteView.list:Limpar
 tank.game.prop.EmptyPsychic:Điểm sinh linh không đủ	
 noviceactivity.mainframe.title:Mở server có quà
 noviceactivity.leftView.title.txt1:Tăng cấp tặng quà
@@ -2997,7 +2997,7 @@ game.view.propertyWaterBuff.timer:Còn {0} ngày
 game.view.propertyWaterBuff.timerI:Còn {0} giờ	
 game.view.propertyWaterBuff.timerII:Còn {0} phút	
 game.view.propertyWaterBuff.timerIII:Đã hết hạn	
-tank.hall.ChooseHallView.labyrinth:Đạt cấp độ 30 để tham gia!
+tank.hall.ChooseHallView.labyrinth:É preciso ser nível 30 para participar!
 tank.view.emailII.WritingView.NOGoods:
 tank.view.emailII.WritingView.NOmoney:Thư có đính kèm chỉ được trả tiền giao dịch!
 
@@ -3289,10 +3289,10 @@ newChickenBox.timePlayTxt:Thời gian event còn:
 newChickenBox1.timePlayTxt: {0}
 cedrusUI1.mainframe.title:Đăng nhập Launcher & nhận thưởng 
 ddt.dungeonRoom.todayEnterNum:Lần vào hôm nay {0}/{1}
-tank.room.ActivityDungeon.promptInfo:Chưa đạt Lv25, không thể vào phòng phó bản này
-tank.room.ActivityDungeon.roomPromptInfo:{0} chưa đạt Lv25, không thể bắt đầu
-tank.room.ActivityDungeon.roomPromptNum:{0} đã hết số lần tham gia Đảo Thất Tịch hôm nay
-tank.room.ActivityDungeon.roomPromptDes:Đã hết số lần tham gia Đảo Thất Tịch hôm nay!
+tank.room.ActivityDungeon.promptInfo:Nível 25 necessário para esta missão
+tank.room.ActivityDungeon.roomPromptInfo:{0} ainda não está no nível 25 e não pode começar
+tank.room.ActivityDungeon.roomPromptNum:{0} já usou as tentativas de hoje da Ilha Qixi
+tank.room.ActivityDungeon.roomPromptDes:Você já usou as tentativas de hoje da Ilha Qixi!
 ddt.dungeonRoom.enterTicketCount:Hiện có {0}/{1} Vé Vào
 ddt.petSystem.openPetBtn.text:Đạt cấp 25 mới mở tính năng thú cưng
 worldboss.totalInfo.time:Thời gian khiêu chiến còn
@@ -3423,7 +3423,7 @@ wonderfulActivityManager.btnTxt15:Đăng nhập tích lũy
 ddt.goodTip.laterEquipmentGoodView.equip:Cái gì đây?
 ddt.BadgeEquip:|Huy Hiệu| - Giảm thương: {0}%
 ddt.dungeonRoom.bossBtn.tiptext:VIP5 có thể mở BOSS chiến
-tank.room.openBossTip.text:Mở BOSS sẽ trừ {0} xu
+tank.room.openBossTip.text:Abrir o BOSS custa {0} cupons
 tank.dungeon.battleNum:LC đề cử:{0}
 tank.dungeon.noFightPower:LC đề cử: Không
 ddt.dungeonRoom.fightRange:LC đề cử:
