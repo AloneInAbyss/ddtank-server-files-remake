@@ -8,7 +8,7 @@ alwaysApply: false
 
 - Estilo do arquivo atual (legado/decompilado). Não modernize linguagem sem ganho.
 - Combat: `Game.Logic`. Freedom/PvE no Road; Match no Fighting. Fórmulas em `DOCUMENTACAO-COMBATE.md`. `GP_RATE` / `LeagueMoney_*` não entram no `PVPGame` deste fork.
-- String ao jogador: chave estável + linha no arquivo de idioma. Proibido `GetTranslation("frase việt")`.
+- String ao jogador: chave estável + linha no arquivo de idioma. Proibido `GetTranslation("frase việt")`. Termos: `DOCUMENTACAO-TRADUCAO.md`.
 - Produção: não deixar `if (true)` em `Login.ashx`; não gravar senha `sa`/`abc@123` nem `KHANHDUY\\SQLEXPRESS`.
 - Scripts PvE: `scripts/`, compilados em runtime.
 - Depois de mudar DLL que o Road carrega no `Init`, compile. Erro derruba o processo.
