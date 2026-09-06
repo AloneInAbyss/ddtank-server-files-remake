@@ -3148,7 +3148,7 @@ public class GamePlayer : IGamePlayer
             if (DropInventory.FightLabUserDrop(missionId, ref info) && info != null)
             {
                 bool flag = false;
-                text = LanguageMgr.GetTranslation("Phần thưởng từ phòng tập") + ": ";
+                text = LanguageMgr.GetTranslation("FightLab.Reward") + ": ";
                 foreach (ItemInfo item in info)
                 {
                     text = text + LanguageMgr.GetTranslation("Game.Server.Quests.FinishQuest.RewardProp", item.Template.Name, item.Count) + " ";

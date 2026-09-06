@@ -4145,3 +4145,37 @@ ActiveBussiness.Msg9:Nhận thưởng thất bại.
 texpSystem.texpCountToplimit:Bạn đã đạt giới hạn tu luyện hàng ngày, vui lòng tiếp tục vào ngày mai.
 Game.Server.GameUtils.ConsortiaBag.Sender:  Két sắt Guild trả lại
 Game.Server.GameUtils.ConsortiaBag.Title: Vật phẩm từ két sắt
+# --- chaves extraídas do C# (não usar frase humana como chave) ---
+Room.Full:Phòng đã đầy!
+Room.NotOpenOrClosed:Chưa mở hoặc đã đóng!
+Pet.Equip.Success:Trang bị vật phẩm PET thành công!
+Pet.Equip.Error:Đã có lỗi sảy ra vui lòng liên hệ BQT!
+Pet.Adopt.Limit:Số lượng pet đã đạt giới hạn!
+Pet.Adopt.NotFound:Không tìm thấy pet này!
+ItemFusion.NotSameType:Tồn tại vật phẩm không cùng loại!
+QuickBuyGoldBox.GoldReward:Bạn nhận được {0} vàng từ rương vàng.
+CaddyClearAll.Gold:Bạn nhận được {0} vàng
+CaddyClearAll.Gift:Bạn nhận được {0} lễ kim
+NoviceActivity.OpenServerGift:Quà Mở Máy Chủ
+NoviceActivity.OpenServerMailBody:Đây là thư tự động từ phần thưởng Quà Mở Máy Chủ, người chơi vui lòng không reply.
+NoviceActivity.ConditionFail:Điều kiện không đủ! thao tác thất bại.
+Academy.AlreadyMaster:Thật tiếc, đối phương đã là bậc thầy hãy thử lại vào lần sau!
+Farm.HelperEndFood:Kết thúc trợ thủ, nhận được thức ăn thú cưng!
+Farm.BagFull:Túi đầy
+Farm.NeedLevel25:Bạn chưa đạt cấp độ 25 không thể vào Nông Trại!
+Farm.HarvestFail:Thu hoạch thất bại!
+Farm.HarvestSuccess:Thu hoạch thành công!
+Farm.StealLimit:Không thể chộm nữa.
+Farm.Success:Thao tác thành công.
+Farm.ExpandSuccess:Mở rộng thành công!
+Farm.HelperActivateFail:Kích hoạt trợ thủ thất bại!
+Farm.LockedXuNotEnough:Xu khóa không đủ!
+Farm.XuNotEnough:Xu không đủ!
+Farm.HelperCancelSuccess:Hủy trợ thủ thành công!
+Farm.HelperActivateSuccess:Kích hoạt trợ thủ thành công!
+Farm.HelperRenewSuccess:Gia hạn trợ thủ thành công!
+FightLab.Reward:Phần thưởng từ phòng tập
+Player.NickExists: tên nhân vật đã tồn tại.
+RenameNick.Fail: thay đổi tên nhân vật thất bại.
+RenameNick.Success: thay đổi tên nhân vật thành công.
+NickNameCheck.Exists: Tên người chơi đã tồn tại

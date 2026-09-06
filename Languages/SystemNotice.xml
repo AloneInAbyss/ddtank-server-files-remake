@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <list>
-  <item id="1" notice="Giờ Vàng bắt đầu lúc [12:30 - 13:30] và [19:30 - 20:30] mỗi ngày."/>
-  <item id="2" notice="Boss Thế Giới bắt đầu lúc [19:30 - 20:30] vào thứ 2,4,6."/>
-  <item id="3" notice="Hút Gà bắt đầu lúc [13:00 - 14:00] vào thứ 3,5,7."/>
-  <item id="4" notice="Mọi người đóng góp ý kiến hãy liên hệ ngay với Fanpage nhé."/>
-  <item id="5" notice="Hệ thống tự động khóa tài khoản có hành vi phá hoại như bug, cheat,..."/>
-  <item id="6" notice="Bảo mật tài khoản thật kĩ tránh trường hợp mất mát!"/>
-  <item id="7" notice="Tài khoản sử dụng tool, auto aim,... hãy report vào discord của game!"/>
-  <item id="8" notice="Link discord của server là https://discord.com/invite/avU3GQzent"/>
+  <item id="1" notice="Horário de ouro: [12:30 - 13:30] e [19:30 - 20:30] todos os dias."/>
+  <item id="2" notice="Boss mundial: [19:30 - 20:30] às segundas, quartas e sextas."/>
+  <item id="3" notice="Captura de galinha: [13:00 - 14:00] às terças, quintas e sábados."/>
+  <item id="4" notice="Sugestões e dúvidas: fale com a administração deste servidor."/>
+  <item id="5" notice="Contas com bug, cheat ou sabotagem são bloqueadas automaticamente."/>
+  <item id="6" notice="Proteja sua conta. Não compartilhe senha."/>
+  <item id="7" notice="Uso de tool ou mira automática: denuncie à administração."/>
+  <item id="8" notice="Fique atento aos avisos oficiais deste servidor."/>
 </list>

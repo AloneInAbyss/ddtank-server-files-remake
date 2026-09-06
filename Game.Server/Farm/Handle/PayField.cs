@@ -11,7 +11,7 @@ namespace Game.Server.Farm.Handle
     {
         public bool CommandHandler(GamePlayer Player, GSPacketIn packet)
         {
-			string translation = LanguageMgr.GetTranslation("Mở rộng thành công!");
+			string translation = LanguageMgr.GetTranslation("Farm.ExpandSuccess");
 			List<int> list = new List<int>();
 			int num = packet.ReadInt();
 			for (int i = 0; i < num; i++)

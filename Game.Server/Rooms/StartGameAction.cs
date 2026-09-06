@@ -113,7 +113,7 @@ namespace Game.Server.Rooms
             }
             else
             {
-                GSPacketIn pkg2 = m_room.Host.Out.SendMessage(eMessageType.ChatERROR, LanguageMgr.GetTranslation("Chưa mở hoặc đã đóng！"));
+                GSPacketIn pkg2 = m_room.Host.Out.SendMessage(eMessageType.ChatERROR, LanguageMgr.GetTranslation("Room.NotOpenOrClosed"));
                 m_room.SendToAll(pkg2, m_room.Host);
             }
             m_room.SendCancelPickUp();

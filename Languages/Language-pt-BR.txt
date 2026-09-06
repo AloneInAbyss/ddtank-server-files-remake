@@ -4146,3 +4146,37 @@ ActiveBussiness.Msg9:Falha ao receber a recompensa.
 texpSystem.texpCountToplimit:Você atingiu o limite de treino de hoje. Continue amanhã.
 Game.Server.GameUtils.ConsortiaBag.Sender:  Devolução do cofre da guilda
 Game.Server.GameUtils.ConsortiaBag.Title: Item do cofre
+# --- chaves extraídas do C# (não usar frase humana como chave) ---
+Room.Full:Sala cheia!
+Room.NotOpenOrClosed:Ainda não abriu ou já fechou!
+Pet.Equip.Success:Item de pet equipado!
+Pet.Equip.Error:Ocorreu um erro. Fale com o GM!
+Pet.Adopt.Limit:Você atingiu o limite de pets!
+Pet.Adopt.NotFound:Pet não encontrado!
+ItemFusion.NotSameType:Há itens de tipos diferentes!
+QuickBuyGoldBox.GoldReward:Você recebeu {0} de ouro do baú de ouro.
+CaddyClearAll.Gold:Você recebeu {0} de ouro
+CaddyClearAll.Gift:Você recebeu {0} presentes
+NoviceActivity.OpenServerGift:Presente de abertura do servidor
+NoviceActivity.OpenServerMailBody:Correio automático do presente de abertura. Não responda.
+NoviceActivity.ConditionFail:Condição insuficiente. A ação falhou.
+Academy.AlreadyMaster:Que pena, a outra pessoa já é mestre. Tente de novo depois!
+Farm.HelperEndFood:Assistente encerrado. Você recebeu ração de pet!
+Farm.BagFull:Mochila cheia
+Farm.NeedLevel25:É preciso ser nível 25 para entrar na fazenda!
+Farm.HarvestFail:Falha na colheita!
+Farm.HarvestSuccess:Colheita concluída!
+Farm.StealLimit:Não dá para colher mais deste campo.
+Farm.Success:Feito.
+Farm.ExpandSuccess:Expansão concluída!
+Farm.HelperActivateFail:Falha ao ativar o assistente!
+Farm.LockedXuNotEnough:Cupons vinculados insuficientes!
+Farm.XuNotEnough:Cupons insuficientes!
+Farm.HelperCancelSuccess:Assistente cancelado!
+Farm.HelperActivateSuccess:Assistente ativado!
+Farm.HelperRenewSuccess:Assistente renovado!
+FightLab.Reward:Recompensa do laboratório de combate
+Player.NickExists:Este apelido já existe.
+RenameNick.Fail:Falha ao alterar o nome do personagem.
+RenameNick.Success:Nome do personagem alterado.
+NickNameCheck.Exists:Este apelido já existe.

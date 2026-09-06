@@ -33,7 +33,7 @@ namespace Tank.Request
             path += "\\";
             LanguageMgr.Setup(path);
             bool value = false;
-            string message = LanguageMgr.GetTranslation(" thay đổi tên nhân vật thất bại.");// "Login Fail!";
+            string message = LanguageMgr.GetTranslation("RenameNick.Fail");
 
             XElement result = new XElement("Result");
             try
@@ -66,7 +66,7 @@ namespace Tank.Request
                                 {
                                     PlayerManager.Update(name, newPwd);
                                     value = true;
-                                    message = LanguageMgr.GetTranslation(" thay đổi tên nhân vật thành công.");
+                                    message = LanguageMgr.GetTranslation("RenameNick.Success");
                                 }
                             }
                         }
@@ -78,7 +78,7 @@ namespace Tank.Request
             {
                 log.Error("RenameNick", ex);
                 value = false;
-                message = LanguageMgr.GetTranslation(" thay đổi tên nhân vật thất bại ..");
+                message = LanguageMgr.GetTranslation("RenameNick.Fail");
             }
 
             result.Add(new XAttribute("value", value));

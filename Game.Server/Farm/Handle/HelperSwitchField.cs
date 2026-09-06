@@ -9,7 +9,7 @@ namespace Game.Server.Farm.Handle
     {
         public bool CommandHandler(GamePlayer Player, GSPacketIn packet)
         {
-			string msg = LanguageMgr.GetTranslation("Kích hoạt trợ thủ thất bại!");
+			string msg = LanguageMgr.GetTranslation("Farm.HelperActivateFail");
 			bool flag = packet.ReadBoolean();
 			int num = packet.ReadInt();
 			int seedTime = packet.ReadInt();
@@ -26,7 +26,7 @@ namespace Game.Server.Farm.Handle
 				}
 				else if (Player.PlayerCharacter.GiftToken < num4 || num3 != -2)
 				{
-					msg = ((num3 != -1) ? LanguageMgr.GetTranslation("Xu khóa không đủ!") : LanguageMgr.GetTranslation("Xu không đủ!"));
+					msg = ((num3 != -1) ? LanguageMgr.GetTranslation("Farm.LockedXuNotEnough") : LanguageMgr.GetTranslation("Farm.XuNotEnough"));
 				}
 				else
 				{
@@ -36,12 +36,12 @@ namespace Game.Server.Farm.Handle
 			}
 			else
 			{
-				msg = LanguageMgr.GetTranslation("Hủy trợ thủ thành công!");
+				msg = LanguageMgr.GetTranslation("Farm.HelperCancelSuccess");
 				Player.Farm.CropHelperSwitchField(isStopFarmHelper: true);
 			}
 			if (flag2)
 			{
-				msg = LanguageMgr.GetTranslation("Kích hoạt trợ thủ thành công!");
+				msg = LanguageMgr.GetTranslation("Farm.HelperActivateSuccess");
 				Player.Farm.HelperSwitchField(flag, num, seedTime, num2, getCount);
 				Player.FarmBag.RemoveTemplate(num, num2);
 			}

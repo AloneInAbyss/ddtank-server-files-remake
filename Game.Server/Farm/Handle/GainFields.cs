@@ -10,14 +10,14 @@ namespace Game.Server.Farm.Handle
         {
 			int num = packet.ReadInt();
 			int fieldId = packet.ReadInt();
-			string msg = LanguageMgr.GetTranslation("Thu hoạch thất bại!");
+			string msg = LanguageMgr.GetTranslation("Farm.HarvestFail");
 			if (num == Player.PlayerCharacter.ID && Player.Farm.GainField(fieldId))
 			{
-				msg = LanguageMgr.GetTranslation("Thu hoạch thành công!");
+				msg = LanguageMgr.GetTranslation("Farm.HarvestSuccess");
 			}
 			else if (num != Player.PlayerCharacter.ID)
 			{
-				msg = ((!Player.Farm.GainFriendFields(num, fieldId)) ? LanguageMgr.GetTranslation("Không thể chộm nữa.") : LanguageMgr.GetTranslation("Thao tác thành công."));
+				msg = ((!Player.Farm.GainFriendFields(num, fieldId)) ? LanguageMgr.GetTranslation("Farm.StealLimit") : LanguageMgr.GetTranslation("Farm.Success"));
 			}
 			Player.SendMessage(msg);
 			return true;

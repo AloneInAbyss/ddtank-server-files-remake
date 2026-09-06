@@ -114,7 +114,7 @@ namespace Game.Server.GameRoom.Handle
                             }
                             else
                             {
-                                m_player.Out.SendMessage(eMessageType.BIGBUGLE_NOTICE, LanguageMgr.GetTranslation("Phòng đã đầy!"));
+                                m_player.Out.SendMessage(eMessageType.BIGBUGLE_NOTICE, LanguageMgr.GetTranslation("Room.Full"));
                                 flag = false;
 
                             }

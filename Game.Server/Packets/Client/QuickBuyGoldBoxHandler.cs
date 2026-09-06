@@ -32,7 +32,7 @@ namespace Game.Server.Packets.Client
 				ItemBoxMgr.CreateItemBox(itemTemplateInfo.TemplateID, itemInfos, ref gold, ref point, ref giftToken, ref medal, ref exp);
 				int value2 = num * gold;
 				client.Player.AddGold(value2);
-				client.Out.SendMessage(eMessageType.GM_NOTICE, LanguageMgr.GetTranslation("Bạn nhận được " + value2 + " vàng từ rương vàng."));
+				client.Out.SendMessage(eMessageType.GM_NOTICE, LanguageMgr.GetTranslation("QuickBuyGoldBox.GoldReward", value2));
 			}
 			return 0;
         }
