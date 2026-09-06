@@ -88,63 +88,63 @@ tank.RenameFrame.Consortia.space:O nome não pode ficar vazio
 tank.RenameFrame.Consortia.string:O nome contém caracteres proibidos
 tank.RenameFrame.Consortia.input:Digite o nome do personagem
 choosecharacter.ChooseSexPanel:Escolher sexo
-tank.game.actions.ChangePlayerAction: ☎■■■■Đến lượt bạn■■■■☎,☏□□□□Đến lượt bạn
-tank.game.actions.SelfPlayerWalkAction:Thể lực không đủ
-tank.game.ArrowViewIII.fall:Đến lượt bạn mới được sử dụng
-tank.game.ArrowViewIII.skill:Kỹ năng cần phải {0} lượt mới có thể sử dụng
-tank.game.EnergyViewIII.proximal:Hình thức cận chiến bắt đầu
-tank.game.PropShortCutView.prop:Có phải bạn muốn xóa bỏ đạo cụ này không?
-tank.game.RightPropView.prop:Đạo cụ này chỉ có thể sử dụng cá nhân
-tank.game.ToolStripView.suicide1:Bạn chắc chắn muốn tự sát chứ?
-tank.game.WebSpeedView.frame:Số frame
-tank.game.WebSpeedView.delay:Trì hoãn
-tank.game.WebSpeedView.explain1:Khi kết nối máy chủ, nếu hiện màu đỏ liên tục tức đường truyền không tốt
-tank.game.WebSpeedView.explain2:Nếu hình ảnh game hiển thị bị giựt, có thể điểu chỉnh<FONT COLOR='#0099FF'> thiết lập hiển thị</FONT> để khắc phục.
-tank.game.BuffName11:Trong phó bản Huyệt ma kiến,tăng giới hạn máu.
-tank.game.BuffName12:Tăng công kích
-tank.game.BuffName13:Tỉnh giấc
-tank.game.BuffName14:Choáng
-tank.game.BuffName15:Siêu thể lực
-tank.game.BuffName16:Xả giận
-tank.game.BuffName17:Quyền năng
-tank.game.BuffName18:Siêu năng lượng
-tank.game.BuffName19:Khiêng hy vọng
-tank.game.BuffName20:Hiệu ứng công kích
-tank.game.BuffName21:Bốc lửa
-tank.game.BuffName22:Hàn băng
-tank.game.BuffName23:Vững vàng
-tank.game.BuffName24:Ý chí
-tank.game.BuffName25:Tinh khiết
-tank.game.BuffName26:Trị liệu
-tank.game.BuffName27:Phòng hộ
-tank.game.BuffName400:HP cuồng phong
-tank.game.BuffName401:Tấn công cuồng phong
-tank.game.BuffName402:HP siêu cấp
-tank.game.BuffName403:Tấn công siêu cấp
-tank.game.BuffName406:Tăng sát thương
-tank.game.BuffTip406:Sát thương tăng {0}.
-tank.game.BuffTip400:Tăng {0} HP.
-tank.game.BuffTip401:Lực tấn công tăng {0}.
-tank.game.BuffTip402:Tăng {0} HP.
-tank.game.BuffTip403:Lực tấn công tăng {0}.
-tank.game.SelfMark.Skip:Click để bỏ lượt và tăng 20 điểm nộ kh
-tank.game.BuffTip11:Giới hạn máu tăng {0} điểm.
-tank.game.BuffTip12:Đánh trúng đích tăng {0} điểm sát thương.
-tank.game.BuffTip13:Mỗi lần đến lượt của mình, tăng {0} điểm nộ.
-tank.game.BuffTip14:Đánh trúng đích xuất hiện crit,tăng {0} điểm crit sát thương.
-tank.game.BuffTip15:Khi di chuyển không tiêu hao thể lực
-tank.game.BuffTip16:Khi đánh trúng đích tăng {0} điểm pow.
-tank.game.BuffTip17:Tăng {0} điểm cho từng thuộc tính công kích, phòng ngự,nhanh nhẹn,may mắn.
-tank.game.BuffTip18:Giới hạn máu tăng {0} điểm.
-tank.game.BuffTip19:Khi bị tấn công,giảm {0} điểm sát thương
-tank.game.BuffTip20:Khi đánh trúng đích tăng sát thương {0}%.
-tank.game.BuffTip21:Ngay khi bắt đầu đi phó bản,sẽ có {0} đểm pow.
-tank.game.BuffTip22:Mỗi lần bị sát thương phỏng,sẽ giảm được {0} điểm sát thương.
-tank.game.BuffTip23:Đứng vững trước tiếng gầm của boss rồng.
-tank.game.BuffTip24:Thuộc tính phòng ngự tăng {0}%.
-tank.game.BuffTip25:Mỗi hiệp nếu trúng sát thương độc sẽ giảm {0} điểm.
-tank.game.BuffTip26:Dùng thiên sứ trị liệu tăng {0} máu.
-tank.game.BuffTip27:Giảm sát thương
+tank.game.actions.ChangePlayerAction: ☎■■■■Sua vez■■■■☎,☏□□□□Sua vez
+tank.game.actions.SelfPlayerWalkAction:Vigor insuficiente
+tank.game.ArrowViewIII.fall:Só pode usar na sua vez
+tank.game.ArrowViewIII.skill:A habilidade só pode ser usada após {0} turnos
+tank.game.EnergyViewIII.proximal:Modo corpo a corpo iniciado
+tank.game.PropShortCutView.prop:Deseja remover este item?
+tank.game.RightPropView.prop:Este item só pode ser usado em si mesmo
+tank.game.ToolStripView.suicide1:Tem certeza de que quer se render?
+tank.game.WebSpeedView.frame:Frames
+tank.game.WebSpeedView.delay:Atraso
+tank.game.WebSpeedView.explain1:Se a conexão com o servidor ficar vermelha o tempo todo, a rede está ruim
+tank.game.WebSpeedView.explain2:Se a imagem travar, ajuste as <FONT COLOR='#0099FF'>configurações de vídeo</FONT>.
+tank.game.BuffName11:Na missão Formigueiro, aumenta o limite de HP.
+tank.game.BuffName12:Aumenta o ataque
+tank.game.BuffName13:Despertar
+tank.game.BuffName14:Atordoado
+tank.game.BuffName15:Super vigor
+tank.game.BuffName16:Fúria
+tank.game.BuffName17:Poder
+tank.game.BuffName18:Super energia
+tank.game.BuffName19:Escudo da esperança
+tank.game.BuffName20:Efeito de ataque
+tank.game.BuffName21:Em chamas
+tank.game.BuffName22:Gelo
+tank.game.BuffName23:Firmeza
+tank.game.BuffName24:Vontade
+tank.game.BuffName25:Pureza
+tank.game.BuffName26:Cura
+tank.game.BuffName27:Proteção
+tank.game.BuffName400:HP tempestade
+tank.game.BuffName401:Ataque tempestade
+tank.game.BuffName402:HP supremo
+tank.game.BuffName403:Ataque supremo
+tank.game.BuffName406:Aumenta o dano
+tank.game.BuffTip406:Dano +{0}.
+tank.game.BuffTip400:HP +{0}.
+tank.game.BuffTip401:Ataque +{0}.
+tank.game.BuffTip402:HP +{0}.
+tank.game.BuffTip403:Ataque +{0}.
+tank.game.SelfMark.Skip:Clique para pular o turno e ganhar 20 de fúria
+tank.game.BuffTip11:Limite de HP +{0}.
+tank.game.BuffTip12:Ao acertar, dano +{0}.
+tank.game.BuffTip13:No seu turno, fúria +{0}.
+tank.game.BuffTip14:Ao dar crítico, dano crítico +{0}.
+tank.game.BuffTip15:Mover-se não gasta vigor
+tank.game.BuffTip16:Ao acertar, POW +{0}.
+tank.game.BuffTip17:Ataque, defesa, agilidade e sorte +{0}.
+tank.game.BuffTip18:Limite de HP +{0}.
+tank.game.BuffTip19:Ao ser atingido, dano recebido -{0}
+tank.game.BuffTip20:Ao acertar, dano +{0}%.
+tank.game.BuffTip21:Ao começar a missão, POW +{0}.
+tank.game.BuffTip22:Dano de queimadura -{0}.
+tank.game.BuffTip23:Resiste ao rugido do dragão.
+tank.game.BuffTip24:Defesa +{0}%.
+tank.game.BuffTip25:Dano de veneno por turno -{0}.
+tank.game.BuffTip26:Cura do anjo +{0} HP.
+tank.game.BuffTip27:Reduz o dano
 tank.invite.response.title:Convite de {0}
 tank.invite.InviteView.close:Fechar
 tank.bagAndInfo.ColorShell.NoWeapon:Bạn chưa trang bị vũ khí,không thể sử dụng.
@@ -354,15 +354,15 @@ tank.view.common.AddPricePanel.xufei2:        Loại tiếp phí:
 tank.view.common.AddPricePanel.xu:Nạp phí
 tank.view.common.AddPricePanel.sure:Bạn muốn xóa vật phẩm này?
 tank.view.common.AddPricePanel.pay:Xác nhận trả tiền?
-tank.game.ToolStripView.friend:Bạn bè(F)
-tank.game.ToolStripView.face:Biểu cảm
-tank.game.ToolStripView.chat:Chat nhanh
-tank.game.ToolStripView.set:Thiết lập(H)
-tank.game.ToolStripView.exit:Thoát
-tank.game.ToolStripView.proplayer1:Chuyển thành dọc 
-tank.game.ToolStripView.proplayer2:Chuyển thành ngang 
-tank.game.ToolStripView.suicide:Tự sát
-tank.game.ToolStripView.task:Nhiệm vụ (Q)
+tank.game.ToolStripView.friend:Amigos (F)
+tank.game.ToolStripView.face:Emote
+tank.game.ToolStripView.chat:Chat rápido
+tank.game.ToolStripView.set:Ajustes (H)
+tank.game.ToolStripView.exit:Sair
+tank.game.ToolStripView.proplayer1:Vertical
+tank.game.ToolStripView.proplayer2:Horizontal
+tank.game.ToolStripView.suicide:Render-se
+tank.game.ToolStripView.task:Missões (Q)
 tank.roomlist.RoomListIIRoomBtnPanel.createRoom:Criar sala
 tank.roomlist.RoomListIIRoomBtnPanel.fastjojn:Entrar rápido em um grupo
 tank.roomlist.RoomListIIRoomBtnPanel.fastjojnQj:Entrar rápido em captura de bandeira
@@ -473,7 +473,7 @@ shop.ShopIITryDressView.returnToBegin1:Bỏ hóa trang
 shop.ShopIITryDressView.returnToBegin2:Chọn lại hình dáng ban đầu
 road.ui.controls.TabPanel.zhi: index Trị của phải từ 0 đến {0}
 road.ui.controls.TabPanel.zhijian: Trong khỏang
-tank.game.ToolStripView.limit:Máu ít hơn 30% không thể tự sát
+tank.game.ToolStripView.limit:Com menos de 30% de HP não é possível se render
 tank.room.RoomIIPlayerItem.chat:Chat privado
 tank.room.RoomIIPlayerItem.look:Ver
 tank.room.RoomIIPlayerItem.friend:Adicionar amigo
@@ -511,7 +511,7 @@ tank.data.RoomInfo.BeginClub:Kết hợp thành công, đội của bạn bắt 
 tank.manager.PlayerManger.friendOnline:Bạn vừa online
 tank.manager.PlayerManger.friendOffline:Bạn đã offline
 tank.data.player.FightingPlayerInfo.your:Bạn đạt được <{0}>
-tank.game.GameView.player:Người chơi [{0}] đã rời khỏi
+tank.game.GameView.player:O jogador [{0}] saiu
 tank.view.chat.ChatInput.time:Bạn nhập nhanh quá
 tank.room.PickupPanel.ChangeStyle:Você ainda não tem guilda!<br>Quer esperar?
 tank.consortia.club.consortiaList:Danh sách guild
@@ -644,15 +644,15 @@ tank.view.task.TaskCatalogContentView.new:Nội dung nhiệm vụ
 tank.view.task.TaskCatalogView.new:Nhiệm vụ
 tank.view.quest.newquest.Title:Nhận nhiệm vụ mới 
 tank.view.quest.newquest.Subtitle:Bạn đã nhận nhiệm vụ mới,nhấp chọn kiểm tra. 
-tank.game.ArrowViewIII.big:Kính phóng to[T]
-tank.game.ArrowViewIII.alpha:Điều chỉnh độ trong suốt trong trò chơi
-tank.game.ArrowViewIII.send:Chuyển đi [F]
-tank.game.ArrowViewIII.give:Chuyển đến điểm rơi của vị trí tấn công, 2 lượt 1 lần.
-tank.game.GameView.team:Đồng đội đang hành động, bạn có thể dung đạo cụ để hỗ trợ
-tank.game.ToolStripView.itemTemplateInfo.Name:Nộ Khí [B]
-tank.game.ToolStripView.itemTemplateInfo.Description:Nhấp vào nút Pow để tấn công, không dùng chung với súng 3 tia
+tank.game.ArrowViewIII.big:Lupa [T]
+tank.game.ArrowViewIII.alpha:Ajustar transparência no combate
+tank.game.ArrowViewIII.send:Voar [F]
+tank.game.ArrowViewIII.give:Voa até o ponto de impacto. A cada 2 turnos.
+tank.game.GameView.team:Um aliado está jogando; você pode usar itens para ajudar
+tank.game.ToolStripView.itemTemplateInfo.Name:Fúria [B]
+tank.game.ToolStripView.itemTemplateInfo.Description:Clique em Pow para atacar. Não combina com a arma de 3 raios
 tank.game.ToolStripView.itemTemplateInfo.Name2:Pow 2 [R]
-tank.game.ToolStripView.itemTemplateInfo.Description2:Nhấp chọn lửa phẩn nộ để có thể dùng pow 2 và không dùng chung với súng 3 tia
+tank.game.ToolStripView.itemTemplateInfo.Description2:Use a fúria para Pow 2. Não combina com a arma de 3 raios
 tank.room.RoomIIMapSetPanel.room:Configurar sala
 tank.roomlist.RoomListIICreateRoomView.titleText:Criar sala
 tank.roomlist.RoomListIICreateRoomView.contest:Sala de torneio não pode ser captura de bandeira
@@ -664,9 +664,9 @@ Crazytank.TankStartApp.login:Falha no login
 tank.consortia.myconsortia.frame.MyConsortiaUpgrade.titleTxt:Nâng cấp Guild
 tank.view.movement.MovementLeftView.action:Họat động
 tank.manager.PlayerManager.player:<{0}> gia nhập guild
-tank.game.ToolStripView.start:Sau khi bắt đầu {0} phút,mới được tự sát
+tank.game.ToolStripView.start:Só é possível se render {0} minutos após o início
 tank.view.ExitHint.hint.text:Thoát bị trừ kinh nghiệm,công trạng
-tank.game.ToolStripView.cannotExit:Sau khi bắt đầu 2 phút, mới được thoát
+tank.game.ToolStripView.cannotExit:Só é possível sair 2 minutos após o início
 tank.data.MovementInfo.begin:Từ {0}
 tank.data.MovementInfo.date:{0}/{1}/{2}
 tank.menu.TotalCount:Bàn:{0}
@@ -685,8 +685,8 @@ choosecharacter.ChooseCharacterView.lost:O nome foi removido
 tank.view.common.AddPricePanel.xufei1:         Vật phẩm quá hạn, mời tiếp phí
 hours:hora
 tank.consortia.club.CreatConsortiaFrame.yourGold:Vàng không đủ
-tank.game.LeftPlayerCartoonView.Name:Phím tắt bỏ lượt P 
-tank.game.LeftPlayerCartoonView.Description:Bỏ 1 lượt công kích, tích nộ khí
+tank.game.LeftPlayerCartoonView.Name:Atalho para pular turno: P
+tank.game.LeftPlayerCartoonView.Description:Pula um turno de ataque e acumula fúria
 tank.view.comon.lack:Cupons insuficientes. Deseja recarregar?
 tank.view.enthrall.turnSwitch:Hệ thống 5h chơi tắt
 tank.view.enthrall.CIDInfoSetFail:Kiểm chứng thất bại
@@ -890,7 +890,7 @@ send:Gửi
 tank.view.emailII.WritingView.backTime:Thời gian trả thư: 1 giờ
 tank.view.emailII.WritingView.backTime2:Thời gian trả thư: 6 giờ
 tank.view.tutorial.EnterTutorialFrame.loaderComplete:Xin đợi lát sau hãy vào mục giúp đỡ tân thủ
-tank.game.DanderStrip.tip:POW  là mức Nộ của người chơi, người chơi tấn công hay bị tấn công đều tích lũy nộ khí. Khi nộ khí đầy, có thể sử dụng POW để tấn công với uy lực mạnh hơn
+tank.game.DanderStrip.tip:POW é a fúria. Atacar ou ser atacado a enche. Quando estiver cheia, use POW para um golpe mais forte
 duoqi:Đọat cờ
 nextPage:Trang sau
 lastPage:Trang cuối
@@ -982,13 +982,13 @@ tank.missionsettle.dungeon.leaveConfirm.contents:<font color='#ff0000'> Phó b�
 tank.missionsettle.explore.leaveConfirm.title:thoát chiến đấu
 tank.room.RoomIIView2.affirm:Entendi
 tank.room.RoomIIView2.clewContent:Esta missão é difícil. O ideal é um grupo de <FONT COLOR='#FF0000'>2</FONT> ou mais.<br>Ainda quer entrar?
-tank.game.ArrowViewIII.deputyweapon.title:trợ thủ [R]
-tank.game.ArrowViewIII.deputyweapon.description:vũ khí phụ
+tank.game.ArrowViewIII.deputyweapon.title:arma secundária [R]
+tank.game.ArrowViewIII.deputyweapon.description:arma secundária
 tank.room.difficulty.simple:Fácil
 tank.room.difficulty.normal:Normal
 tank.room.difficulty.hard:Difícil
 tank.room.difficulty.hero:Herói
-tank.game.prop.effect.seal:bị phong ấn không thể sử dụng đạo cụ
+tank.game.prop.effect.seal:Selado: não é possível usar itens
 tank.roomlist.RoomListIICreatePveRoomView.tank:Aventura! Vamos nessa!
 tank.roomlist.RoomListIICreatePveRoomView.go:Combate em equipe!
 tank.roomlist.RoomListIICreatePveRoomView.fire:Desafio sem fim!
@@ -1001,7 +1001,7 @@ tank.gameover.takecard.getgold:Bạn nhận được {0} vàng
 tank.gameover.takecard.money:xu
 tank.gameover.takecard.gifttoken:lễ kim
 tank.gameover.takecard.money:xu
-tank.game.gameplayer.proplist.full:thanh đạo cụ đã đầy ,lấy thất bại .
+tank.game.gameplayer.proplist.full:A barra de itens está cheia.
 tank.view.shortcutforge.tip:phím tắt tiệm rèn
 tank.view.equipretrieve.tip:Tinh luyện vật phẩm
 tank.view.equipretrieve.success:Tinh luyện vật phẩm thành công
@@ -1057,8 +1057,8 @@ tank.view.DownloadingView.titleText:tải client
 tank.view.bagII.BagIIView.bagFinishingBtn:sắp xếp túi 
 tank.view.store.matteTips:nếu như thanh đạo cụ có lỗ cắm giống châu báu ,\ncó thể đem châu báu đến tiến hành khảm nạm 
 tank.view.GoldInadequate:vàng không đủ, có phải mua rương vàng 
-tank.game.GameViewBase.Hint:<FONT SIZE='16' FACE='Arial Unicode MS' KERNING='2' COLOR='#00 77bc'><B>card đạo cụ vô hạn đã hết hạn, nhấp vào thanh đạo cụ tiếp phí nhanh！</B></FONT>
-tank.game.GameViewBase.HintTitle:nhắc nhở
+tank.game.GameViewBase.Hint:<FONT SIZE='16' FACE='Arial Unicode MS' KERNING='2' COLOR='#00 77bc'><B>O cartão de itens ilimitados expirou. Clique na barra de itens para renovar!</B></FONT>
+tank.game.GameViewBase.HintTitle:aviso
 tank.view.continuation.contiuationFailed:tiền không đủ, tiếp phí thất bại 
 tank.view.store.matteHelp.title:hướng dẫn 
 tank.view.store.title:tiệm rèn 
@@ -1132,16 +1132,16 @@ tank.view.bagII.baglocked.newTooShort:độ dài mật mã mới quá ngắn
 tank.view.bagII.cantAddPrice:vật phẩm này không thể tiếp phí 
 tank.view.bagII.sexErr:giới tính không đúng
 tank.view.bagII.dressed:đã trang bị 
-tank.game.smallmap.simple:Dễ
-tank.game.smallmap.normal:Thường
-tank.game.smallmap.difficulty:Khó
-tank.game.smallmap.hero:Anh hùng
-tank.game.prop.Error1:Đến lượt bạn mới sử dụng được
-tank.game.prop.NotAttacking:Đến lượt bạn mới sử dụng được
-tank.game.prop.NotCoolDown:Kỹ năng cần {0} lượt nữa mới sử dụng được
-tank.game.prop.LockState:Bị phong ấn không thể dùng vật phẩm
-tank.game.mapGenerated:đã tạo bản đồ 
-tank.game.cantUseItem:bị phong ấn không thể sử dụng  đạo cụ 
+tank.game.smallmap.simple:Fácil
+tank.game.smallmap.normal:Normal
+tank.game.smallmap.difficulty:Difícil
+tank.game.smallmap.hero:Herói
+tank.game.prop.Error1:Só na sua vez
+tank.game.prop.NotAttacking:Só na sua vez
+tank.game.prop.NotCoolDown:A habilidade fica disponível em {0} turnos
+tank.game.prop.LockState:Selado: não é possível usar itens
+tank.game.mapGenerated:mapa gerado
+tank.game.cantUseItem:Selado: não é possível usar itens
 tank.gametrainer.study.fengongbogu:Hồng hồng 
 tank.gametrainer.view.freshmanQustion:hỏi đáp tân thủ
 tank.gametrainer.view.agree:đồng ý 
@@ -1233,20 +1233,20 @@ tank.view.common.DeadTipDialog.btn:tôi biết rồi
 #2.20versio:#2.20version
 tank.view.bagII.SellGoodsBtn.sure:xác nhận bán vật phẩm này?\n Giá:{0}
 tank.view.bagII.SellGoodsBtn.CantSellEquip:Không thể bán vật phẩm giá trị cao này.
-tank.game.GameView.getgoodstip.broadcast:Chúc mừng {0} tại {1} đã nhận được 
-tank.game.GameView.getgoodstip:[{0}] tại {1} đã nhận được  
+tank.game.GameView.getgoodstip.broadcast:Parabéns: {0} em {1} recebeu 
+tank.game.GameView.getgoodstip:[{0}] em {1} recebeu 
 tank.view.common.BuggleView.cross:]Sử dụng loa thế giới  phát tin tức :
 tank.dialog.showbugleframe.crossbugletitle:Hãy mau mua loa lớn thế giới
-tank.game.GameView.unexpectedBattle:Chiến đấu
-tank.game.GameView.dungeonBattle:Phó bản
+tank.game.GameView.unexpectedBattle:Combate
+tank.game.GameView.dungeonBattle:Missão
 tank.room.duplicate.notOpen:Esta missão ainda não está aberta!
 tank.view.chat.ChannelListSelectView.cross:loa thế giới  
 tank.view.chatFormat.cross:Không cùng máy chủ, không thể chat riêng
-tank.game.BloodStrip.HP:Máu
-tank.game.actions.kill:Công kích
-tank.game.actions.turn:Hiệp 
-tank.game.PowerStrip.energy:Thể lực: 
-tank.game.deputyWeapon.canNotUse:Số lần sử dụng Thiên sứ ban phúc trong trận đã hết
+tank.game.BloodStrip.HP:HP
+tank.game.actions.kill:Ataque
+tank.game.actions.turn:Turno 
+tank.game.PowerStrip.energy:Vigor: 
+tank.game.deputyWeapon.canNotUse:Acabaram os usos do Anjo nesta partida
 tank.view.common.InviteAlertPanel.pass:Fase:
 tank.menu.FightPower:Lực chiến:{0} 
 tank.manager.GradeExaltClewManager:Chúc mừng bạn đã tăng cấp!
@@ -1262,12 +1262,12 @@ tank.view.ConsortiaReworkNameView.consortiaNameAlert5:Tên hội có từ cấm
 tank.view.ConsortiaReworkNameView.consortiaNameAlert6:Tên hội không được có khoảng trắng
 tank.view.ConsortiaReworkNameView.consortiaNameAlert7:Hãy nhập tên
 tank.manager.crossdisable:Loa thế giới tạm chưa mở
-tank.game.deputyWeapon.canNotUse2:Số lần sử dụng khiêng gà của bạn trong trận đã hết
-tank.game.deputyWeapon.canNotUse3:Số lần sử dụng khiêng Bolo bala trong trận đã hết
+tank.game.deputyWeapon.canNotUse2:Acabaram os usos do escudo de galinha nesta partida
+tank.game.deputyWeapon.canNotUse3:Acabaram os usos do escudo Bolo Bala nesta partida
 tank.view.emailII.ReadingView.useHelp:Hướng dẫn
-tank.game.BloodStrip.tip:Khi hết máu sẽ biến thành hồn ma, hãy tăng cấp để tăng máu
+tank.game.BloodStrip.tip:Sem HP você vira fantasma. Suba de nível para ter mais HP
 tank.gameover.gainDoubleEXP:Sử dụng thẻ nhân đôi kinh nghiệm được x2 kinh nghiệm.
-tank.game.PowerStrip.tip:người chơi di duyển,sử dụng vật phẩm sẽ tiêu hao thể lực. Khi thể lực về 0, không thể di chuyển và không thể sử dụng vật phẩm.
+tank.game.PowerStrip.tip:Mover-se e usar itens gasta vigor. Com vigor 0 você não se move nem usa itens.
 #2.30versio:#2.30version
 tank.fightLib.AwardBox.FullBag:túi đã đầy,vật phẩm chứa trong hộp thư.
 tank.fightLib.questionInfo:Hiện tại có {0} câu, đáp đúng {1} có thể thông qua. \n Đã đáp đúng được {2}/{1} câu,còn dư {3} câu.
@@ -1337,7 +1337,7 @@ tank.fightLib.ChooseFightLibTypeView.selectDifficulty:Hãy chọn độ khó
 tank.hall.ChooseHallView.fifteenGrade:É preciso ser nível 15 ou mais para entrar no laboratório de combate
 shop.ShopIIModel.countOver:Vật phẩm này đã bán hết
 tank.view.ChannelList.FastMenu.exit:Đóng
-tank.game.ToolStripView.isExit: Xác nhận thoát trận đấu hiện tại?
+tank.game.ToolStripView.isExit:Sair deste combate?
 tank.view.im.IMController.shifou: Xác nhận thêm người này làm hảo hữu?
 tank.consortia.myconsortia.frame.MyConsortiaUpgrade.sure:Xác nhận nâng cấp guild?
 church.churchScene.SceneUI.menuClick:Xác nhận tiến hành lễ cưới ngay?
@@ -1384,7 +1384,7 @@ tank.hotSpring.gold:Vàng
 tank.hotSpring.comfirm:Phòng Thường | Để vào phòng này tốn 10000 Vàng,xác nhận?
 tank.hotSpring.comfirm1:Phòng VIP | Để vào phòng này tốn 2500 Xu,xác nhận?
 tank.room.duplicate.previewTitle:Fortaleza sombria
-tank.game.map.smallMapView.slow:Hệ thống kiểm tra thấy game đang chậm,\n đóng hiệu ứng đặc biệt để game nhanh hơn không?
+tank.game.map.smallMapView.slow:O jogo está lento.\nDesligar efeitos especiais para melhorar?
 store.view.strength.clew2:<FONT SIZE='16' FACE='Arial' KERNING='2' COLOR='#FF0000'><B>sau khi vũ khí cường hóa đạt cấp 10,thuộc tính \nkhông thể dịch chuyển,xác nhận cường hóa?</B></FONT>
 tank.manager.PlayerManager.pass:<{0}>Hội đã duyệt đơn của bạn
 tank.view.common.NPCPairingDialog.title:Gặp đối thủ mạnh
@@ -1393,9 +1393,9 @@ tank.view.common.NPCPairingDialog.refuse:Từ chối
 tank.view.common.NPCPairingDialog.content:Gặp đối thủ mạnh lạ mặt, nhận lời thách đấu không?
 tank.room.RoomMapSetPanelDuplicate.clew:Você ainda não chegou ao nível {0} e não pode criar sala de missão
 tank.view.im.IMBlackList.add:Thêm vào danh sách đen
-tank.game.smallmap.simple1:Sơ cấp
-tank.game.smallmap.normal1:Trung cấp
-tank.game.smallmap.difficulty1:Cao cấp
+tank.game.smallmap.simple1:Iniciante
+tank.game.smallmap.normal1:Intermediário
+tank.game.smallmap.difficulty1:Avançado
 tank.fightLib.Award.GetMessage:Bạn nhận được 
 tank.fightLib.FightLibQuestionFrame.reAnswer:Thử lại lần nữa
 tank.fightLib.FightLibQuestionFrame.viewTutorial:Xem bài học
@@ -1409,7 +1409,7 @@ tank.menu.fireConfirm:Bạn xác nhận muốn khai trừ “{0}”?
 tank.timeBox.awardsInfo:Phần thưởng
 tank.timebox.second:giây
 tanl.timebox.tipMes:Sau khi hết giờ,bạn sẽ nhận được phần thưởng hấp dẫn
-tank.game.GameView.RouletteBattle:Rương bốc thăm
+tank.game.GameView.RouletteBattle:Baú da sorte
 tank.dialog.showbugleframe.rouletteKey:Chìa khóa để mua nhanh
 tank.view.store.consortiaRateI:Bạn chưa gia nhập guild
 tank.view.store.consortiaRateII:Cống hiến guild {0}/{1}
@@ -1606,12 +1606,12 @@ tank.view.caddy.boxNameBead:châu báu
 tank.view.caddy.boxNameGift:túi lì xì
 tank.view.offer.noOffer:Công trạng không đủ,mua thất bại
 tank.view.offer.noConsortia:Bạn chưa gia nhập guild.
-tank.game.GameView.CaddyBattle:Mở túi thiên sứ
-tank.game.GameView.beadBattle:Mở châu báu 
-tank.game.GameView.GiftBattle:Mở túi lì xì 
+tank.game.GameView.CaddyBattle:Abrir bolsa do anjo
+tank.game.GameView.beadBattle:Abrir pérola
+tank.game.GameView.GiftBattle:Abrir envelope da sorte
 tank.view.offer.dontClose:Đang mở túi lì xì,không thể đóng 
 tank.view.offer.opendGetAwards:Mở túi lì xì nhận được 
-tank.game.ToolStripView.isExitPVP:Xác nhận muốn thoát khỏi trận đấu?<br><FONT SIZE='12' FACE='Arial' COLOR='#FF0000'> Thoát ra sẽ bị trừ tỉ lệ chiến thắng,exp,huân chương.</FONT>
+tank.game.ToolStripView.isExitPVP:Sair do combate?<br><FONT SIZE='12' FACE='Arial' COLOR='#FF0000'> Você perde taxa de vitória, EXP e medalhas.</FONT>
 im.IMLookupItem.CMFriendInfo:Không thể xóa bạn bè ZingMe
 im.IMLookupItem.ConsortiaPlayerInfo:Không thể xóa bạn bè guild
 store.StoreIIComposeBG.consortiaSimthLevel:Cấp bậc tiệm rèn guild
@@ -1947,8 +1947,8 @@ ddt.cardSystem.loadfail.setsUpgradeRule:Tải quy tắc thăng cấp thẻ bài 
 ddt.cardSystem.loadfail.propIncreaseRule:Tải quy tắc thăng cấp thuộc tính thẻ bài thất bại!
 ddt.cardSystem.getNewCard.name:Bạn nhận được:{0}
 ddt.cardSystem.useCardBox.tweenty:Bạn chưa đạt cấp 20,không thể mở hộp thẻ bài
-game.view.propContainer.ItemContainer.energy:Nhấn Spacebar để bắn
-game.view.arrow.ArrowView.energy:Nhấn Spacebar để bay
+game.view.propContainer.ItemContainer.energy:Aperte espaço para atirar
+game.view.arrow.ArrowView.energy:Aperte espaço para voar
 ddt.cardSystem.cardEquip.openVice3:Giải phong ấn vị trí thẻ phụ số 3
 ddt.cardSystem.cardEquip.openVice4:Giải phong ấn vị trí thẻ phụ số 4
 ddt.cardSystem.cardEquip.open3:<b>Điều kiện giải phong ấn</b>
@@ -1995,9 +1995,9 @@ ddt.vip.vipView.yearDiscountText:Mở 1 lần 3 tháng sẽ trở thành VIP tí
 chat.BugleInputFrameTitleString:Loa cá tính	
 chat.BugleInputNull:Không thể để trống nội dung, mời nhập chữ	
 chat.BugleInputFrameRemainString:Số chữ còn lại
-game.PlayerThumbnailTipItemText_0:Xem thông tin	
-game.PlayerThumbnailTipItemText_1:Thêm bạn	
-game.PlayerThumbnailTipItemText_2:Thì thầm	
+game.PlayerThumbnailTipItemText_0:Ver informações
+game.PlayerThumbnailTipItemText_1:Adicionar amigo
+game.PlayerThumbnailTipItemText_2:Sussurrar
 littlegame.AwardScore:Điểm t.lũy
 littlegame.MinLvNote:Cấp bậc đạt đến cấp {0} mới có thể vào
 littlegame.ScoreNote:Cấp bậc đạt đến cấp {0} mới có thể vào
@@ -2059,191 +2059,191 @@ calendar.view.goodsExchange.BagFrame.Choose: Hãy chọn vật phẩm trong túi
 IM.privateChatFrame.failWord:Thông tin chứa từ cấm
 tnak.game.tryagain.title:Chủ phòng <font color='#F6EE4B' >{0}</font> có muốn đi lại ải không ?
 tnak.game.tryagain.value:Đi lại cần tốn: {0} xu
-tank.game.BuffName31:Thần tiên chúc phúc
-tank.game.BuffName32:Thần tiên che chở
-tank.game.BuffName101:Bàn tay của chúa	
-tank.game.BuffName102:Tấn công	
-tank.game.BuffName103:Đòn trí mạng	
-tank.game.BuffName104:Thuật cường thân	
-tank.game.BuffName105:Bộc phát tiềm năng	
-tank.game.BuffName106:Thần hành thiên lý 	
-tank.game.BuffName107:Thuật cường thể	
-tank.game.BuffName108:Tăng cường hiệu quả lượt 	
-tank.game.BuffName109:Tranh đoạt	
-tank.game.BuffName110:Tham lam	
-tank.game.BuffName111:trị liệu thần thánh	
-tank.game.BuffName112:nụ cười thâm hiểm	
-tank.game.BuffName215:Tăng sức chiến đấu
-tank.game.BuffName216:Tăng sức chiến đấu
-tank.game.BuffName217:Tăng sức chiến đấu
-tank.game.BuffName218:Tăng sức chiến đấu
-tank.game.BuffName219:Hừng hực khí thế
-tank.game.BuffName220:Hừng hực khí thế
-tank.game.BuffName221:Hừng hực khí thế
-tank.game.BuffName222:Hừng hực khí thế
-tank.game.BuffName223:Cường bạo nhất kích
-tank.game.BuffName224:Cường bạo nhất kích
-tank.game.BuffName225:Cường bạo nhất kích
-tank.game.BuffName226:Cường bạo nhất kích
-tank.game.BuffName227:Thể lực siêu cấp
-tank.game.BuffName229:Thể lực siêu cấp
-tank.game.BuffName230:Thể lực siêu cấp
-tank.game.BuffName231:Phẫn nộ tuôn trào
-tank.game.BuffName232:Phẫn nộ tuôn trào
-tank.game.BuffName233:Phẫn nộ tuôn trào
-tank.game.BuffName234:Phẫn nộ tuôn trào
-tank.game.BuffName235:Chiến sĩ toàn năng
-tank.game.BuffName236:Chiến sĩ toàn năng
-tank.game.BuffName237:Chiến sĩ toàn năng
-tank.game.BuffName238:Chiến sĩ toàn năng
-tank.game.BuffName239:Sinh mệnh chi quang
-tank.game.BuffName240:Sinh mệnh chi quang
-tank.game.BuffName241:Sinh mệnh chi quang
-tank.game.BuffName242:Sinh mệnh chi quang
-tank.game.BuffName243:Hộ giáp thần công
-tank.game.BuffName244:Hộ giáp thần công
-tank.game.BuffName245:Hộ giáp thần công
-tank.game.BuffName246:Hộ giáp thần công
-tank.game.BuffName247:Công kích thần công
-tank.game.BuffName248:Công kích thần công
-tank.game.BuffName249:Công kích thần công
-tank.game.BuffName250:Công kích thần công
-tank.game.BuffName251:Tổ tiên phẫn nộ
-tank.game.BuffName252:Tổ tiên phẫn nộ
-tank.game.BuffName253:Tổ tiên phẫn nộ
-tank.game.BuffName254:Tổ tiên phẫn nộ
-tank.game.BuffName255:Hàn băng thần công
-tank.game.BuffName256:Hàn băng thần công
-tank.game.BuffName257:Hàn băng thần công
-tank.game.BuffName258:Hàn băng thần công
-tank.game.BuffName259:Vững tựa Thái Sơn
-tank.game.BuffName260:Vững tựa Thái Sơn
-tank.game.BuffName261:Vững tựa Thái Sơn
-tank.game.BuffName262:Vững tựa Thái Sơn
-tank.game.BuffName263:Sức mạnh ý chí
-tank.game.BuffName264:Sức mạnh ý chí
-tank.game.BuffName265:Sức mạnh ý chí
-tank.game.BuffName266:Sức mạnh ý chí
-tank.game.BuffName267:Trị thương giảm độc
-tank.game.BuffName268:Trị thương giảm độc
-tank.game.BuffName269:Trị thương giảm độc
-tank.game.BuffName270:Trị thương giảm độc
-tank.game.BuffName271:Trị liệu thần công
-tank.game.BuffName272:Trị liệu thần công
-tank.game.BuffName273:Trị liệu thần công
-tank.game.BuffName274:Trị liệu thần công
-tank.game.BuffName275:Thiên sứ bảo hộ
-tank.game.BuffName276:Thiên sứ bảo hộ
-tank.game.BuffName277:Thiên sứ bảo hộ
-tank.game.BuffName278:Thiên sứ bảo hộ
-tank.game.BuffName279:Thần thánh chúc phúc
-tank.game.BuffName280:Thần thánh chúc phúc
-tank.game.BuffName281:Thần thánh chúc phúc
-tank.game.BuffName282:Thần thánh chúc phúc
-tank.game.BuffName283:Phản đòn thần công
-tank.game.BuffName284:Phản đòn thần công
-tank.game.BuffName285:Phản đòn thần công
-tank.game.BuffName286:Phản đòn thần công
-tank.game.BuffName287: Cura divina
-tank.game.BuffName288: Cura divina
-tank.game.BuffName289: Cura divina
-tank.game.BuffName290: Cura divina
-tank.game.BuffTip215:Bắn trúng đích tăng thêm {0} điểm sát thương
-tank.game.BuffTip216:Bắn trúng đích tăng thêm {0} điểm sát thương
-tank.game.BuffTip217:Bắn trúng đích tăng thêm {0} điểm sát thương
-tank.game.BuffTip218:Bắn trúng đích tăng thêm {0} điểm sát thương
-tank.game.BuffTip219:Mỗi lần đến lượt mình,điểm POW sẽ tăng {0} điểm.
-tank.game.BuffTip220:Mỗi lần đến lượt mình,điểm POW sẽ tăng {0} điểm.
-tank.game.BuffTip221:Mỗi lần đến lượt mình,điểm POW sẽ tăng {0} điểm.
-tank.game.BuffTip222:Mỗi lần đến lượt mình,điểm POW sẽ tăng {0} điểm.
-tank.game.BuffTip223:Khi bắn trúng xuất hiện crit,sẽ tăng thêm {0} điểm sát thương.
-tank.game.BuffTip224:Khi bắn trúng xuất hiện crit,sẽ tăng thêm {0} điểm sát thương.
-tank.game.BuffTip225:Khi bắn trúng xuất hiện crit,sẽ tăng thêm {0} điểm sát thương.
-tank.game.BuffTip226:Khi bắn trúng xuất hiện crit,sẽ tăng thêm {0} điểm sát thương.
-tank.game.BuffTip227:Khi di chuyển không tiêu hao thể lực,lại tăng toàn thuộc tính {0} điểm.
-tank.game.BuffTip228:Khi di chuyển không tiêu hao thể lực,lại tăng toàn thuộc tính {0} điểm.
-tank.game.BuffTip229:Khi di chuyển không tiêu hao thể lực,lại tăng toàn thuộc tính {0} điểm.
-tank.game.BuffTip230:Khi di chuyển không tiêu hao thể lực,lại tăng toàn thuộc tính {0} điểm.
-tank.game.BuffTip231:Khi bắn trúng tăng {0} điểm POW.
-tank.game.BuffTip232:Khi bắn trúng tăng {0} điểm POW.
-tank.game.BuffTip233:Khi bắn trúng tăng {0} điểm POW.
-tank.game.BuffTip234:Khi bắn trúng tăng {0} điểm POW.
-tank.game.BuffTip235:4 thuộc tính cơ bản tăng {0} điểm.
-tank.game.BuffTip236:4 thuộc tính cơ bản tăng {0} điểm.
-tank.game.BuffTip237:4 thuộc tính cơ bản tăng {0} điểm.
-tank.game.BuffTip238:4 thuộc tính cơ bản tăng {0} điểm.
-tank.game.BuffTip239:Giới hạn máu tăng {0} điểm.
-tank.game.BuffTip240:Giới hạn máu tăng {0} điểm.
-tank.game.BuffTip241:Giới hạn máu tăng {0} điểm.
-tank.game.BuffTip242:Giới hạn máu tăng {0} điểm.
-tank.game.BuffTip243:Khi bị công kích giảm {0} điểm sát thương
-tank.game.BuffTip244:Khi bị công kích giảm {0} điểm sát thương
-tank.game.BuffTip245:Khi bị công kích giảm {0} điểm sát thương
-tank.game.BuffTip246:Khi bị công kích giảm {0} điểm sát thương
-tank.game.BuffTip247:Khi bắn trúng tăng {0}% điểm sát thương.
-tank.game.BuffTip248:Khi bắn trúng tăng {0}% điểm sát thương.
-tank.game.BuffTip249:Khi bắn trúng tăng {0}% điểm sát thương.
-tank.game.BuffTip250:Khi bắn trúng tăng {0}% điểm sát thương.
-tank.game.BuffTip251:Bắt đầu vượt ải sẽ tự động thêm {0} điểm POW
-tank.game.BuffTip252:Bắt đầu vượt ải sẽ tự động thêm {0} điểm POW 
-tank.game.BuffTip253:Bắt đầu vượt ải sẽ tự động thêm {0} điểm POW 
-tank.game.BuffTip254:Bắt đầu vượt ải sẽ tự động thêm {0} điểm POW
-tank.game.BuffTip256:Mỗi lượt trúng "phỏng" sẽ giảm sát thương {0} điểm.
-tank.game.BuffTip257:Mỗi lượt trúng "phỏng" sẽ giảm sát thương {0} điểm.
-tank.game.BuffTip258:Mỗi lượt trúng "phỏng" sẽ giảm sát thương {0} điểm.
-tank.game.BuffTip259:Dưới sức đẩy của Tà Diệm Long không xuy xuyển,lại tăng toàn thuộc tính {0} điểm.
-tank.game.BuffTip261:Dưới sức đẩy của Tà Diệm Long không xuy xuyển,lại tăng toàn thuộc tính {0} điểm.
-tank.game.BuffTip262:Dưới sức đẩy của Tà Diệm Long không xuy xuyển,lại tăng toàn thuộc tính {0} điểm.  
-tank.game.BuffTip263:Phòng ngự tăng {0}%。
-tank.game.BuffTip264:Phòng ngự tăng {0}%。
-tank.game.BuffTip265:Phòng ngự tăng {0}%。
-tank.game.BuffTip266:Phòng ngự tăng {0}%。
-tank.game.BuffTip268:Mỗi lần trúng độc,giảm sát thương {0} điểm.
-tank.game.BuffTip269:Mỗi lần trúng độc,giảm sát thương {0} điểm.
-tank.game.BuffTip270:Mỗi lần trúng độc,giảm sát thương {0} điểm.
-tank.game.BuffTip271:Khi dùng Thiên sứ hồi máu,sẽ cộng thêm {0} máu
-tank.game.BuffTip272:Khi dùng Thiên sứ hồi máu,sẽ cộng thêm {0} máu
-tank.game.BuffTip273:Khi dùng Thiên sứ hồi máu,sẽ cộng thêm {0} máu
-tank.game.BuffTip274:Khi dùng Thiên sứ hồi máu,sẽ cộng thêm {0} máu
-tank.game.BuffTip276: Có thể chống lại cú đấm sấm sét của vua quyền anh,lại tăng toàn thuộc tính {0} điểm.
-tank.game.BuffTip277: Có thể chống lại cú đấm sấm sét của vua quyền anh,lại tăng toàn thuộc tính {0} điểm.
-tank.game.BuffTip278: Có thể chống lại cú đấm sấm sét của vua quyền anh,lại tăng toàn thuộc tính {0} điểm.
-tank.game.BuffTip279:khi công kích chuyển {0}% sát thương thành máu cho mình.
-tank.game.BuffTip280:khi công kích chuyển {0}% sát thương thành máu cho mình.
-tank.game.BuffTip281:khi công kích chuyển {0}% sát thương thành máu cho mình.
-tank.game.BuffTip282:khi công kích chuyển {0}% sát thương thành máu cho mình.
-tank.game.BuffTip284:chuyển {0}% sát thương bắn trả lại đối thủ.
-tank.game.BuffTip285:chuyển {0}% sát thương bắn trả lại đối thủ.
-tank.game.BuffTip286:chuyển {0}% sát thương bắn trả lại đối thủ.
-tank.game.BuffTip287:Cứu chữa các sĩ binh già bị thương sẽ nhận thêm {0} điểm HP.
-tank.game.BuffTip288:Cứu chữa các sĩ binh già bị thương sẽ nhận thêm {0} điểm HP.
-tank.game.BuffTip289:Cứu chữa các sĩ binh già bị thương sẽ nhận thêm {0} điểm HP.
-tank.game.BuffTip290:Cứu chữa các sĩ binh già bị thương sẽ nhận thêm {0} điểm HP.
-tank.game.BuffTip31:Mỗi lần tấn công 3% sát thương sẽ chuyển thành điểm máu của mình.
-tank.game.BuffTip32:Mỗi lần bị tấn công,5% sát thương bắn ngược lại đối thủ,nhưng không thể hạ được đối thủ.
-tank.game.BuffTip101:hiệu quả trị liệu tăng {0} điểm.	
-tank.game.BuffTip102:Sát thương tăng {0} điểm.	
-tank.game.BuffTip103:Crit sát thương tăng {0} điểm.	
-tank.game.BuffTip104:Tăng lượng máu {0}% điểm.	
-tank.game.BuffTip105:Tăng điểm 4 thuộc tính cơ bản lên {0} điểm	
-tank.game.BuffTip106: Di chuyển thể lực  tiêu hao giảm {0}%.	
-tank.game.BuffTip107:điểm thể lực tăng {0} điểm.	
-tank.game.BuffTip108:tăng hiệu quả lượt chơi.	
-tank.game.BuffTip109:chiến đấu công trạng được tăng gấp {0} lần.	
-tank.game.BuffTip110:kinh nghiệm chiến đấu,số vàng khi lật bài nhận được tăng {0}%.	
-tank.game.BuffTip111:lúc dùng vật phẩm tăng {0}% máu.	
-tank.game.BuffTip112:lúc công kích có thể làm giảm {0}% điểm nộ của đối phương.	
-tank.game.BuffNameLucky:con số may mắn “{0}”
-tank.game.BuffTip40:Trong chiến đấu {0} tăng thêm {1} điểm
-tank.game.BuffTip41:Trong chiến đấu kinh nghiệm x{0} lần
-tank.game.BuffTip42:Trong chiến đấu công trạng x{0} lần
-tank.game.BuffTip43:Kinh nghiệm chiến đấu x2<br> Công trạng chiến đấu x2<br> Điểm máu tăng {0}
-tank.game.BuffTip44:Kinh nghiệm chiến đấu x2<br> Công trạng chiến đấu x2<br> Điểm tấn công tăng {0}
-tank.game.BuffTip45:Kinh nghiệm chiến đấu x2<br> Công trạng chiến đấu x2<br> Điểm phòng thủ tăng {0}
-tank.game.BuffTip46:Kinh nghiệm chiến đấu x2<br> Công trạng chiến đấu x2<br> Điểm may mắn tăng {0}
-tank.game.BuffTip47:Kinh nghiệm chiến đấu x2<br> Công trạng chiến đấu x2<br> Điểm hộ giáp tăng {0}
-tank.game.BuffTip48:Kinh nghiệm chiến đấu x2<br> Công trạng chiến đấu x2<br>Điểm sát thương tăng {0}
-tank.game.BuffTip49:Trong chiến đấu {0} tăng {1} điểm
+tank.game.BuffName31:Bênção divina
+tank.game.BuffName32:Proteção divina
+tank.game.BuffName101:Mão divina
+tank.game.BuffName102:Ataque
+tank.game.BuffName103:Golpe fatal
+tank.game.BuffName104:Reforço corporal
+tank.game.BuffName105:Potencial liberado
+tank.game.BuffName106:Passo divino
+tank.game.BuffName107:Reforço físico
+tank.game.BuffName108:Melhora o turno
+tank.game.BuffName109:Disputa
+tank.game.BuffName110:Ganância
+tank.game.BuffName111:Cura sagrada
+tank.game.BuffName112:Sorriso sombrio
+tank.game.BuffName215:Aumenta o poder de luta
+tank.game.BuffName216:Aumenta o poder de luta
+tank.game.BuffName217:Aumenta o poder de luta
+tank.game.BuffName218:Aumenta o poder de luta
+tank.game.BuffName219:Ímpeto ardente
+tank.game.BuffName220:Ímpeto ardente
+tank.game.BuffName221:Ímpeto ardente
+tank.game.BuffName222:Ímpeto ardente
+tank.game.BuffName223:Golpe brutal
+tank.game.BuffName224:Golpe brutal
+tank.game.BuffName225:Golpe brutal
+tank.game.BuffName226:Golpe brutal
+tank.game.BuffName227:Vigor supremo
+tank.game.BuffName229:Vigor supremo
+tank.game.BuffName230:Vigor supremo
+tank.game.BuffName231:Fúria transbordante
+tank.game.BuffName232:Fúria transbordante
+tank.game.BuffName233:Fúria transbordante
+tank.game.BuffName234:Fúria transbordante
+tank.game.BuffName235:Guerreiro completo
+tank.game.BuffName236:Guerreiro completo
+tank.game.BuffName237:Guerreiro completo
+tank.game.BuffName238:Guerreiro completo
+tank.game.BuffName239:Luz da vida
+tank.game.BuffName240:Luz da vida
+tank.game.BuffName241:Luz da vida
+tank.game.BuffName242:Luz da vida
+tank.game.BuffName243:Armadura divina
+tank.game.BuffName244:Armadura divina
+tank.game.BuffName245:Armadura divina
+tank.game.BuffName246:Armadura divina
+tank.game.BuffName247:Ataque divino
+tank.game.BuffName248:Ataque divino
+tank.game.BuffName249:Ataque divino
+tank.game.BuffName250:Ataque divino
+tank.game.BuffName251:Fúria ancestral
+tank.game.BuffName252:Fúria ancestral
+tank.game.BuffName253:Fúria ancestral
+tank.game.BuffName254:Fúria ancestral
+tank.game.BuffName255:Gelo divino
+tank.game.BuffName256:Gelo divino
+tank.game.BuffName257:Gelo divino
+tank.game.BuffName258:Gelo divino
+tank.game.BuffName259:Firme como uma montanha
+tank.game.BuffName260:Firme como uma montanha
+tank.game.BuffName261:Firme como uma montanha
+tank.game.BuffName262:Firme como uma montanha
+tank.game.BuffName263:Força de vontade
+tank.game.BuffName264:Força de vontade
+tank.game.BuffName265:Força de vontade
+tank.game.BuffName266:Força de vontade
+tank.game.BuffName267:Antídoto
+tank.game.BuffName268:Antídoto
+tank.game.BuffName269:Antídoto
+tank.game.BuffName270:Antídoto
+tank.game.BuffName271:Cura divina
+tank.game.BuffName272:Cura divina
+tank.game.BuffName273:Cura divina
+tank.game.BuffName274:Cura divina
+tank.game.BuffName275:Proteção do anjo
+tank.game.BuffName276:Proteção do anjo
+tank.game.BuffName277:Proteção do anjo
+tank.game.BuffName278:Proteção do anjo
+tank.game.BuffName279:Bênção sagrada
+tank.game.BuffName280:Bênção sagrada
+tank.game.BuffName281:Bênção sagrada
+tank.game.BuffName282:Bênção sagrada
+tank.game.BuffName283:Contra-ataque divino
+tank.game.BuffName284:Contra-ataque divino
+tank.game.BuffName285:Contra-ataque divino
+tank.game.BuffName286:Contra-ataque divino
+tank.game.BuffName287:Cura divina
+tank.game.BuffName288:Cura divina
+tank.game.BuffName289:Cura divina
+tank.game.BuffName290:Cura divina
+tank.game.BuffTip215:Ao acertar, dano +{0}
+tank.game.BuffTip216:Ao acertar, dano +{0}
+tank.game.BuffTip217:Ao acertar, dano +{0}
+tank.game.BuffTip218:Ao acertar, dano +{0}
+tank.game.BuffTip219:No seu turno, POW +{0}.
+tank.game.BuffTip220:No seu turno, POW +{0}.
+tank.game.BuffTip221:No seu turno, POW +{0}.
+tank.game.BuffTip222:No seu turno, POW +{0}.
+tank.game.BuffTip223:Em crítico, dano +{0}.
+tank.game.BuffTip224:Em crítico, dano +{0}.
+tank.game.BuffTip225:Em crítico, dano +{0}.
+tank.game.BuffTip226:Em crítico, dano +{0}.
+tank.game.BuffTip227:Mover-se não gasta vigor e todos os atributos +{0}.
+tank.game.BuffTip228:Mover-se não gasta vigor e todos os atributos +{0}.
+tank.game.BuffTip229:Mover-se não gasta vigor e todos os atributos +{0}.
+tank.game.BuffTip230:Mover-se não gasta vigor e todos os atributos +{0}.
+tank.game.BuffTip231:Ao acertar, POW +{0}.
+tank.game.BuffTip232:Ao acertar, POW +{0}.
+tank.game.BuffTip233:Ao acertar, POW +{0}.
+tank.game.BuffTip234:Ao acertar, POW +{0}.
+tank.game.BuffTip235:Os 4 atributos básicos +{0}.
+tank.game.BuffTip236:Os 4 atributos básicos +{0}.
+tank.game.BuffTip237:Os 4 atributos básicos +{0}.
+tank.game.BuffTip238:Os 4 atributos básicos +{0}.
+tank.game.BuffTip239:Limite de HP +{0}.
+tank.game.BuffTip240:Limite de HP +{0}.
+tank.game.BuffTip241:Limite de HP +{0}.
+tank.game.BuffTip242:Limite de HP +{0}.
+tank.game.BuffTip243:Ao ser atingido, dano -{0}
+tank.game.BuffTip244:Ao ser atingido, dano -{0}
+tank.game.BuffTip245:Ao ser atingido, dano -{0}
+tank.game.BuffTip246:Ao ser atingido, dano -{0}
+tank.game.BuffTip247:Ao acertar, dano +{0}%.
+tank.game.BuffTip248:Ao acertar, dano +{0}%.
+tank.game.BuffTip249:Ao acertar, dano +{0}%.
+tank.game.BuffTip250:Ao acertar, dano +{0}%.
+tank.game.BuffTip251:Ao começar a fase, POW +{0}
+tank.game.BuffTip252:Ao começar a fase, POW +{0}
+tank.game.BuffTip253:Ao começar a fase, POW +{0}
+tank.game.BuffTip254:Ao começar a fase, POW +{0}
+tank.game.BuffTip256:Dano de queimadura por turno -{0}.
+tank.game.BuffTip257:Dano de queimadura por turno -{0}.
+tank.game.BuffTip258:Dano de queimadura por turno -{0}.
+tank.game.BuffTip259:Resiste ao empurrão do dragão e todos os atributos +{0}.
+tank.game.BuffTip261:Resiste ao empurrão do dragão e todos os atributos +{0}.
+tank.game.BuffTip262:Resiste ao empurrão do dragão e todos os atributos +{0}.
+tank.game.BuffTip263:Defesa +{0}%.
+tank.game.BuffTip264:Defesa +{0}%.
+tank.game.BuffTip265:Defesa +{0}%.
+tank.game.BuffTip266:Defesa +{0}%.
+tank.game.BuffTip268:Dano de veneno -{0}.
+tank.game.BuffTip269:Dano de veneno -{0}.
+tank.game.BuffTip270:Dano de veneno -{0}.
+tank.game.BuffTip271:Com o Anjo, cura +{0} HP
+tank.game.BuffTip272:Com o Anjo, cura +{0} HP
+tank.game.BuffTip273:Com o Anjo, cura +{0} HP
+tank.game.BuffTip274:Com o Anjo, cura +{0} HP
+tank.game.BuffTip276:Resiste ao soco relâmpago do rei do boxe e todos os atributos +{0}.
+tank.game.BuffTip277:Resiste ao soco relâmpago do rei do boxe e todos os atributos +{0}.
+tank.game.BuffTip278:Resiste ao soco relâmpago do rei do boxe e todos os atributos +{0}.
+tank.game.BuffTip279:Ao atacar, converte {0}% do dano em HP.
+tank.game.BuffTip280:Ao atacar, converte {0}% do dano em HP.
+tank.game.BuffTip281:Ao atacar, converte {0}% do dano em HP.
+tank.game.BuffTip282:Ao atacar, converte {0}% do dano em HP.
+tank.game.BuffTip284:Devolve {0}% do dano ao oponente.
+tank.game.BuffTip285:Devolve {0}% do dano ao oponente.
+tank.game.BuffTip286:Devolve {0}% do dano ao oponente.
+tank.game.BuffTip287:Ao curar soldados feridos, HP +{0}.
+tank.game.BuffTip288:Ao curar soldados feridos, HP +{0}.
+tank.game.BuffTip289:Ao curar soldados feridos, HP +{0}.
+tank.game.BuffTip290:Ao curar soldados feridos, HP +{0}.
+tank.game.BuffTip31:Ao atacar, 3% do dano vira HP.
+tank.game.BuffTip32:Ao ser atingido, devolve 5% do dano (não pode abater o oponente).
+tank.game.BuffTip101:Cura +{0}.
+tank.game.BuffTip102:Dano +{0}.
+tank.game.BuffTip103:Dano crítico +{0}.
+tank.game.BuffTip104:HP +{0}%.
+tank.game.BuffTip105:Os 4 atributos básicos +{0}
+tank.game.BuffTip106:Custo de vigor ao mover -{0}%.
+tank.game.BuffTip107:Vigor +{0}.
+tank.game.BuffTip108:Melhora o efeito do turno.
+tank.game.BuffTip109:Mérito de combate x{0}.
+tank.game.BuffTip110:EXP e ouro das cartas +{0}%.
+tank.game.BuffTip111:Ao usar item, cura +{0}%.
+tank.game.BuffTip112:Ao atacar, fúria do oponente -{0}%.
+tank.game.BuffNameLucky:número da sorte “{0}”
+tank.game.BuffTip40:No combate, {0} +{1}
+tank.game.BuffTip41:No combate, EXP x{0}
+tank.game.BuffTip42:No combate, mérito x{0}
+tank.game.BuffTip43:EXP de combate x2<br> Mérito x2<br> HP +{0}
+tank.game.BuffTip44:EXP de combate x2<br> Mérito x2<br> Ataque +{0}
+tank.game.BuffTip45:EXP de combate x2<br> Mérito x2<br> Defesa +{0}
+tank.game.BuffTip46:EXP de combate x2<br> Mérito x2<br> Sorte +{0}
+tank.game.BuffTip47:EXP de combate x2<br> Mérito x2<br> Armadura +{0}
+tank.game.BuffTip48:EXP de combate x2<br> Mérito x2<br> Dano +{0}
+tank.game.BuffTip49:No combate, {0} +{1}
 tank.room.ToShopConfirm:Ir para a loja?
 tank.room.RoomIIController.reduceGains:Esta missão reduz os pontos de contribuição
 tank.roomlist.siftAllFb:Todas as missões
@@ -2254,9 +2254,9 @@ tank.data.EquipType.tempweapon: vũ khí tạm thời.
 tank.data.EquipType.prop:  Đạo cụ
 tank.view.bagII.GoodsTipPanel.drill:Mũi khoan
 tank.view.bagII.GoodsTipPanel.drillnote:Mũi khoan cấp {0}
-tank.game.IM.custom:Thêm nhóm mặc định
-tank.game.ToolStripView.sign:Thú cưng	
-tank.game.ToolStripView.transparent:Trong suốt(T)	
+tank.game.IM.custom:Adicionar grupo padrão
+tank.game.ToolStripView.sign:Pet
+tank.game.ToolStripView.transparent:Transparente (T)
 tank.view.common.BellowStripViewII.supply:Recarregar
 tank.view.common.BellowStripViewII.exit:Sair
 tank.view.emailII.EmailIIdiamondview.distill:Ghi chú
@@ -2300,15 +2300,15 @@ tank.dialog.showbugleframe.texpQuickBuy:Mua nhanh nước tu luyện
 tank.view.personalinfoII.luckyday:[cộng thêm từ ngày may mắn ]
 tank.view.continuation.contiuationTitle:tiếp phí nhanh	
 tank.view.HealStone.ErrorGrade: cấp {0} trở lên mới có thể trang bị loại đá này	
-tank.game.prop.EmptyEnergy:Thể lực không đủ
-tank.game.PsychicBar.Title:Điểm sinh linh
-tank.game.PsychicBar.Content:tiêu hao sinh linh để dùng vật phẩm giúp đồng đội.	
+tank.game.prop.EmptyEnergy:Vigor insuficiente
+tank.game.PsychicBar.Title:Espírito
+tank.game.PsychicBar.Content:Gasta espírito para usar itens em aliados.
 tank.roomlist.notGotoIntoRoom:Jogadores abaixo do nível {0} não podem entrar na sala {1}
 tank.roomlist.challenge:Desafiar
 tank.view.chat.ChannelListSelectView.crossBugle:Loa thế giới 
 tank.fightLib.AngleMessage:Không bắn trong góc quy định,bắn trúng không tính.
 tank.command.fightLibCommands.script.MeasureScree.DifficultTwentyDegree.command3:Bài tập này hướng dẫn cách bắn góc 20 độ vượt quá 1 màn, chúng ta hãy bắt đầu tập luyện cao cấp nào!
-tank.game.ToolStripView.isExitLib:Bạn muốn ngưng tập luyện?
+tank.game.ToolStripView.isExitLib:Parar o treino?
 tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASKILLGRADE:tăng cấp kĩ năng guild?	
 tank.hall.ChooseHallView.auction:Leilão
 tank.hall.ChooseHallView.church:Igreja
@@ -2339,9 +2339,9 @@ tank.view.bead.buyNoCardBox1:Trong trang bị không có hộp thẻ ngẫu nhi�
 tank.view.bead.buyNoCardBox2:Trong trang bị không có hộp thẻ.
 tank.view.bead.quickNumber:Hãy chọn số lượng
 tank.view.award.auto:khởi động liên tiếp	
-tank.game.GameView.cardBoxBattle:Mở hộp thần bí
-tank.game.GameView.cardBoxBattle1: Kích hoạt hộp thẻ ngẫu nhiên
-tank.game.GameView.cardBoxBattle2: Kích hoạt hộp thẻ
+tank.game.GameView.cardBoxBattle:Abrir caixa misteriosa
+tank.game.GameView.cardBoxBattle1:Ativar caixa de cartas aleatória
+tank.game.GameView.cardBoxBattle2:Ativar caixa de cartas
 tank.view.card.title:Mở hộp thẻ
 tank.view.card.noCard:Hộp thẻ đã hết
 tank.view.card.moreCard:Loại thẻ này đã đạt giới hạn,không thể mở hộp thẻ.
@@ -2721,7 +2721,7 @@ tank.lottery.cardLottery.haveChosen:Has escogido esta carta
 tank.view.surpriseRoulette.close:Bạn chắc chắn muốn thoát khỏi Rương Phát Tài ?
 tank.view.surpriseRoulette.quit:Rương đang quay, bạn không thể tắt bây giờ !
 tank.invite.InviteView.list:Limpar
-tank.game.prop.EmptyPsychic:Điểm sinh linh không đủ	
+tank.game.prop.EmptyPsychic:Espírito insuficiente
 noviceactivity.mainframe.title:Mở server có quà
 noviceactivity.leftView.title.txt1:Tăng cấp tặng quà
 noviceactivity.leftView.title.txt2:Cường hóa tặng quà
@@ -2953,19 +2953,19 @@ core.petskillTip.balltype0:Không thể xếp chồng POW
 core.petskillTip.balltype1:Không thể xếp chồng đạo cụ tăng tốc, POW
 core.petskillTip.balltype2:Không thể xếp chồng đạo cụ, POW, sử dụng xong TURN sẽ kết thúc
 core.petskillTip.balltype3:Không thể xếp chồng POW
-game.petskill.hasUsedPetskill:TURN này bạn đã dùng kỹ năng thú cưng 1 lần
+game.petskill.hasUsedPetskill:Neste turno você já usou a habilidade do pet
 core.petskillTip.activeSkill:Kỹ năng chủ động
 core.petskillTip.passiveSkill:Kỹ năng bị động
 core.petMptip.description:Mỗi lần sử dụng sẽ làm giảm ma pháp, số ma pháp bị giảm tùy thuộc vào kỹ năng sử dụng.
-tank.game.actions.cooldown:Turn Chờ
+tank.game.actions.cooldown:Aguardando turno
 ddt.bagandinfo.bagAndInfo.itemOpenUpTxt:Nhận thưởng
 tank.data.EquipType.seed:Hạt giống
 tank.data.EquipType.manure:Phân bón
 tank.data.EquipType.food:Thức ăn
 tank.data.EquipType.vegetable:Thực phẩm
 tank.data.EquipType.petEgg:Trứng Pet
-game.objects.TransmissionGate.tips:Lối ra
-game.objects.TransmissionGate.tipsII:Qua ải tiếp theo
+game.objects.TransmissionGate.tips:Saída
+game.objects.TransmissionGate.tipsII:Próxima fase
 tnak.game.tryagain.titleII:Chọn tiếp tục để khiêu chiến lại ải trước đó  
 ddt.storeIIStrength.startStrengthClickTimerMsg:Bạn nhấp quá nhanh, vui lòng đợi 1 giây rồi thử lại.
 petsBag.petPropButtonTipSignTxt:Tiến hóa
@@ -2993,10 +2993,10 @@ ShowPet.Tip:Chú ý Pet này đang được trang bị vật phẩm.
 store.view.fusion.AccessoryDragInArea.type:Vật phẩm này đã đầy hoặc không
 ddt.bagAndInfo.sell.CanNotSell:Vật phẩm này không thể bán
 ddt.buffinfo.labyrinthBuffhelp:Nhấp xem Thuốc Mê Cung
-game.view.propertyWaterBuff.timer:Còn {0} ngày	
-game.view.propertyWaterBuff.timerI:Còn {0} giờ	
-game.view.propertyWaterBuff.timerII:Còn {0} phút	
-game.view.propertyWaterBuff.timerIII:Đã hết hạn	
+game.view.propertyWaterBuff.timer:Faltam {0} dias
+game.view.propertyWaterBuff.timerI:Faltam {0} horas
+game.view.propertyWaterBuff.timerII:Faltam {0} minutos
+game.view.propertyWaterBuff.timerIII:Expirado
 tank.hall.ChooseHallView.labyrinth:É preciso ser nível 30 para participar!
 tank.view.emailII.WritingView.NOGoods:
 tank.view.emailII.WritingView.NOmoney:Thư có đính kèm chỉ được trả tiền giao dịch!
@@ -3097,8 +3097,8 @@ ddt.totem.rightViewTotemSignTipMsg:Bùa vật tổ thay thế Xu khi tăng cấp
 ddt.totem.activateProtectTipTxt:Sau khi mở bảo vệ, thành công đạt 100%
 ddt.totem.activateProtectTipTxt2:Mở bảo vệ, mỗi lần thắp sáng vật tổ tốn 1000 xu,\nchắc chắn thành công sẽ không trừ phí.
 ddt.wantStrong.view.totem:Tăng cấp vật tổ
-ddt.game.view.damageView.titleText:Danh sách sát thương turn trước
-ddt.game.view.damageView.listText:Tên nh.vật      Sát thương
+ddt.game.view.damageView.titleText:Dano do turno anterior
+ddt.game.view.damageView.listText:Personagem      Dano
 zangNoFilterWords:<,>,\[,\]
 catchBeast.view.careInfo:Chú ý:Mua Buff có thể tăng sát thương,nhận được nhiều phần thưởng hơn!
 catchBeast.view.challengeNum:({0})
@@ -3363,7 +3363,7 @@ worldboss.buyBuff.confirmFrame.desc4:Mỗi tầng tốn {0} Xu mua đến 20 t�
 worldboss.buyBuff.confirmFrame.desc5:Tốn {0} Xu Khóa tăng sát thương cơ bản 1 tầng ({1})
 worldboss.buyBuff.confirmFrame.desc6:Mỗi tầng tốn {0} Xu Khóa mua đến 20 tầng sát thương
 shop.PresentFrame.OkBtnText:Xác nhận 
-tank.game.ToolStripView.recentContact:Người liên lạc gần nhất
+tank.game.ToolStripView.recentContact:Contatos recentes
 tank.view.im.Friend:Bạn bè
 #5.1.5圣诞节版本
 tank.menu.christmasTiTle:Noel Tuyết
@@ -3437,7 +3437,7 @@ ddt.consortiaBattle.hideTip.sameTxt:Ẩn cùng Guild
 ddt.consortiaBattle.hideTip.tombTxt:Ẩn bia mộ
 ddt.consortiaBattle.hideTip.fightingTxt:Ẩn đang giao chiến
 ddt.consortiaBattle.scoreView.selfScoreTxt:Điểm: 
-ddt.game.consortiaBattle.txt:Guild chiến
+ddt.game.consortiaBattle.txt:Combate de guilda
 ddt.consortiaBattle.chatPrompt.threeWinningStreakTxt:{0} dễ dàng đánh bại đối thủ, thắng liền 3 trận!
 ddt.consortiaBattle.chatPrompt.sixWinningStreakTxt:{0} bách phát bách trúng, thắng liền 6 trận!
 ddt.consortiaBattle.chatPrompt.tenWinningStreakTxt:{0} càng đánh càng hăng, thắng liền 10 trận!
@@ -3461,7 +3461,7 @@ ddt.consortiaBattle.autoBuyPowerFullBtnTipTxt:Sau khi chọn sẽ tự mua kích
 ddt.consortiaBattle.autoBuyPowerFullTipTxt:Xác nhận mở tự mua kích nộ?
 ddt.consortiaBattle.autoBuyPowerFullNoEnoughMoney:Không đủ Xu, Xu Khóa!
 ddt.consortiaBattle.changeMoneyCostTxt:Không đủ Xu Khóa, xác nhận dùng Xu?
-ddt.game.consBat.losingStreakBuffTip:Tấn công nhanh nhẹn tăng {0}% thuộc tính cơ bản
+ddt.game.consBat.losingStreakBuffTip:Ataque e agilidade +{0}% nos atributos básicos
 ddt.TaskManager.questFinish.TooQuickly:Nhanh quaaaaa!
 
 #CodeGaHanh
