@@ -147,7 +147,7 @@ tank.game.BuffTip26:Cura do anjo +{0} HP.
 tank.game.BuffTip27:Reduz o dano
 tank.invite.response.title:Convite de {0}
 tank.invite.InviteView.close:Fechar
-tank.bagAndInfo.ColorShell.NoWeapon:Bạn chưa trang bị vũ khí,không thể sử dụng.
+tank.bagAndInfo.ColorShell.NoWeapon:Você não tem arma equipada, não é possível usar.
 tank.room.RoomIIController.weapon:Sem arma, não é possível começar
 tank.room.RoomIIController.all:Todos precisam ficar Prontos
 tank.room.RoomIIController.balance:Os times estão desequilibrados
@@ -188,79 +188,79 @@ tank.serverlist.ServerListView.login:Falha ao entrar no servidor
 shop.ShopIIBtnPanel.yellow:Você não tem ouro e cupons suficientes
 shop.ShopIIBtnPanel.stipple:Cupons insuficientes
 shop.ShopIIBtnPanel.gold:Ouro insuficiente
-shop.ShopIIBtnPanel.buy:Xác nhận mua không?
-shop.ShopIIModel.car:Giỏ hàng của bạn đã đầy
-shop.Shop.car:Giỏ hàng
-shop.ShopIIPresentView.give:Hãy thiết lập đối tượng tặng quà
-shop.ShopIIPresentView.space:Đối tượng được tặng quà không thể để trống.
-shop.ShopIISaveFigurePanel.point:Điểm
+shop.ShopIIBtnPanel.buy:Confirmar compra?
+shop.ShopIIModel.car:Seu carrinho está cheio
+shop.Shop.car:Carrinho
+shop.ShopIIPresentView.give:Defina o destinatário do presente
+shop.ShopIIPresentView.space:O destinatário do presente não pode ficar em branco.
+shop.ShopIISaveFigurePanel.point:Pontos
 shop.ShopIIShoppingCarItem.stipple:Cupom
-shop.ShopIIShoppingCarItem.day:Ngày
-shop.ShopIIShoppingCarItem.piece:Món
-shop.ShopIIShoppingCarItem.free:Miễn phí
+shop.ShopIIShoppingCarItem.day:Dia
+shop.ShopIIShoppingCarItem.piece:Unidade
+shop.ShopIIShoppingCarItem.free:Grátis
 shop.ShopIIShoppingCarItem.gold:Ouro
 shop.ShopIIShoppingCarItem.money:Cupom
-shop.ShopIIShoppingCarItem.forever:Vĩnh viễn
-store.view.fusion.AccessoryDragInArea.overdue:Vật phẩm này đã quá hạn
-store.view.fusion.LoadStrengthenListError:Tải danh sách cường hóa thất bại!
-store.view.fusion.AccessoryDragInArea.more:Bạn không thể cho thêm vào  nữa
-store.view.fusion.AccessoryDragInArea.move:Đã đủ trang bị hoặc trang bị gốc chưa có thuộc tính để di chuyển!
-store.view.fusion.TransferItemCell.object:Lọai hình trang bị này không phù hợp
-store.view.fusion.TransferItemCell.current:Lọai hình hiện tại không phù hợp
-store.view.fusion.TransferItemCell.put:Bỏ vào trang bị có vị trí tương đương
-store.view.fusion.AccessoryFrame.add:Phụ liệu
-store.view.fusion.AccessoryItemCell.overdue:Vật phẩm này đã quá hạn
-store.view.fusion.AccessoryItemCell.fusion:Vật phẩm này không thể dung luyện
-store.view.fusion.PreviewFrame.preview:Xem thử
-store.view.fusion.PreviewFrame.lowRate:Cực thấp
-store.view.fusion.PreviewFrame.false:Không có thông tin dự đoán, hãy  xem
-store.view.fusion.StoreIIFusionBG.error:Dung luyện báo lỗi
-store.view.fusion.StoreIIFusionBG.your:Tiền vàng của bạn không đủ
-store.view.fusion.StoreIIFusionBG.put:Hãy bỏ vật phẩm đúng công thức
-store.view.fusion.StoreIIFusionBG.say:Hướng dẫn dung luyện
-store.view.fusion.StoreIIFusionBG.use:Sử dụng đạo cụ bị khóa sẽ khóa lại?
-store.view.transfer.StoreIITransferBG.jade:Bảo thạch
-store.view.transfer.StoreIITransferBG.target:Trang bị mục tiêu
-store.view.transfer.StoreIITransferBG.gold:Tiền vàng không đủ
-store.view.transfer.StoreIITransferBG.point:Tiền Xu của bạn không đủ, có m
-store.view.transfer.StoreIITransferBG.sure:Xác nhận di chuyển thuộc tính?<br><FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'> Chú ý:Sau khi di chuyển 2 trang bị thành trang bị khóa.</FONT>
-store.view.transfer.StoreIITransferBG.BeforeHole:Chuyển đến {0} lỗ khảm trước?
-store.view.transfer.StoreIITransferBG.AfterHole:Chuyển đến 2 lỗ khảm sau?
-store.view.transfer.StoreIITransferBG.move:Thuyết minh di chuyển
-store.view.transfer.HoleBeforeLabel:Lỗ khảm châu báu
-store.view.transfer.HoleAfterLabel:khóa lỗ khảm
+shop.ShopIIShoppingCarItem.forever:Permanente
+store.view.fusion.AccessoryDragInArea.overdue:Este item já expirou
+store.view.fusion.LoadStrengthenListError:Falha ao carregar a lista de fortalecer!
+store.view.fusion.AccessoryDragInArea.more:Você não pode colocar mais
+store.view.fusion.AccessoryDragInArea.move:Já há equipamento suficiente ou o equipamento de origem não tem atributo para transferir!
+store.view.fusion.TransferItemCell.object:Este tipo de equipamento não é compatível
+store.view.fusion.TransferItemCell.current:O tipo atual não é compatível
+store.view.fusion.TransferItemCell.put:Coloque um equipamento na posição correspondente
+store.view.fusion.AccessoryFrame.add:Material
+store.view.fusion.AccessoryItemCell.overdue:Este item já expirou
+store.view.fusion.AccessoryItemCell.fusion:Este item não pode ser fundido
+store.view.fusion.PreviewFrame.preview:Visualizar
+store.view.fusion.PreviewFrame.lowRate:Muito baixa
+store.view.fusion.PreviewFrame.false:Sem previsão, veja a ajuda
+store.view.fusion.StoreIIFusionBG.error:Erro ao fundir
+store.view.fusion.StoreIIFusionBG.your:Seu ouro é insuficiente
+store.view.fusion.StoreIIFusionBG.put:Coloque os itens conforme a fórmula
+store.view.fusion.StoreIIFusionBG.say:Ajuda de fundir
+store.view.fusion.StoreIIFusionBG.use:Usar um item vinculado tornará o resultado vinculado?
+store.view.transfer.StoreIITransferBG.jade:Gema
+store.view.transfer.StoreIITransferBG.target:Equipamento alvo
+store.view.transfer.StoreIITransferBG.gold:Ouro insuficiente
+store.view.transfer.StoreIITransferBG.point:Seus cupons são insuficientes. Deseja recarregar?
+store.view.transfer.StoreIITransferBG.sure:Confirmar transferência de atributos?<br><FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'> Atenção: após a transferência, os 2 equipamentos ficarão vinculados.</FONT>
+store.view.transfer.StoreIITransferBG.BeforeHole:Transferir para os {0} encaixes da frente?
+store.view.transfer.StoreIITransferBG.AfterHole:Transferir para os 2 encaixes de trás?
+store.view.transfer.StoreIITransferBG.move:Ajuda de transferência
+store.view.transfer.HoleBeforeLabel:Encaixe de gema
+store.view.transfer.HoleAfterLabel:bloquear encaixe
 store.view.transfer.HoleLabel:<FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'> Chú ý: Sau khi di chuyển, trang bị trở thành trang bị khóa.</FONT>store.view.transfer.EmptyItem:Hãy chọn thêm vũ khí hoặc trang bị! 
-store.view.transfer.NoItem:Bạn chưa chọn vũ khí hay trang bị
-store.ComposeItemCell.up:Trang bị này đã đạt cấp cao nhất.
-store.StrengthItemCell.ratiofalse:cấp đá cường hóa thấp, không thể cường hóa
-store.StrengthItemCell.countlittle:Đá cường hóa ít,phải cần 3 viên trở lên mới có thể cường hóa
-store.StoreIIComposeBG.say:Hướng dẫn hợp thành
-store.StoreIIComposeBG.use:Sử dụng đạo cụ khóa sẽ khiến trang bị của bạn <br> trở thành khóa, tiếp tục thao tác?
-store.StoreIIStrengthBG.say:Hướng dẫn cường hóa
-store.StoreIIStrengthBG.use:Sử dụng đạo cụ khóa sẽ khiến trang bị của bạn <br> trở thành khóa, tiếp tục thao tác?
-store.Strength.Succes.ChatSay:Chúc mừng bạn cường hóa thành công!
-store.Transfer.Succes.ChatSay:Dịch chuyển thành công!
-store.Embed.Succes.ChatSay:Chúc mừng bạn khảm nạm thành công !
-store.storeTip.hurt:Sát {0}thương {1}{2}
-store.storeTip.chatHurt:sát thương vũ khí tăng {0} điểm.
-store.storeTip.Armor:Hộ{0} giáp{1}{2}
-store.storeTip.chatArmor:Hộ giáp trang bị tăng {0} điểm.
-store.Embed.OpenHole.NoDrill:Trong túi không có mũi khoan cấp {0}.
-store.Embed.OpenHole.LvError:Cấp bậc lỗ khảm thấp,không thể khảm nạm
-store.Embed.OpenHole.Opened:Lỗ khảm nạm này đã mở
-store.Embed.OpenHole.NoTarget:Chưa chọn trang bị
-store.Embed.OpenHole.UnabledOpened:Lỗ khảm nạm này không thể mở
-store.storeTip.openHole:Lỗ mới 
-store.storeTip.AddHP:Hồi{0} phục {1}{2}
-store.storeTip.chatAddHP:Điểm phục hồi vũ khí phụ tăng {0} điểm.
-store.storeTip.subHurt:Giảm {0}thương {1}{2}
-store.storeTip.chatSubHurt:Điểm giảm thương vũ khí phụ tăng {0} điểm.
-store.storeTip.clothOpenDefense:Phòng ngự
-store.storeTip.weaponOpenAttack:Tấn công 
-store.storeTip.weaponOpenProperty:Thuộc tính
-store.storeTip.OpenDefense:Lỗ châu báu phòng ngự mới!
-store.storeTip.OpenAttack:Lỗ châu báu tấn công mới!
-store.storeTip.OpenProperty:Lỗ châu báu thuộc tính mới!
+store.view.transfer.NoItem:Você não selecionou arma nem equipamento
+store.ComposeItemCell.up:Este equipamento já está no nível máximo.
+store.StrengthItemCell.ratiofalse:o nível da pedra de fortalecer é baixo, não é possível fortalecer
+store.StrengthItemCell.countlittle:Poucas pedras de fortalecer: são necessárias 3 ou mais para fortalecer
+store.StoreIIComposeBG.say:Ajuda de compor
+store.StoreIIComposeBG.use:Usar um item vinculado deixará seu equipamento <br> vinculado. Continuar?
+store.StoreIIStrengthBG.say:Ajuda de fortalecer
+store.StoreIIStrengthBG.use:Usar um item vinculado deixará seu equipamento <br> vinculado. Continuar?
+store.Strength.Succes.ChatSay:Parabéns, você fortaleceu com sucesso!
+store.Transfer.Succes.ChatSay:Transferência concluída!
+store.Embed.Succes.ChatSay:Parabéns, você engastou com sucesso!
+store.storeTip.hurt:Dano {0}{1}{2}
+store.storeTip.chatHurt:o dano da arma aumentou {0} pontos.
+store.storeTip.Armor:Arma{0}dura {1}{2}
+store.storeTip.chatArmor:a armadura do equipamento aumentou {0} pontos.
+store.Embed.OpenHole.NoDrill:Não há broca de nível {0} na mochila.
+store.Embed.OpenHole.LvError:O nível do encaixe é baixo, não é possível engastar
+store.Embed.OpenHole.Opened:Este encaixe já está aberto
+store.Embed.OpenHole.NoTarget:Nenhum equipamento selecionado
+store.Embed.OpenHole.UnabledOpened:Este encaixe não pode ser aberto
+store.storeTip.openHole:Novo encaixe
+store.storeTip.AddHP:Cura {0}{1}{2}
+store.storeTip.chatAddHP:a cura da arma secundária aumentou {0} pontos.
+store.storeTip.subHurt:Reduz {0}dano {1}{2}
+store.storeTip.chatSubHurt:a redução de dano da arma secundária aumentou {0} pontos.
+store.storeTip.clothOpenDefense:Defesa
+store.storeTip.weaponOpenAttack:Ataque
+store.storeTip.weaponOpenProperty:Atributo
+store.storeTip.OpenDefense:Novo encaixe de gema de defesa!
+store.storeTip.OpenAttack:Novo encaixe de gema de ataque!
+store.storeTip.OpenProperty:Novo encaixe de gema de atributo!
 tank.data.auctionHouse.AuctionGoodsInfo.short:Ngắn
 tank.data.auctionHouse.AuctionGoodsInfo.middle:Vừa
 tank.data.auctionHouse.AuctionGoodsInfo.long:Dài
@@ -299,7 +299,7 @@ tank.manager.MailManager.return:Trả về thư thất bại
 tank.manager.MapManager.random:Mapa aleatório
 tank.manager.MapManager.loader:Falha ao carregar informações do mapa
 tank.manager.PlayerManager.one:Giuld {0} đã thông qua đơn của bạn
-tank.consortia.club.CreatConsortiaFrame.titleText:Tạo Guild
+tank.consortia.club.CreatConsortiaFrame.titleText:Criar guilda
 tank.manager.PlayerManager.your:Guild của bạn đã bị giải tán
 tank.manager.PlayerManager.hit:Bạn đã bị đuổi ra khỏi Guild
 tank.manager.PlayerManager.hitSuccess: Mời rời khỏi guild thành công 
@@ -316,39 +316,39 @@ tank.manager.TaskManager.task:Danh sách nhiệm vụ đã đầy
 tank.request.LoadServerListAction.server:Máy chủ đang bảo trì, mời thử lại
 ddt.UseGoodsFrame.title:Mở
 tank.UseGoodsFrame.number:Hãy nhập số lượng
-tank.view.bagII.BreakGoodsView.split:Tách ra
-tank.view.bagII.BreakGoodsView.num:Số lượng
-tank.view.bagII.BreakGoodsView.number:Số lượng tách
-tank.view.bagII.BreakGoodsView.input:Hãy nhập vào số lượng tách
-tank.view.bagII.BreakGoodsView.right:Số lượng tách không chính xác
-tank.view.bagII.DeleteGoodsBtn.delete:Xóa
-tank.view.bagII.DeleteGoodsBtn.sure:Xác nhận xóa vật phẩm
-tank.view.bagII.GoodsTipPanel.fire:Công kích
-tank.view.bagII.GoodsTipPanel.recovery:Phòng thủ
-tank.view.bagII.GoodsTipPanel.agility:Nhanh nhẹn
-tank.view.bagII.GoodsTipPanel.lucky:May mắn
-tank.view.bagII.GoodsTipPanel.need:Đẳng cấp
-tank.view.bagII.GoodsTipPanel.man:Giới tính: Nam
-tank.view.bagII.GoodsTipPanel.woman:Giới tính: Nữ
-tank.view.bagII.GoodsTipPanel.display:(Thất bại không mất)
-tank.view.bagII.GoodsTipPanel.may:Có thể cường hóa
-tank.view.bagII.GoodsTipPanel.compose:Có thể hợp thành
-tank.view.bagII.GoodsTipPanel.strong:Có thể cường hóa
-tank.view.bagII.GoodsTipPanel.intensify:Cường hóa cấp {0} 
-tank.view.bagII.GoodsTipPanel.he:Hợp thành
-tank.view.bagII.GoodsTipPanel.z:Tấn công
-tank.view.bagII.GoodsTipPanel.x:Phòng thủ
-tank.view.bagII.GoodsTipPanel.q:Nhanh nhẹn
-tank.view.bagII.GoodsTipPanel.b:May mắn
-tank.view.bagII.GoodsTipPanel.use:Hiệu lực vĩnh cữu
-tank.view.bagII.GoodsTipPanel.less:Còn lại
-tank.view.bagII.GoodsTipPanel.time:Hiệu lực
-tank.view.bagII.GoodsTipPanel.over:Đã quá hạn
-tank.view.bagII.GoodsTipPanel.hechengshi:Đá hợp thành
-tank.view.bagII.GoodsTipPanel.qianghuashi:Đá cường hóa
-tank.view.bagII.GoodsTipPanel.renwu:Nhiệm vụ
-tank.view.bagII.GoodsTipPanel.bangding:Kiểu khóa:Sử dụng
-tank.view.bagII.GoodsTipPanel.zhuangbei:Kiểu khóa:Trang bị
+tank.view.bagII.BreakGoodsView.split:Separar
+tank.view.bagII.BreakGoodsView.num:Quantidade
+tank.view.bagII.BreakGoodsView.number:Quantidade a separar
+tank.view.bagII.BreakGoodsView.input:Digite a quantidade a separar
+tank.view.bagII.BreakGoodsView.right:Quantidade a separar inválida
+tank.view.bagII.DeleteGoodsBtn.delete:Excluir
+tank.view.bagII.DeleteGoodsBtn.sure:Confirmar exclusão do item
+tank.view.bagII.GoodsTipPanel.fire:Ataque
+tank.view.bagII.GoodsTipPanel.recovery:Defesa
+tank.view.bagII.GoodsTipPanel.agility:Agilidade
+tank.view.bagII.GoodsTipPanel.lucky:Sorte
+tank.view.bagII.GoodsTipPanel.need:Nível
+tank.view.bagII.GoodsTipPanel.man:Sexo: Masculino
+tank.view.bagII.GoodsTipPanel.woman:Sexo: Feminino
+tank.view.bagII.GoodsTipPanel.display:(Falha não consome)
+tank.view.bagII.GoodsTipPanel.may:Pode fortalecer
+tank.view.bagII.GoodsTipPanel.compose:Pode compor
+tank.view.bagII.GoodsTipPanel.strong:Pode fortalecer
+tank.view.bagII.GoodsTipPanel.intensify:Fortalecer nível {0} 
+tank.view.bagII.GoodsTipPanel.he:Compor
+tank.view.bagII.GoodsTipPanel.z:Ataque
+tank.view.bagII.GoodsTipPanel.x:Defesa
+tank.view.bagII.GoodsTipPanel.q:Agilidade
+tank.view.bagII.GoodsTipPanel.b:Sorte
+tank.view.bagII.GoodsTipPanel.use:Validade permanente
+tank.view.bagII.GoodsTipPanel.less:Restante
+tank.view.bagII.GoodsTipPanel.time:Validade
+tank.view.bagII.GoodsTipPanel.over:Expirado
+tank.view.bagII.GoodsTipPanel.hechengshi:Pedra de compor
+tank.view.bagII.GoodsTipPanel.qianghuashi:Pedra de fortalecer
+tank.view.bagII.GoodsTipPanel.renwu:Missão
+tank.view.bagII.GoodsTipPanel.bangding:Vínculo: ao usar
+tank.view.bagII.GoodsTipPanel.zhuangbei:Vínculo: ao equipar
 tank.view.cells.BagCell.detrude:Bạn muốn bỏ vật phẩm này?
 tank.view.common.AddPricePanel.xufei2:        Loại tiếp phí:
 tank.view.common.AddPricePanel.xu:Nạp phí
@@ -441,36 +441,36 @@ tank.view.task.TaskCatalogContentView.dropTaskII:Xác nhận bỏ nhiệm vụ n
 tank.view.task.TaskCatalogContentView.dropTaskIII:Nhiệm vụ chưa hòan thành
 tank.view.task.TaskCatalogContentView.chooseYourAward:Sau khi chọn quà bấm nút nhận quà
 tank.view.tutorial.EnterTutorialFrame.lodingTip:Đang tải khối.
-tank.view.emailII.BagFrame.selectBag:Hãy chọn đồ trong túi làm phụ kiện
-tank.view.emailII.EmailIIDiamondView.emailTip:Email có thu phí
-tank.view.emailII.EmailIIDiamondView.deleteTip:Cần trừ
-tank.view.emailII.EmailIIDiamondView.money:Xu
-tank.view.emailII.EmailIIDiamondView.moneyDeficient:Tiền Xu của bạn không
-tank.view.emailII.EmailIIStripView.sender:Người gửi:
-tank.view.emailII.EmailIIStripView.validity:Còn:
-tank.view.emailII.EmailIIStripView.day:Ngày
-tank.view.emailII.EmaillIIBagCell.isBinds:đã Vật phẩm này bị khóa
-tank.view.emailII.EmaillIIBagCell.RemainDate:Vật phẩm này đã quá hạn
-tank.view.emailII.WritingView.sender:Mời điền tên người nhận
-tank.view.emailII.WritingView.annex.tip:Kèm thêm
-tank.view.emailII.WritingView.NickName:Không thể gửi thư cho mình
-tank.view.emailII.WritingView.topic:Mời điền chủ đề thư
-tank.view.emailII.WritingView.contentLength:Bạn được nhập nội dung không qúa 300 chữ
-tank.view.emailII.WritingView.annex:Thư có thu phí cần đính kèm file
-tank.view.emailII.WritingView.money_txt:Thư có thu phí cần điền số tiền
-tank.view.emailII.LoadSendInfoError:Tải thông tin thư gửi đi thất bại!
-tank.view.emailII.LoadMailAllInfoError:Tải thông tin toàn bộ thư thất bại!
-tank.view.emailII.WritingView.tip:Nhắc nhở
-tank.view.emailII.WritingView.isEdit:Bạn muốn xóa thư vừa soạn?
+tank.view.emailII.BagFrame.selectBag:Escolha um item da mochila como anexo
+tank.view.emailII.EmailIIDiamondView.emailTip:Correio com taxa
+tank.view.emailII.EmailIIDiamondView.deleteTip:Será descontado
+tank.view.emailII.EmailIIDiamondView.money:Cupom
+tank.view.emailII.EmailIIDiamondView.moneyDeficient:Seus cupons são insuficientes
+tank.view.emailII.EmailIIStripView.sender:Remetente:
+tank.view.emailII.EmailIIStripView.validity:Restam:
+tank.view.emailII.EmailIIStripView.day:Dia
+tank.view.emailII.EmaillIIBagCell.isBinds:este item está vinculado
+tank.view.emailII.EmaillIIBagCell.RemainDate:Este item já expirou
+tank.view.emailII.WritingView.sender:Digite o nome do destinatário
+tank.view.emailII.WritingView.annex.tip:Anexo
+tank.view.emailII.WritingView.NickName:Não é possível enviar correio para si mesmo
+tank.view.emailII.WritingView.topic:Digite o assunto do correio
+tank.view.emailII.WritingView.contentLength:O conteúdo não pode ter mais de 300 caracteres
+tank.view.emailII.WritingView.annex:Correio com taxa precisa de um anexo
+tank.view.emailII.WritingView.money_txt:Correio com taxa precisa do valor
+tank.view.emailII.LoadSendInfoError:Falha ao carregar as informações do correio enviado!
+tank.view.emailII.LoadMailAllInfoError:Falha ao carregar todas as informações do correio!
+tank.view.emailII.WritingView.tip:Aviso
+tank.view.emailII.WritingView.isEdit:Deseja excluir o correio que estava escrevendo?
 tank.view.im.IMFriendList.online:Online
 tank.view.im.IMFriendList.offline:Offline
 tank.view.im.IMFriendList.addFriend:Thêm bạn
 tank.view.im.IMFriendList.InviteFriend:Mời bạn SNS
 tank.view.im.IMFriendItem.delete:Xóa
 tank.view.im.IMFriendItem.deleteFriend:Xác nhận xóa người bạn này?
-shop.ShopIITryDressView.repeal:Quay lại hình dáng cũ
-shop.ShopIITryDressView.returnToBegin1:Bỏ hóa trang
-shop.ShopIITryDressView.returnToBegin2:Chọn lại hình dáng ban đầu
+shop.ShopIITryDressView.repeal:Voltar ao visual anterior
+shop.ShopIITryDressView.returnToBegin1:Remover visual
+shop.ShopIITryDressView.returnToBegin2:Voltar ao visual original
 road.ui.controls.TabPanel.zhi: index Trị của phải từ 0 đến {0}
 road.ui.controls.TabPanel.zhijian: Trong khỏang
 tank.game.ToolStripView.limit:Com menos de 30% de HP não é possível se render
@@ -479,16 +479,16 @@ tank.room.RoomIIPlayerItem.look:Ver
 tank.room.RoomIIPlayerItem.friend:Adicionar amigo
 tank.room.RoomIIPlayerItem.copy:Copiar nome
 tank.view.scenechatII.SceneChatIIView.selfChat:Không thể chat với chính mì
-tank.view.bagII.DeleteGoodsBtn.break:Giảm điểm
+tank.view.bagII.DeleteGoodsBtn.break:Reduzir pontos
 tank.room.RoomIIPlayerItem.addFriend:Adicionar amigo
 tank.room.RoomIIPlayerItem.view:Ver
 tank.room.RoomIIPlayerItem.exitRoom:Expulsar da sala
-tank.view.bagII.BreakGoodsView.wrong2:Mời nhập số lượng
-shop.ShopIITryDressView.hideHat:Nón
+tank.view.bagII.BreakGoodsView.wrong2:Digite a quantidade
+shop.ShopIITryDressView.hideHat:Chapéu
 tank.task.TaskPannelPosView.loginPath:Gunny _ Đăng nhập chính thức
-shop.ShopIISaveFigurePanel.stipple:Tiền Vàng không đủ {0} G
-shop.ShopIISaveFigurePanel.medal: Huân chương không đủ {0}
-shop.ShopIIBtnPanel.present:Xác nhận tặng?
+shop.ShopIISaveFigurePanel.stipple:Ouro insuficiente {0} G
+shop.ShopIISaveFigurePanel.medal: Medalhas insuficientes {0}
+shop.ShopIIBtnPanel.present:Confirmar presente?
 tank.menu.PrivateChat:Thông tin gửi đi
 tank.menu.ViewInfo:Kiểm tra dữ liệu
 tank.menu.AddFriend:Thêm bạn
@@ -514,64 +514,64 @@ tank.data.player.FightingPlayerInfo.your:Bạn đạt được <{0}>
 tank.game.GameView.player:O jogador [{0}] saiu
 tank.view.chat.ChatInput.time:Bạn nhập nhanh quá
 tank.room.PickupPanel.ChangeStyle:Você ainda não tem guilda!<br>Quer esperar?
-tank.consortia.club.consortiaList:Danh sách guild
-tank.consortia.club.searchTxt:Hãy nhập tên Guild
-tank.consortia.club.text:Nhóc con lười biếng quá
-tank.consortia.club.CreatConsortiaFrame.titleText:Tạo Guild
-tank.consortia.club.CreatConsortiaFrame.inputPlease:Hãy nhập tên Guild muốn ta
-tank.consortia.club.CreatConsortiaFrame.yourGrade:Bạn nhỏ hơn cấp 12
-tank.consortia.consortiadiplomatism.ConsortiaDiplomatismView.searchTxt:Mời nhập tên guild
-tank.consortia.consortiadiplomatism.ConsortiaDiplomatismView.inputPlease:Mời nhập điều kiện tìm
-tank.consortia.consortiadiplomatism.ConsortiaDiplomatismView.text:Nhóc con lười biếng quá
-tank.consortia.myconsortia.frame.AlienationConsortiaFrame.titleText:Chuyển nhường guild
-tank.consortia.myconsortia.frame.LoadMyconsortiaInfoError:Tải điều kiện guild thất bại!
-tank.consortia.myconsortia.frame.LoadMemberInfoError:Tải thong tin danh sách thành viên guild thất bại!
-tank.consortia.myconsortia.frame.LoadMyconsortiaLevelError:Tải thông tin cấp guild thất bại!
-tank.consortia.myconsortia.frame.LoadMyconsortiaListError:Tải thông tin danh sách thất bại!
-tank.consortia.myconsortia.frame.LoadApplyRecordError:Tải nhật ký xin gia nhập guild thất bại!
-tank.consortia.myconsortia.frame.LoadDutyListError:Tải list chức vụ guild thất bại!
-tank.consortia.myconsortia.frame.LoadEnemyInfoError:Tải thông tin guild đối địch thất bại!
-tank.consortia.myconsortia.frame.AlienationConsortiaFrame.inputName:Mời nhập tên người chơi
-tank.consortia.myconsortia.frame.AlienationConsortiaFrame.info:Nhắc nhở: Chỉ có thể chuyển nhường cho người trong guild
-tank.consortia.myconsortia.frame.DeleteMemberFrame.titleText:Khai trừ thành viên
-tank.consortia.myconsortia.frame.DeleteMemberFrame.inputName:Mời nhập tên người chơi:
-tank.consortia.myconsortia.frame.DeleteMemberFrame.delete:Chỉ được khai trừ thành viên cấp bậc thấp hơn
-tank.consortia.myconsortia.frame.DeleteMemberFrame.success:Thao tác thành công
-tank.consortia.myconsortia.frame.DisbandConsortiaFrame.titleText:Giải tán guild
-tank.consortia.myconsortia.frame.DisbandConsortiaFrame.sure:Mời nhập vào khung chữ Disband
-tank.consortia.myconsortia.frame.ExitConsortiaFrame.titleText:Thoát khỏi guild
-tank.consortia.myconsortia.frame.ExitConsortiaFrame.quit:Mời nhập vào khung chữ Quit
-tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame.titleText:Thông báo công hội
-tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame.long:Nội dung quá dài
-tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame.input:Mời nhập nội dung
-tank.consortia.myconsortia.frame.MyConsortiaDeclarationFrame.titleText:Tuyên bố guild
-tank.consortia.myconsortia.frame.MyConsortiaDeclarationFrame.long:Nội dung quá dài
-tank.consortia.myconsortia.frame.MyConsortiaDeclarationFrame.input:Hãy nhập tuyên bố guild
-tank.consortia.myconsortia.frame.MyConsortiaJobItem.null:Tên không thể bỏ trống
-tank.consortia.myconsortia.frame.MyConsortiaJobItem.diffrent:Không cùng quyền hạn, chức vụ cũng sẽ khác
-tank.consortia.myconsortia.frame.MyConsortiaJobItem.duty:Tên chức vụ có từ cấm
-tank.consortia.myconsortia.frame.MyConsortiaRightsFrame.titleText:Quản lý
-tank.consortia.myconsortia.frame.MyConsortiaTax.titleText:Đóng góp
-tank.consortia.myconsortia.frame.MyConsortiaTax.money:Hiện có {0} xu,mời nhập số lượng 
-tank.consortia.myconsortia.frame.MyConsortiaTax.input:Hãy nhập số xu lớn hơn hoặc bằng 2
-tank.consortia.myconsortia.frame.MyConsortiaTax.info:Nhắc nhở
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.titleText:Nâng cấp Guild
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.okLabel:Nâng cấp
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.sure:Xác nhận nâng cấp guild?
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.gold:Tiền vàng không đủ
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.explainTxt:Guild của bạn đã đạt cấp cao nhất, số thành viên hạn chế là {0} người
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.null:Không
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.upgrade:Sau khi nâng cấp có thể tăng số lượng thành viên, số thành viên hiện tại là {0} người
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.nextLevel:Guild cấp {0}, số lượng thành viên là {1} người
-tank.consortia.myconsortia.frame.RecruitMemberFrame.titleText:Chiêu mộ thành viên
-tank.consortia.myconsortia.frame.RecruitMemberFrame.tipTxt:Mời nhập tên người chơi:
-tank.consortia.myconsortia.MyConsortiaAuditingApplyList.titleText:Duyệt đơn
-tank.consortia.myconsortia.MyConsortiaAuditingApplyList.okLabel:Chiêu mộ thành viên
-tank.consortia.myconsortia.MyConsortiaInfoPane.week:Trừ tài sản mỗi tuần
-tank.consortia.myconsortia.MyConsortiaInfoPane.time:Trừ lần sau:
-tank.consortia.myconsortia.MyConsortiaView.titleText:Hướng dẫn Guild
+tank.consortia.club.consortiaList:Lista de guildas
+tank.consortia.club.searchTxt:Digite o nome da guilda
+tank.consortia.club.text:Que preguiçoso!
+tank.consortia.club.CreatConsortiaFrame.titleText:Criar guilda
+tank.consortia.club.CreatConsortiaFrame.inputPlease:Digite o nome da guilda que deseja criar
+tank.consortia.club.CreatConsortiaFrame.yourGrade:Você está abaixo do nível 12
+tank.consortia.consortiadiplomatism.ConsortiaDiplomatismView.searchTxt:Digite o nome da guilda
+tank.consortia.consortiadiplomatism.ConsortiaDiplomatismView.inputPlease:Digite o critério de busca
+tank.consortia.consortiadiplomatism.ConsortiaDiplomatismView.text:Que preguiçoso!
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.titleText:Transferir guilda
+tank.consortia.myconsortia.frame.LoadMyconsortiaInfoError:Falha ao carregar as condições da guilda!
+tank.consortia.myconsortia.frame.LoadMemberInfoError:Falha ao carregar a lista de membros da guilda!
+tank.consortia.myconsortia.frame.LoadMyconsortiaLevelError:Falha ao carregar o nível da guilda!
+tank.consortia.myconsortia.frame.LoadMyconsortiaListError:Falha ao carregar a lista!
+tank.consortia.myconsortia.frame.LoadApplyRecordError:Falha ao carregar o histórico de pedidos da guilda!
+tank.consortia.myconsortia.frame.LoadDutyListError:Falha ao carregar a lista de cargos da guilda!
+tank.consortia.myconsortia.frame.LoadEnemyInfoError:Falha ao carregar as guildas rivais!
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.inputName:Digite o nome do jogador
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.info:Aviso: só é possível transferir para alguém da guilda
+tank.consortia.myconsortia.frame.DeleteMemberFrame.titleText:Expulsar membro
+tank.consortia.myconsortia.frame.DeleteMemberFrame.inputName:Digite o nome do jogador:
+tank.consortia.myconsortia.frame.DeleteMemberFrame.delete:Só é possível expulsar membros de cargo inferior
+tank.consortia.myconsortia.frame.DeleteMemberFrame.success:Operação concluída
+tank.consortia.myconsortia.frame.DisbandConsortiaFrame.titleText:Dissolver guilda
+tank.consortia.myconsortia.frame.DisbandConsortiaFrame.sure:Digite Disband no campo
+tank.consortia.myconsortia.frame.ExitConsortiaFrame.titleText:Sair da guilda
+tank.consortia.myconsortia.frame.ExitConsortiaFrame.quit:Digite Quit no campo
+tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame.titleText:Aviso da guilda
+tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame.long:Conteúdo longo demais
+tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame.input:Digite o conteúdo
+tank.consortia.myconsortia.frame.MyConsortiaDeclarationFrame.titleText:Declaração da guilda
+tank.consortia.myconsortia.frame.MyConsortiaDeclarationFrame.long:Conteúdo longo demais
+tank.consortia.myconsortia.frame.MyConsortiaDeclarationFrame.input:Digite a declaração da guilda
+tank.consortia.myconsortia.frame.MyConsortiaJobItem.null:O nome não pode ficar em branco
+tank.consortia.myconsortia.frame.MyConsortiaJobItem.diffrent:Sem as mesmas permissões, o cargo também será diferente
+tank.consortia.myconsortia.frame.MyConsortiaJobItem.duty:O nome do cargo contém palavra proibida
+tank.consortia.myconsortia.frame.MyConsortiaRightsFrame.titleText:Gerenciar
+tank.consortia.myconsortia.frame.MyConsortiaTax.titleText:Contribuir
+tank.consortia.myconsortia.frame.MyConsortiaTax.money:Você tem {0} cupons; digite a quantidade  
+tank.consortia.myconsortia.frame.MyConsortiaTax.input:Digite um valor de cupom maior ou igual a 2
+tank.consortia.myconsortia.frame.MyConsortiaTax.info:Aviso
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.titleText:Aprimorar guilda
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.okLabel:Aprimorar
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.sure:Confirmar o aprimoramento da guilda?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.gold:Ouro insuficiente
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.explainTxt:Sua guilda já está no nível máximo; o limite de membros é {0} pessoas
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.null:Não
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.upgrade:Após o aprimoramento o limite de membros aumenta; o atual é {0} pessoas
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.nextLevel:Guilda nível {0}, limite de membros: {1} pessoas
+tank.consortia.myconsortia.frame.RecruitMemberFrame.titleText:Recrutar membros
+tank.consortia.myconsortia.frame.RecruitMemberFrame.tipTxt:Digite o nome do jogador:
+tank.consortia.myconsortia.MyConsortiaAuditingApplyList.titleText:Analisar pedidos
+tank.consortia.myconsortia.MyConsortiaAuditingApplyList.okLabel:Recrutar membros
+tank.consortia.myconsortia.MyConsortiaInfoPane.week:Cobrança semanal do tesouro
+tank.consortia.myconsortia.MyConsortiaInfoPane.time:Próxima cobrança:
+tank.consortia.myconsortia.MyConsortiaView.titleText:Guia da guilda
 tank.consortia.myconsortia.MyConsortiaMemberInfoItem.offlineTxt:Online
-tank.consortia.myconsortia.AtLeastChoose:Chọn ít nhất 1 hạng mục
+tank.consortia.myconsortia.AtLeastChoose:Escolha pelo menos 1 item
 tank.manager.ChatManagerII.cannot:Không thể chat với chính mình
 tank.manager.ChatManagerII.you:Bạn không tham gia Guild nào
 tank.manager.ChatManagerII.now:Bạn hiện không có trong đội ngũ
@@ -591,9 +591,9 @@ tank.manager.PlayerManager.downfalse:Giáng chức thành viên thất bại
 tank.manager.PlayerManager.consortia: <{0}> khai trừ <{1}> khỏi Guild
 tank.manager.PlayerManager.leaveconsortia:<{0}> rời khỏi Guild
 tank.menu.RightMenuPanel.btnChat.label:Bỏ cấm
-tank.view.bagII.KeySetFrame.titleText:Tạo phím tắt
-tank.view.bagII.KeySetFrame.autocheck:Bổ sung tự động
-tank.view.bagII.KeySetFrame.autocheck.tips:Mở chức năng này sẽ tự động\n điền phím tắt 
+tank.view.bagII.KeySetFrame.titleText:Criar atalho
+tank.view.bagII.KeySetFrame.autocheck:Repor automaticamente
+tank.view.bagII.KeySetFrame.autocheck.tips:Com esta função, o atalho\n será preenchido automaticamente
 tank.view.ChannelList.FastMenu.titleText:Di chuyển 
 tank.view.chat.ChannelListSelectView.big:Loa lớn
 tank.view.chat.ChannelListSelectView.small:Loa nhỏ
@@ -661,7 +661,7 @@ tank.tofflist.view.TofflistLeftCurrentCharcter.cdr:Chủ guild
 tank.tofflist.view.TofflistLeftInfo.no:Không có guild
 Crazytank.load:Falha ao carregar o pacote de idioma
 Crazytank.TankStartApp.login:Falha no login
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.titleTxt:Nâng cấp Guild
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.titleTxt:Aprimorar guilda
 tank.view.movement.MovementLeftView.action:Họat động
 tank.manager.PlayerManager.player:<{0}> gia nhập guild
 tank.game.ToolStripView.start:Só é possível se render {0} minutos após o início
@@ -670,7 +670,7 @@ tank.game.ToolStripView.cannotExit:Só é possível sair 2 minutos após o iníc
 tank.data.MovementInfo.begin:Từ {0}
 tank.data.MovementInfo.date:{0}/{1}/{2}
 tank.menu.TotalCount:Bàn:{0}
-shop.ShopIIBtnPanel.message.free:Không thể tặng
+shop.ShopIIBtnPanel.message.free:Não é possível presentear
 tank.manager.PlayerManager.contributionSelf:Bạn góp cho Guild {0} điểm tài sản
 tank.manager.PlayerManager.contributionOther:<{0}>góp cho Guild  {1} điểm tài sản
 tank.manager.PlayerManager.youUpgrade: Bạn được <{0}> lên cấp <{1}>
@@ -679,12 +679,12 @@ tank.manager.PlayerManager.upgradeOther:<{0}> tăng <{1}> thành <{2}>
 tank.manager.PlayerManager.youDemotion:Bạn bị <{0}> hạ thành <{1}>
 tank.manager.PlayerManager.demotionSelf:Bạn bị <{0}> hạ thành <{1}>
 tank.manager.PlayerManager.demotionOther: <{0}> hạ <{1}> thành <{2}>
-tank.consortia.myconsortia.MyConsortiaAuditingApplyList.cancelLabel:Hủy
+tank.consortia.myconsortia.MyConsortiaAuditingApplyList.cancelLabel:Cancelar
 choosecharacter.ChooseCharacterView.pass:Parabéns, este nome pode ser usado
 choosecharacter.ChooseCharacterView.lost:O nome foi removido
 tank.view.common.AddPricePanel.xufei1:         Vật phẩm quá hạn, mời tiếp phí
 hours:hora
-tank.consortia.club.CreatConsortiaFrame.yourGold:Vàng không đủ
+tank.consortia.club.CreatConsortiaFrame.yourGold:Ouro insuficiente
 tank.game.LeftPlayerCartoonView.Name:Atalho para pular turno: P
 tank.game.LeftPlayerCartoonView.Description:Pula um turno de ataque e acumula fúria
 tank.view.comon.lack:Cupons insuficientes. Deseja recarregar?
@@ -697,8 +697,8 @@ tank.view.enthrallCheckFrame.checkCode:Bạn có phải là con người không?
 tank.view.enthrallCheckFrame.checkTitle:Kiểm tên thật
 tank.view.enthrallCheckFrame.checkAlert:Thông tin sai, mời nhập lại! 
 shop.ShopIIBtnPanel.lackGold:Ouro insuficiente
-shop.ShopIIBtnPanel.fullBagAlert: Mua thất bại, túi đã đầy
-tank.consortia.club.CreatConsortiaFrame.consortiaName:Tên Guild có từ cấm
+shop.ShopIIBtnPanel.fullBagAlert: Compra falhou, a mochila está cheia
+tank.consortia.club.CreatConsortiaFrame.consortiaName:O nome da guilda contém palavra proibida
 tank.view.changeColor.lackCard:Biến sắc mất {0} lễ kim, tiếp tục không?
 tank.view.changeColor.sexAlert:Giới tính không hợp
 tank.view.buff.freeCard:Kích hoạt chức năng 15 ngày mất {0} xu, tiếp tục không?
@@ -708,7 +708,7 @@ tank.view.buff.addPrice:Nạp thêm cho chức năng này mất {0} xu, tiếp t
 tank.gameover.DisableGetCard:Không sát thương đối thủ, không thể lật bài
 tank.view.buffInfo.outDate: {0} của bạn hết hạn sau {1} phút
 tank.serverlist.ServerListPosView.your:Bạn thuộc cấp cao, hãy chọn kênh phù hợp
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consumeTxt:{0} tài sản {1}; {2} vàng
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consumeTxt:{0} tesouro {1}; {2} ouro
 crazytank.clickboard:Mình đang chơi Gunny, hay lắm, bạn chơi chung nhé
 crazytank.copyOK: Địa chỉ copy xong, dán vào chat gửi bạn bè nha.
 tank.auctionHouse.view.BrowseLeftMenuView.specialties:Đặc biệt
@@ -744,42 +744,42 @@ choosecharacter.ChooseCharacterView.check_txt:Use letras e números, no máximo 
 choosecharacter.ChooseCharacterView.setCheckTxt:Parabéns! Este nome de personagem pode ser usado.
 choosecharacter.LoadCheckName.m:Falha na verificação
 choosecharacter.LoadChooseFigure.trace:Carregar informações do visual
-church.churchScene.frame.ModifyDiscriptionFrame.spare:Còn 
-church.churchScene.frame.PresentFrame.confirm:Thao tác này bị trừ 
-church.churchScene.menu.MenuPanel.menuClick:Hôn lễ đang tiến hành, xin chờ
-church.churchScene.scene.SceneMap.useFire:Pháo hoa đã tắt
-church.churchScene.SceneControler.timerComplete:Phòng sẽ đóng sau 10 phút, chú ý tiếp phí
-church.churchScene.SceneControler.timerComplete.msg:Phòng sẽ đóng sau 10 phút, chú ý tiếp phí
-church.churchScene.SceneControler.startWedding.valid:Thời gian còn không đủ để tiến hành, chú ý tiếp phí
-church.churchScene.SceneControler.startWedding.spouse:Người ấy vắng mặt, không thể tiến hành hôn lễ
-church.churchScene.SceneControler.startWedding.isStarted:Tổ chức lại tốn 300 xu, đồng ý không?
-church.churchScene.SceneControler.startWedding.more:Nghi thức tổ chức lại
-church.churchScene.SceneControler.startWedding.Money:Không đủ 100 xu , không thể tặng
-church.churchScene.SceneMask.chatMsg.msg:Đếm ngược
-church.churchScene.SceneMask.click:Đang tiến hành nghi lễ, không thể di chuyển
-church.churchScene.SceneUI.switchVisibleFireList:Đang thêm pháo hoa. Xin chờ
-church.churchScene.SceneUI.info:Nhắc nhở: 
-church.churchScene.SceneView.stopWeddingMovie:Kết thúc lễ
-church.churchScene.MoonLightScene:Cảnh ánh trăng
-church.churchScene.WeddingMainScene:Cảnh chủ đề kết hôn
-church.weddingRoom.frame.AddWeddingRoomFrame.titleText:Dự lễ
-church.weddingRoom.frame.AddWeddingRoomFrame.into:Vào
-church.weddingRoom.frame.AddWeddingRoomFrame.time:0 giờ 0phút
-church.weddingRoom.frame.AddWeddingRoomFrame.minute:Phút
-church.weddingRoom.frame.AddWeddingRoomFrame.day:ngày 
-church.weddingRoom.frame.AddWeddingRoomFrame.notenoughday:Không đủ 1 ngày
-church.weddingRoom.frame.AddWeddingRoomFrame.exceedmounth:Không đủ 1 tháng
-church.weddingRoom.frame.AddWeddingRoomFrame.note:Chú ý:Nếu vợ/chồng quá 1 tháng không online, chi phí ly dị chỉ trừ 999 xu
-church.weddingRoom.frame.AddWeddingRoomFrame.frameInfo:Do bạn đời của bạn XXXX đã không online trên 1 tháng,do đó nếu li dị ngay chỉ bị trừ <cr999 xucr>.
-church.weddingRoom.frame.CreateRoomFrame.titleText: Tổ chức lễ cưới
-church.weddingRoom.frame.CreateRoomFrame._remark_txt:Ngày hôm nay thật trọng đại, hôn lễ của {0} khôi ngô tuấn tú và {1} xinh đẹp nết na được cử hành tại đây.Hãy cùng nhau chia sẻ niềm vui hôm nay.
-church.weddingRoom.RoomListBtnPanel.clickListener:Chưa kết hôn, không ly hôn
-church.view.weddingRoomList.DivorcePromptFrame.yes:Ly dị ngay
-church.view.weddingRoomList.DivorcePromptFrame.no:Để mai tính
-church.view.weddingRoomList.frame.WeddingUnmarryViewTip:Ly dị
-church.weddingRoom.WeddingRoomControler.addRoom:Tạo phòng thất bại
-church.weddingRoom.WeddingRoomControler.showCreateFrame:Bạn chưa cầu hôn,không thể tổ chức hôn lễ
-church.weddingRoom.WeddingRoomControler.leaveRoom:Xác nhận muốn rời phòng hôn lễ
+church.churchScene.frame.ModifyDiscriptionFrame.spare:Restam  
+church.churchScene.frame.PresentFrame.confirm:Esta ação desconta  
+church.churchScene.menu.MenuPanel.menuClick:O casamento está em andamento; aguarde
+church.churchScene.scene.SceneMap.useFire:Os fogos já apagaram
+church.churchScene.SceneControler.timerComplete:A sala fecha em 10 minutos; renove o tempo
+church.churchScene.SceneControler.timerComplete.msg:A sala fecha em 10 minutos; renove o tempo
+church.churchScene.SceneControler.startWedding.valid:O tempo restante não basta para começar; renove o tempo
+church.churchScene.SceneControler.startWedding.spouse:O cônjuge está ausente; não é possível realizar o casamento
+church.churchScene.SceneControler.startWedding.isStarted:Reorganizar custa 300 cupons. Concorda?
+church.churchScene.SceneControler.startWedding.more:Reorganizar a cerimônia
+church.churchScene.SceneControler.startWedding.Money:Menos de 100 cupons; não é possível presentear
+church.churchScene.SceneMask.chatMsg.msg:Contagem regressiva
+church.churchScene.SceneMask.click:A cerimônia está em andamento; não é possível se mover
+church.churchScene.SceneUI.switchVisibleFireList:Adicionando fogos. Aguarde
+church.churchScene.SceneUI.info:Aviso:  
+church.churchScene.SceneView.stopWeddingMovie:Encerrar a cerimônia
+church.churchScene.MoonLightScene:Cenário ao luar
+church.churchScene.WeddingMainScene:Cenário principal do casamento
+church.weddingRoom.frame.AddWeddingRoomFrame.titleText:Participar da cerimônia
+church.weddingRoom.frame.AddWeddingRoomFrame.into:Entrar
+church.weddingRoom.frame.AddWeddingRoomFrame.time:0 h 0 min
+church.weddingRoom.frame.AddWeddingRoomFrame.minute:Minuto
+church.weddingRoom.frame.AddWeddingRoomFrame.day:dia  
+church.weddingRoom.frame.AddWeddingRoomFrame.notenoughday:Menos de 1 dia
+church.weddingRoom.frame.AddWeddingRoomFrame.exceedmounth:Menos de 1 mês
+church.weddingRoom.frame.AddWeddingRoomFrame.note:Atenção: se o cônjuge ficar mais de 1 mês offline, o divórcio custa só 999 cupons
+church.weddingRoom.frame.AddWeddingRoomFrame.frameInfo:Como seu cônjuge XXXX está offline há mais de 1 mês, o divórcio imediato desconta apenas <cr999 xucr>.
+church.weddingRoom.frame.CreateRoomFrame.titleText: Realizar o casamento
+church.weddingRoom.frame.CreateRoomFrame._remark_txt:Hoje é um dia especial: o casamento de {0}, galante e distinto, e de {1}, bela e virtuosa, será celebrado aqui. Venham compartilhar esta alegria.
+church.weddingRoom.RoomListBtnPanel.clickListener:Solteiro não se divorcia
+church.view.weddingRoomList.DivorcePromptFrame.yes:Divorciar agora
+church.view.weddingRoomList.DivorcePromptFrame.no:Deixar para depois
+church.view.weddingRoomList.frame.WeddingUnmarryViewTip:Divórcio
+church.weddingRoom.WeddingRoomControler.addRoom:Falha ao criar a sala
+church.weddingRoom.WeddingRoomControler.showCreateFrame:Você ainda não pediu em casamento; não é possível realizar a cerimônia
+church.weddingRoom.WeddingRoomControler.leaveRoom:Confirmar que deseja sair da sala do casamento
 civil.frame.CivilRegisterFrame.married:Đã kết hôn
 civil.frame.CivilRegisterFrame.marry:Độc thân
 civil.frame.CivilRegisterFrame.checkBox:Công khai thông tin trang bị
@@ -791,42 +791,42 @@ civil.register.NicknameLabel:Tên
 civil.register.MatrimonyLabel:Trạng thái kết hôn
 civil.register.IntroductionLabel:Trích lượt bản thân
 civil.register.NewMemberNotify:Chú ý:Đăng nhập khu kết bạn cần 10000vàng .
-tank.consortia.club.ConsortiaClubView.applyJoinClickHandler:Guild này tạm không nhận duyệt đơn
-tank.consortia.club.ConsortiaClubView.cellDoubleClick:Mời nâng cấp két sắt
-tank.consortia.club.ConsortiaClubView.cellDoubleClick.msg:Két sắt Guild đã đầy
-tank.consortia.club.ConsortiaClubView.cellOpen:Chưa đủ cấp
-tank.consortia.consortiabank.ConsortiaBankView.titleText:Két cá nhân
+tank.consortia.club.ConsortiaClubView.applyJoinClickHandler:Esta guilda não está aceitando pedidos no momento
+tank.consortia.club.ConsortiaClubView.cellDoubleClick:Aprimore o cofre
+tank.consortia.club.ConsortiaClubView.cellDoubleClick.msg:O cofre da guilda está cheio
+tank.consortia.club.ConsortiaClubView.cellOpen:Nível insuficiente
+tank.consortia.consortiabank.ConsortiaBankView.titleText:Cofre pessoal
 tank.BagAndInfo.BankBag.titleText:Két Sắt Cá Nhân Mở Rộng
-tank.consortia.consortiashop.ConsortiaShopItem.checkMoney:Guild shop chưa đủ cấp
-tank.consortia.consortiashop.ConsortiaShopItem.Money:Bạn không đủ xu, nạp ngay?
-tank.consortia.consortiashop.ConsortiaShopView.titleText:Guild shop
-tank.consortia.myconsortia.frame.AlienationConsortiaFrame.NickName:Không thể chuyển guild cho chính mình
-tank.consortia.myconsortia.frame.AlienationConsortiaFrame.Grade:Người được nhận phải đạt trên cấp 12
-tank.consortia.myconsortia.frame.ConsortiaAssetManagerFrame.titleText:Quản lý
-tank.consortia.myconsortia.frame.ConsortiaAssetManagerFrame.okFunction:Xác nhận sửa
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaLevel:Guild đã đạt cấp cao nhất
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaShopLevel:Shop Guild đã đạt cấp cao nhất
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.pleaseUpgrade:Mời nâng cấp guild
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.smith:Két sắt Guild đã đạt cấp cao nhất
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.store:Tiệm rèn Guild đã đạt cấp cao nhất
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASHOPGRADE.explainTxt:Sau khi nâng cấp có thể mua vật phẩm giá trị cao
+tank.consortia.consortiashop.ConsortiaShopItem.checkMoney:A loja da guilda ainda não tem nível suficiente
+tank.consortia.consortiashop.ConsortiaShopItem.Money:Cupons insuficientes. Deseja recarregar?
+tank.consortia.consortiashop.ConsortiaShopView.titleText:Loja da guilda
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.NickName:Não é possível transferir a guilda para si mesmo
+tank.consortia.myconsortia.frame.AlienationConsortiaFrame.Grade:Quem recebe precisa estar acima do nível 12
+tank.consortia.myconsortia.frame.ConsortiaAssetManagerFrame.titleText:Gerenciar
+tank.consortia.myconsortia.frame.ConsortiaAssetManagerFrame.okFunction:Confirmar alteração
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaLevel:A guilda já está no nível máximo
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaShopLevel:A loja da guilda já está no nível máximo
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.pleaseUpgrade:Aprimore a guilda
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.smith:O cofre da guilda já está no nível máximo
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.store:A forja da guilda já está no nível máximo
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASHOPGRADE.explainTxt:Após o aprimoramento será possível comprar itens de maior valor
 grade: cấp
-consortia.upgrade:Cấp Guild
-consortia.Money:Tài sản
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaShopUpgrade:Nâng cấp shop guild thành công
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.contentUpgrade:Nâng cấp xong có thể lưu trữ nhiều vật phẩm hơn. Số ô hiện tại là {0}
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.contentSmith:Két sắt guild cấp {0}, có thể tích trữ {1} ô
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.appealTxt:Guild cấp {0}
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaSmithUpgrade:Nâng cấp két sắt guild
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.success:Nâng cấp xong có thể nâng cao tỉ lệ cường hóa thành công
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.storeSuccess:Tiệm rèn guild đạt cấp {0}, tỉ lệ nâng thành {1}
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.storeUpgrade:Nâng cấp tiệm rèn guild
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.condition:<FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#ff0000'>(Điều kiện không đủ)</FONT>
-tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.name:Hội viên
-tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.duty:Chức vụ
-tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.level:Cấp thành viên
-tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.time:Thời gian thành viên off
-tank.consortia.myconsortia.MyConsortiaView.consortiaStore:Tiệm rèn Guild
+consortia.upgrade:Nível da guilda
+consortia.Money:Tesouro
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaShopUpgrade:Loja da guilda aprimorada com sucesso
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.contentUpgrade:Após o aprimoramento dá para guardar mais itens. Espaços atuais: {0}
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.contentSmith:Cofre da guilda nível {0}; cabe {1} espaço(s)
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.appealTxt:Guilda nível {0}
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.consortiaSmithUpgrade:Aprimorar o cofre da guilda
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.success:Após o aprimoramento a taxa de sucesso do fortalecimento aumenta
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.storeSuccess:Forja da guilda no nível {0}; a taxa sobe para {1}
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.storeUpgrade:Aprimorar a forja da guilda
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.condition:<FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#ff0000'>(Condição insuficiente)</FONT>
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.name:Membro
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.duty:Cargo
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.level:Nível do membro
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.time:Tempo offline do membro
+tank.consortia.myconsortia.MyConsortiaView.consortiaStore:Forja da guilda
 tank.manager.ChurchRoomManager.loadingMap:Đang tải bản đồ  lễ cưới
 tank.manager.ItemManager.falseLoading:Falha ao carregar parâmetros do item
 tank.manager.ItemManager.cigaretteAsh:Pháo hoa
@@ -849,24 +849,24 @@ tank.manager.PlayerManager.youAndOtherMarried:cùng {0} thành vợ chồng
 tank.manager.PlayerManager.divorce:Bạn đã ly hôn
 tank.manager.SocketManager.copyRight:Versão
 tank.manager.TaskManager.ChannelListSelectView:Đã nhận nhiệm vụ mới.
-tank.view.bagII.baglocked.BagLockedGetFrame.titleText:Mở khóa
-tank.view.bagII.baglocked.BagLockedGetFrame.titleText2:Xóa mật mã cấp 2
-tank.view.bagII.baglocked.BagLockedGetFrame.input: Nhập mật mã cấp 2
-tank.view.bagII.baglocked.BagLockedHelpFrame.titleText:Giải thích mật mã cấp 2
-tank.view.bagII.baglocked.BagLockedSetFrame.tip1:Mật mã ít nhất 6 ký tự và nhiều nhất 14 ký tự
-tank.view.bagII.baglocked.BagLockedSetFrame.tip2:Nhập mật mã.
-tank.view.bagII.baglocked.BagLockedSetFrame.tip3:Mật mã không khớp, mời nhập lại
-tank.view.bagII.baglocked.BagLockedSetFrame.titleText:Thiết lập mật mã cấp
-tank.view.bagII.baglocked.BagLockedUpdateFrame.oldPassWord:Nhập mật mã cũ
-tank.view.bagII.baglocked.BagLockedUpdateFrame.newPassWord:Nhập mật mã mới
-tank.view.bagII.baglocked.BagLockedUpdateFrame.wrong:Mật mã không khớp, mời nhập lại
-tank.view.bagII.baglocked.BagLockedUpdateFrame.titleText:Sửa mật mã cấp 2
-tank.view.bagII.BagIIView.bagLockedBtn:Thiết lập mật mã cấp 2
-tank.view.bagII.BagIIView.level:Chưa đủ cấp
+tank.view.bagII.baglocked.BagLockedGetFrame.titleText:Desbloquear
+tank.view.bagII.baglocked.BagLockedGetFrame.titleText2:Excluir senha de 2º nível
+tank.view.bagII.baglocked.BagLockedGetFrame.input: Digite a senha de 2º nível
+tank.view.bagII.baglocked.BagLockedHelpFrame.titleText:Ajuda da senha de 2º nível
+tank.view.bagII.baglocked.BagLockedSetFrame.tip1:A senha deve ter de 6 a 14 caracteres
+tank.view.bagII.baglocked.BagLockedSetFrame.tip2:Digite a senha.
+tank.view.bagII.baglocked.BagLockedSetFrame.tip3:As senhas não coincidem, digite novamente
+tank.view.bagII.baglocked.BagLockedSetFrame.titleText:Definir senha de 2º nível
+tank.view.bagII.baglocked.BagLockedUpdateFrame.oldPassWord:Digite a senha antiga
+tank.view.bagII.baglocked.BagLockedUpdateFrame.newPassWord:Digite a senha nova
+tank.view.bagII.baglocked.BagLockedUpdateFrame.wrong:As senhas não coincidem, digite novamente
+tank.view.bagII.baglocked.BagLockedUpdateFrame.titleText:Alterar senha de 2º nível
+tank.view.bagII.BagIIView.bagLockedBtn:Definir senha de 2º nível
+tank.view.bagII.BagIIView.level:Nível insuficiente
 delet:Xóa
-tank.view.bagII.GoodsTipPanel.free: Kháng
+tank.view.bagII.GoodsTipPanel.free: Resistência
 tank.view.bagII.GoodsTipPanel.life:HP
-tank.view.bagII.GoodsTipPanel.advance:Nâng cao
+tank.view.bagII.GoodsTipPanel.advance:Avançado
 tank.view.changeColor.ChangeColorLeftView.glass:Kính
 tank.view.changeColor.ChangeColorLeftView.suit:Bộ
 tank.view.changeColor.ChangeColorLeftView.Wings:Cánh
@@ -881,14 +881,14 @@ tank.view.common.church.ProposeResponseFrame.msg:Bạn từ chơi lời cầu h�
 tank.view.common.AddPricePanel.label:         Vật phẩm này hết hạn, mời tiếp phí
 tank.view.common.CheckCodePanel.titleText:Mã kiểm tra
 tank.view.continuation.ContinuationItem.initCom:Chọn thời gian tiếp phí
-tank.view.emailII.EmailIIStripSended.sender_txt:Đến:
+tank.view.emailII.EmailIIStripSended.sender_txt:Para:
 reBack_btn.label:Trả thư
 reply_btn.label:Trả lời
 write_btn.label:Viết thư
-tank.view.emailII.ReadingView.deleteSelectListener:Chọn ít nhất 1 lá thư
+tank.view.emailII.ReadingView.deleteSelectListener:Selecione pelo menos 1 correio
 send:Gửi
-tank.view.emailII.WritingView.backTime:Thời gian trả thư: 1 giờ
-tank.view.emailII.WritingView.backTime2:Thời gian trả thư: 6 giờ
+tank.view.emailII.WritingView.backTime:Prazo de resposta: 1 hora
+tank.view.emailII.WritingView.backTime2:Prazo de resposta: 6 horas
 tank.view.tutorial.EnterTutorialFrame.loaderComplete:Xin đợi lát sau hãy vào mục giúp đỡ tân thủ
 tank.game.DanderStrip.tip:POW é a fúria. Atacar ou ser atacado a enche. Quando estiver cheia, use POW para um golpe mais forte
 duoqi:Đọat cờ
@@ -898,25 +898,25 @@ prePage:Trang trước
 firstPage:Trang 1
 tank.roomlist.RoomListIICreateRoomView.DESCRIPTION:Modo que escolhe o oponente aleatoriamente. É o modo principal do jogo.
 tank.roomlist.RoomListIICreateRoomView.DESCRIPTION2:No treino você escolhe o oponente; a recompensa é menor
-shop.DataError.NoGood:Dữ liệu sai,không tìm thấy vật phẩm
-shop.ShopIISaveFigurePanel.okBtn.label:Trả phí
-shop.ShopIISaveFigurePanel.cancelBtn.label:Không trả
-store.StoreIIComposeBG.consortiaRate_txt:Nhập Guild {0}%
+shop.DataError.NoGood:Dados inválidos, item não encontrado
+shop.ShopIISaveFigurePanel.okBtn.label:Pagar
+shop.ShopIISaveFigurePanel.cancelBtn.label:Não pagar
+store.StoreIIComposeBG.consortiaRate_txt:Guilda {0}%
 MarryIcon.hubby:là vợ
 MarryIcon.wife:là chồng
 tank.data.EquipType.suit:Set
 tank.data.EquipType.necklace:Dây chuyền
 tank.data.EquipType.wing:cánh
 tank.data.EquipType.paopao:Bong bóng
-church.churchScene.scene.MoonSceneMap.lipao:Đang đốt pháo, xin chờ
+church.churchScene.scene.MoonSceneMap.lipao:Disparando fogos; aguarde
 hurch.weddingRoom.frame.CreateRoomFrame.name_txt:Lễ cưới của {0} và {1}
 yu:Và
 dehunli:Đám cưới của 
-church.churchScene.scene.SceneMap.lihua:Tắt hiệu ứng pháo hoa
-church.churchScene.frame.ModifyRoomInfoFrame.titleText:Thiết lập phòng
+church.churchScene.scene.SceneMap.lihua:Desligar efeito de fogos
+church.churchScene.frame.ModifyRoomInfoFrame.titleText:Configurar sala
 ranfang:Đốt
-tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.total:Tổng tài sản \ncống hiến \nvà tài sản \nphần thưởng nhiệm vụ \ncủa thành viên
-tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.getOrLost:Điểm tài sản \nthành viên cống hiến \nkhi chiến guild
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.total:Tesouro total \ncontribuição \ne tesouro \nde recompensa de missão \ndo membro
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.getOrLost:Pontos de tesouro \nque o membro contribui \nna guerra de guildas
 gongxun: công trạng
 ge:
 ConsortiaShopItem.gongXunbuzu:Công trạng không đủ
@@ -932,8 +932,8 @@ tank.manager.enthrallRemind3:Hôm nay bạn đã online 4 giờ, chỉ nhận đ
 tank.manager.enthrallRemind4:Hôm nay bạn đã online 5 giờ, vì sức khỏe của bạn, hãy nghỉ ngơi, bạn sẽ nhận được 0% kinh nghiệm
 tank.manager.enthrallRemind5:Hôm nay bạn đã online 5 giờ, vì sức khỏe của bạn, hãy nghỉ ngơi, bạn sẽ nhận được 0% kinh nghiệm
 community:Bạn SNS
-tank.view.bagII.fushion:Dung luyện
-tank.view.bagII.couldFushion:Có thể dung luyện
+tank.view.bagII.fushion:Fundir
+tank.view.bagII.couldFushion:Pode fundir
 tank.view.dailyconduct.clubDayly:Guild hằng ngày
 tank.view.dailyconduct.dayly:Nhiệm vụ hằng ngày
 tank.view.dailyconduct.completeProcess:Tiến độ hoàn thành
@@ -949,7 +949,7 @@ tank.data.auctionHouse.AuctionGoodsInfo.tshort:trong 30 phút
 tank.data.auctionHouse.AuctionGoodsInfo.tmiddle:30 phút đến 2 giờ
 tank.data.auctionHouse.AuctionGoodsInfo.tlong:2 giờ đến 12 giờ
 tank.data.auctionHouse.AuctionGoodsInfo.tvery:hơn 12 giờ
-store.view.fusion.StoreIIFusionBG.useNoExtends:Dung luyện xong thuộc tính hợp thành không cộng dồn, xác định tiếp tục?<br><FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'>Chú ý:Vật phẩm dung luyện ra sẽ có hạn sử dụng của vật phẩm dung luyện có hạn sử dụng ngắn nhất.</FONT>
+store.view.fusion.StoreIIFusionBG.useNoExtends:Após fundir, os atributos compostos não se acumulam. Continuar?<br><FONT SIZE='12' FACE='Arial' KERNING='2' COLOR='#FF0000'>Atenção: o item fundido terá a validade do material com o prazo mais curto.</FONT>
 tank.gameover.NotEnoughPayToTakeCard:xu không đủ ,không thể tiến hành lật bài
 tank.room.RoomIIView2.noplacetoinvite:A sala não tem vaga
 tank.view.changeColor.lackCard1:Lần chuyển đổi cần tốn {0} xu, tiếp tục không?
@@ -957,17 +957,17 @@ tank.room.RoomIIView2.notenoughmoney.title:Aviso
 tank.room.RoomIIView2.notenoughmoney.content:Cupons insuficientes. Recarregar agora?
 tank.room.RoomIIView2.confirmtostartgame:Isso vai cobrar 100 cupons. Continuar?
 continue:tiếp tục
-shop.ShopIISaveFigurePanel.gift: lễ kim không đủ ,{0}
+shop.ShopIISaveFigurePanel.gift: presentes insuficientes, {0}
 tank.data.EquipType.offhand: trợ thủ
-tank.view.bagII.GoodsTipPanel.ciclehole: lỗ cắm thuộc tính
-tank.view.bagII.GoodsTipPanel.recthole: lỗ cắm phòng ngự
-tank.view.bagII.GoodsTipPanel.trianglehole: lỗ cắm công kích
-tank.view.bagII.GoodsTipPanel.unknowhole: lỗ cắm không rõ
-tank.view.bagII.GoodsTipPanel.holerequire:(Cường hóa cấp {0} kích hoạt)
-tank.view.bagII.GoodsTipPanel.melting: dung luyện
-tank.view.bagII.GoodsTipPanel.canmelting:Dung luyện được
-tank.view.bagII.GoodsTipPanel.holeenable:(Đã kích hoạt)
-tank.view.bagII.GoodsTipPanel.holeLv:(Lỗ cấp {0})
+tank.view.bagII.GoodsTipPanel.ciclehole: encaixe de atributo
+tank.view.bagII.GoodsTipPanel.recthole: encaixe de defesa
+tank.view.bagII.GoodsTipPanel.trianglehole: encaixe de ataque
+tank.view.bagII.GoodsTipPanel.unknowhole: encaixe desconhecido
+tank.view.bagII.GoodsTipPanel.holerequire:(Fortalecer nível {0} ativa)
+tank.view.bagII.GoodsTipPanel.melting: fundir
+tank.view.bagII.GoodsTipPanel.canmelting:Pode fundir
+tank.view.bagII.GoodsTipPanel.holeenable:(Ativado)
+tank.view.bagII.GoodsTipPanel.holeLv:(Encaixe nível {0})
 tank.dungeon.help.hited:Đã đánh bại
 tank.dungeon.tryagain.title:chơi thêm 1 lần
 tank.dungeon.tryagain.content:   Thách đâu cửa ải lần nữa<br><FONT COLOR='#FF0000' SIZE='13'> Nếu chọn thách đấu lại sẽ tốn 500 xu</FONT>
@@ -1018,14 +1018,14 @@ tank.view.ReworkNameView.okLabel:Confirmar alteração
 tank.view.ReworkNameView.inputName:Digite o apelido
 tank.view.ReworkNameView.consortiaInputName:Digite o novo nome
 tank.view.ReworkNameView.reworkNameComplete:Nome alterado. O novo nome vale em 24 horas
-tank.view.bagII.GoodsTipPanel.over1: vật phẩm đã hết hạn, còn {0} ngày
-tank.view.bagII.GoodsTipPanel.over2: xóa xong, mời kịp thời tiếp phí
-tank.view.bagII.GoodsTipPanel.over3: vật phẩm đã hết hạn, sẽ nhỏ hơn {0}
-tank.view.bagII.GoodsTipPanel.over4: hãy tiếp phí đúng lúc
-tank.view.bagII.GoldDirections:xu:Nạp thẻ để nhận được hoặc chiến đấu để kiếm xu
-tank.view.bagII.GiftDirections:lễ kim:Làm nhiệm vụ để nhận được
-tank.view.bagII.MoneyDirections:vàng:Chiến đấu để nhận được
-tank.view.bagII.MedalDirections:Huân chương: Làm nhiệm vụ để nhận được
+tank.view.bagII.GoodsTipPanel.over1: item expirado, restam {0} dias
+tank.view.bagII.GoodsTipPanel.over2: após excluir, renove a tempo
+tank.view.bagII.GoodsTipPanel.over3: item expirado, ficará menor que {0}
+tank.view.bagII.GoodsTipPanel.over4: renove a tempo
+tank.view.bagII.GoldDirections:Ouro: ganho em combate
+tank.view.bagII.GiftDirections:Presente: obtido em missões
+tank.view.bagII.MoneyDirections:Cupom: obtido por recarga
+tank.view.bagII.MedalDirections:Medalha: obtida em missões
 tank.view.userGuide.AnswerView.answerFail:lỗi,mời thử lại.
 tank.view.userGuide.Common.progress:đạt mục tiêu
 tank.view.DefyAfficheView.cancel:hủy bỏ
@@ -1054,7 +1054,7 @@ tank.view.personalinfoII.damage:sát thương
 tank.view.personalinfoII.damageDetail:sát thương cơ bản lúc chiến đấu bạn có thể tạo ra. 
 tank.view.ClientDownloading.Tip:sử dụng  client đăng\nnhập,trò chơi nhanh hơn!kinh nghiệm \ncao hơn!thưởng nhiều hơn！
 tank.view.DownloadingView.titleText:tải client 
-tank.view.bagII.BagIIView.bagFinishingBtn:sắp xếp túi 
+tank.view.bagII.BagIIView.bagFinishingBtn:organizar mochila
 tank.view.store.matteTips:nếu như thanh đạo cụ có lỗ cắm giống châu báu ,\ncó thể đem châu báu đến tiến hành khảm nạm 
 tank.view.GoldInadequate:vàng không đủ, có phải mua rương vàng 
 tank.game.GameViewBase.Hint:<FONT SIZE='16' FACE='Arial Unicode MS' KERNING='2' COLOR='#00 77bc'><B>O cartão de itens ilimitados expirou. Clique na barra de itens para renovar!</B></FONT>
@@ -1065,7 +1065,7 @@ tank.view.store.title:tiệm rèn
 tank.view.store.matte.notOpen:chưa bắt đầu 
 tank.view.store.matte.notType:không hợp 
 tank.view.store.matte.LevelWrong:Cấp bậc lỗ khảm thấp,không thể khảm nạm
-store.view.transfer.StoreIITransferBG.lijinbuzu:lễ kim không đủ, mời tiếp phí
+store.view.transfer.StoreIITransferBG.lijinbuzu:presentes insuficientes, recarregue
 tank.view.store.matte.goldQuickBuy:mua nhanh 
 tank.view.common.levelRange:Faixa de nível:
 tank.view.common.roomLevel:Nível da sala:
@@ -1078,9 +1078,9 @@ tank.view.common.bossFight:BOSS
 tank.view.common.duplicateFight:Missão:
 tank.gameover.clientGainEXP:người dùng client nhận được kinh nghiệm 
 tank.gameover.times:lần 
-shop.view.madelLack:huy hiệu không đủ 
-shop.view.lackCoin:tiền không đủ ,mua thất bại 
-shop.view.present:tặng 
+shop.view.madelLack:Medalhas insuficientes
+shop.view.lackCoin:Saldo insuficiente, compra falhou
+shop.view.present:Presentear
 tank.auctionHouse.view.pleaseInputOnThere:Hãy nhập tên vật phẩm
 tank.auctionHouse.view.cloth:Trang phục
 tank.auctionHouse.view.beauty:Làm đẹp
@@ -1097,41 +1097,41 @@ tank.auctionHouse.view.auctioned:vật phẩm này đã có người tranh giá
 tank.manager.congratulateGain:chúc mừng {0} {1} nhận được 
 tank.manager.selectDuplicate:mời chọn phó bản 
 tank.manager.loadShopItemsFailed:Falha ao carregar itens
-tank.view.bagII.baglocked.setting:Tạo mã
-tank.view.bagII.baglocked.unlock:Bỏ khóa
-tank.view.bagII.baglocked.modify:Sửa mã
-tank.view.bagII.baglocked.delete:xóa mật mã 
-tank.view.bagII.baglocked.guide:thiết lập hướng dẫn mật mã 2
-tank.view.bagII.baglocked.next:tiếp 
-tank.view.bagII.baglocked.diffrent:mật mã và xác nhận mật mã không giống ！
-tank.view.bagII.baglocked.alertInfo:độ dài mật mã từ 6-14!
-tank.view.bagII.baglocked.setted:bạn đã thiết lập câu hỏi bảo mật
-tank.view.bagII.baglocked.sure:xác nhận 
-tank.view.bagII.baglocked.deletePassword: xóa mật mã 2
-tank.view.bagII.baglocked.sureToDelete:quyết định xóa 
-tank.view.bagII.baglocked.inputOriginalPassword:mời nhập mật mã cũ 
-tank.view.bagII.baglocked.resetting:nhập lại mật mã 2 
-tank.view.bagII.baglocked.immediatelyComplete:lập tức hoàn tất 
-tank.view.bagII.baglocked.inputAnswer:mời nhập câu trả lời bảo mật
-tank.view.bagII.baglocked.sureInfo:xác nhận thông tin bảo mật
-tank.view.bagII.baglocked.complete:xong
-tank.view.bagII.baglocked.preview:trước 
-tank.view.bagII.baglocked.answerDiffer:câu hỏi bảo mật không giống !
-tank.view.bagII.baglocked.passwordSetting:thiết lập thông tin bảo vệ mật mã 2
-tank.view.bagII.baglocked.customer:<tự định nghĩa>
-tank.view.bagII.baglocked.selectQustion:mời chọn câu hỏi bảo mật
-tank.view.bagII.baglocked.inputCompletely:mời điền  thông tin đầy đủ 
-tank.view.bagII.baglocked.cantRepeat:2 lần câu hỏi bảo mật không thể lặp lại 
-tank.view.bagII.baglocked.modifyTitle:chỉnh sửa mật mã 2 
-tank.view.bagII.baglocked.modifyBtn:chỉnh sửa 
-tank.view.bagII.baglocked.originalNull:mật mã cũ không thể để trống 
-tank.view.bagII.baglocked.newNull:mật mã mới không thể để trống 
-tank.view.bagII.baglocked.newDiffer:mật mã mới không giống 
-tank.view.bagII.baglocked.newTooLong:độ dài mật mã mới quá dài
-tank.view.bagII.baglocked.newTooShort:độ dài mật mã mới quá ngắn 
-tank.view.bagII.cantAddPrice:vật phẩm này không thể tiếp phí 
-tank.view.bagII.sexErr:giới tính không đúng
-tank.view.bagII.dressed:đã trang bị 
+tank.view.bagII.baglocked.setting:Criar senha
+tank.view.bagII.baglocked.unlock:Desbloquear
+tank.view.bagII.baglocked.modify:Alterar senha
+tank.view.bagII.baglocked.delete:excluir senha
+tank.view.bagII.baglocked.guide:ajuda para definir a senha de 2º nível
+tank.view.bagII.baglocked.next:próximo
+tank.view.bagII.baglocked.diffrent:a senha e a confirmação não coincidem!
+tank.view.bagII.baglocked.alertInfo:a senha deve ter de 6 a 14 caracteres!
+tank.view.bagII.baglocked.setted:você já definiu a pergunta de segurança
+tank.view.bagII.baglocked.sure:confirmar
+tank.view.bagII.baglocked.deletePassword: excluir senha de 2º nível
+tank.view.bagII.baglocked.sureToDelete:confirmar exclusão
+tank.view.bagII.baglocked.inputOriginalPassword:digite a senha antiga
+tank.view.bagII.baglocked.resetting:digite novamente a senha de 2º nível
+tank.view.bagII.baglocked.immediatelyComplete:concluir agora
+tank.view.bagII.baglocked.inputAnswer:digite a resposta de segurança
+tank.view.bagII.baglocked.sureInfo:confirmar informações de segurança
+tank.view.bagII.baglocked.complete:concluído
+tank.view.bagII.baglocked.preview:anterior
+tank.view.bagII.baglocked.answerDiffer:as perguntas de segurança não coincidem!
+tank.view.bagII.baglocked.passwordSetting:definir proteção da senha de 2º nível
+tank.view.bagII.baglocked.customer:<personalizada>
+tank.view.bagII.baglocked.selectQustion:escolha a pergunta de segurança
+tank.view.bagII.baglocked.inputCompletely:preencha todas as informações
+tank.view.bagII.baglocked.cantRepeat:as 2 perguntas de segurança não podem se repetir
+tank.view.bagII.baglocked.modifyTitle:alterar senha de 2º nível
+tank.view.bagII.baglocked.modifyBtn:alterar
+tank.view.bagII.baglocked.originalNull:a senha antiga não pode ficar em branco
+tank.view.bagII.baglocked.newNull:a senha nova não pode ficar em branco
+tank.view.bagII.baglocked.newDiffer:as senhas novas não coincidem
+tank.view.bagII.baglocked.newTooLong:a senha nova é longa demais
+tank.view.bagII.baglocked.newTooShort:a senha nova é curta demais
+tank.view.bagII.cantAddPrice:este item não pode ser renovado
+tank.view.bagII.sexErr:sexo incompatível
+tank.view.bagII.dressed:já equipado
 tank.game.smallmap.simple:Fácil
 tank.game.smallmap.normal:Normal
 tank.game.smallmap.difficulty:Difícil
@@ -1171,34 +1171,34 @@ tank.loginstate.guildNameModify:Alterar nome da guilda
 tank.loginstate.inputInvalidate:O nome contém caracteres inválidos
 tank.loginstate.allNull:O nome não pode ser só espaços
 tank.loginstate.inputNickName:Digite o apelido!
-shop.view.restore:trở lại ban đầu
+shop.view.restore:Voltar ao original
 shop.view.cantPresent:Presente ou medalha não podem ser enviados de presente
 shop.view.giftLack:Presentes insuficientes
-store.states.hatOpenProperty:cường hóa thành công, nón của bạn có thêm thuộc tính mới
-store.states.hatOpenDefense:cường hóa thành công, nón của bạn có thêm phòng ngự mới
-store.states.clothOpenProperty:cường hóa thành công, y phục của bạn có thêm khe cắm thuộc tính mới
-store.states.clothOpenDefense:cường hóa thành công, y phục của bạn có thêm khe cắm phòng ngự mới
-store.states.weaponOpenAttack:cường hóa thành công, vũ khí của bạn thêm khe cắm công kích mới 
-store.states.weaponOpenProperty:cường hóa thành công, vũ khí của bạn có thêm thuộc tính mới
-store.states.embedTitle:nhắc nhở
-store.embem.HoleTip.Level:Cấp
-store.view.Compose.buyCompose:mua nhanh đá hợp thành 
-store.view.fusion.buyFormula:mua nhanh công thức 
-store.view.shortcutBuy.buyBtn:mua
+store.states.hatOpenProperty:fortalecimento concluído, seu chapéu ganhou um novo atributo
+store.states.hatOpenDefense:fortalecimento concluído, seu chapéu ganhou uma nova defesa
+store.states.clothOpenProperty:fortalecimento concluído, sua roupa ganhou um novo encaixe de atributo
+store.states.clothOpenDefense:fortalecimento concluído, sua roupa ganhou um novo encaixe de defesa
+store.states.weaponOpenAttack:fortalecimento concluído, sua arma ganhou um novo encaixe de ataque
+store.states.weaponOpenProperty:fortalecimento concluído, sua arma ganhou um novo atributo
+store.states.embedTitle:aviso
+store.embem.HoleTip.Level:Nível
+store.view.Compose.buyCompose:compra rápida de pedra de compor
+store.view.fusion.buyFormula:compra rápida de fórmula
+store.view.shortcutBuy.buyBtn:comprar
 heiti:heiti
-store.view.shortcutBuy.shouldPay:bạn tổng cộng cần trả:
-store.view.strength.unpare:đá và trang bị không hợp 
-store.view.strength.typeUnpare:loại đá không giống 
-store.view.strength.noneSymble:bạn chưa để bùa ma thuật,tiếp tục không？
-store.view.strength.FiveLevelTip:Trang bị đạt cấp 5,sau đó nếu cường hóa thất bại sẽ bị\n giảm cấp!Sử dụng bùa ma thuật có thể tránh bị giảm cấp.
-store.view.transfer.info:vật phẩm đã đầy hoặc không cùng loại!
-store.openHole.NOstone:Trong túi của bạn chưa có mũi khoan mở lỗ khảm cao cấp hoặc sơ cấp
-store.openHole.btnTipData:Mở lỗ khảm cần mũi khoan
-store.openHole.OpenTipData:Cấp {0}
+store.view.shortcutBuy.shouldPay:você precisa pagar no total:
+store.view.strength.unpare:a pedra e o equipamento não combinam
+store.view.strength.typeUnpare:o tipo da pedra é diferente
+store.view.strength.noneSymble:você não colocou o amuleto mágico. Continuar?
+store.view.strength.FiveLevelTip:Ao atingir o nível 5, se o fortalecer falhar o equipamento\n perderá nível! O amuleto mágico evita a perda de nível.
+store.view.transfer.info:os itens estão cheios ou não são do mesmo tipo!
+store.openHole.NOstone:Você não tem broca de encaixe avançada nem básica na mochila
+store.openHole.btnTipData:Abrir encaixe exige broca
+store.openHole.OpenTipData:Nível {0}
 tank.view.buffControl.buffButton.freeCard:card đạo cụ vô hạn 
 civil.frame.CivilRegisterFrame.checkIntro:nội dung bạn nhập có kí tự không hợp, thông tin bạn bè chưa lưu.
-tank.view.bagII.GoodsTipPanel.holeactive:(cường hóa cấp {0} sẽ kích hoạt)
-tank.view.bagII.baglocked.operationTimesOut:Thao tác đã đạt giới hạn hôm nay
+tank.view.bagII.GoodsTipPanel.holeactive:(fortalecer nível {0} ativa)
+tank.view.bagII.baglocked.operationTimesOut:Você atingiu o limite de tentativas de hoje
 tank.view.dailyconduct.gain:nhận
 tank.gametrainer.data.TrainerModel.answer1:1.Làm sao chuyển nhân vật?
 tank.gametrainer.data.TrainerModel.answer4:2. Làm sao để bắn pháo?
@@ -1206,12 +1206,12 @@ tank.gametrainer.data.TrainerModel.answer6: Giữ spacebar để bắn
 tank.view.common.BuyGiftBagButton.initliziItemTemplate.excellent:Khuyến mãi
 tank.view.common.BuyGiftBagButton.initliziItemTemplate.info:Gồm đá cường hóa 4x3, bùa ma thuật x1,bùa may mắn 25%x1 (đều khóa).Mua ngay sẽ được giảm 15%.
 tank.invite.InvitePlayerItem.cannot:Não é possível convidar jogadores abaixo do nível 4
-tank.view.bagII.baglocked.question1:Tên cha bạn?
-tank.view.bagII.baglocked.question2:Danh số của bạn trong lớp?
-tank.view.bagII.baglocked.question3:Trường tiểu học của bạn?
-tank.view.bagII.baglocked.question4:Trường trung học của bạn?
-tank.view.bagII.baglocked.question5:Sinh nhật bạn à?
-tank.view.bagII.baglocked.question6:Người ấy của bạn tên là gì?
+tank.view.bagII.baglocked.question1:Qual o nome do seu pai?
+tank.view.bagII.baglocked.question2:Qual era o seu número na turma?
+tank.view.bagII.baglocked.question3:Qual foi a sua escola primária?
+tank.view.bagII.baglocked.question4:Qual foi a sua escola secundária?
+tank.view.bagII.baglocked.question5:Qual é a sua data de nascimento?
+tank.view.bagII.baglocked.question6:Qual o nome da pessoa especial?
 tank.tofflist.view.lastUpdateTime:Cập nhật cuối cùng :
 tank.view.common.newAnwserTitle:Câu hỏi tân thủ
 tank.view.common.newAnwser1:Tăng thuộc tính trang bị
@@ -1219,7 +1219,7 @@ tank.view.common.newAnwser2:Tăng máu
 tank.gametrainer.view.wrongAnwser:Đáp sai,thử lại.
 tank.view.chatsystem.sendTo:Gửi cho
 tank.view.chatsystem.privateSayToYou:Thì thầm:
-store.view.strength.buyGift:Mua túi quà cần 998 xu. Bạn tiếp tục không?
+store.view.strength.buyGift:Comprar o pacote de presentes custa 998 cupons. Deseja continuar?
 tank.data.QualityType.cucao:thô
 tank.data.QualityType.putong:thường
 tank.data.QualityType.youxiu:ưu
@@ -1227,12 +1227,12 @@ tank.data.QualityType.jingliang:tinh anh
 tank.data.QualityType.zhuoyue:xuất sắc
 tank.data.QualityType.chuanshuo:truyền thuyết
 tank.data.QualityType.shenqi:thần khí
-tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame:Nội dung có kí tự không hợp lệ, thông báo không được lưu
+tank.consortia.myconsortia.frame.MyConsortiaAfficheFrame:O conteúdo tem caractere inválido; o aviso não foi salvo
 tank.view.common.DeadTipDialog.title:hồn ma chiến đấu
 tank.view.common.DeadTipDialog.btn:tôi biết rồi
 #2.20versio:#2.20version
-tank.view.bagII.SellGoodsBtn.sure:xác nhận bán vật phẩm này?\n Giá:{0}
-tank.view.bagII.SellGoodsBtn.CantSellEquip:Không thể bán vật phẩm giá trị cao này.
+tank.view.bagII.SellGoodsBtn.sure:confirmar venda deste item?\n Preço:{0}
+tank.view.bagII.SellGoodsBtn.CantSellEquip:Não é possível vender este item de alto valor.
 tank.game.GameView.getgoodstip.broadcast:Parabéns: {0} em {1} recebeu 
 tank.game.GameView.getgoodstip:[{0}] em {1} recebeu 
 tank.view.common.BuggleView.cross:]Sử dụng loa thế giới  phát tin tức :
@@ -1264,7 +1264,7 @@ tank.view.ConsortiaReworkNameView.consortiaNameAlert7:Hãy nhập tên
 tank.manager.crossdisable:Loa thế giới tạm chưa mở
 tank.game.deputyWeapon.canNotUse2:Acabaram os usos do escudo de galinha nesta partida
 tank.game.deputyWeapon.canNotUse3:Acabaram os usos do escudo Bolo Bala nesta partida
-tank.view.emailII.ReadingView.useHelp:Hướng dẫn
+tank.view.emailII.ReadingView.useHelp:Ajuda
 tank.game.BloodStrip.tip:Sem HP você vira fantasma. Suba de nível para ter mais HP
 tank.gameover.gainDoubleEXP:Sử dụng thẻ nhân đôi kinh nghiệm được x2 kinh nghiệm.
 tank.game.PowerStrip.tip:Mover-se e usar itens gasta vigor. Com vigor 0 você não se move nem usa itens.
@@ -1335,15 +1335,15 @@ tank.command.fightLibCommands.script.MeasureScree.understood:Hiểu rồi
 tank.fightLib.ChooseFightLibTypeView.selectFightLibInfo:Hãy chọn bài học
 tank.fightLib.ChooseFightLibTypeView.selectDifficulty:Hãy chọn độ khó
 tank.hall.ChooseHallView.fifteenGrade:É preciso ser nível 15 ou mais para entrar no laboratório de combate
-shop.ShopIIModel.countOver:Vật phẩm này đã bán hết
+shop.ShopIIModel.countOver:Este item está esgotado
 tank.view.ChannelList.FastMenu.exit:Đóng
 tank.game.ToolStripView.isExit:Sair deste combate?
 tank.view.im.IMController.shifou: Xác nhận thêm người này làm hảo hữu?
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.sure:Xác nhận nâng cấp guild?
-church.churchScene.SceneUI.menuClick:Xác nhận tiến hành lễ cưới ngay?
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASHOPGRADE:Xác nhận nâng cấp shop guild?
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASTOREGRADE:Xác nhận nâng cấp két sắt?
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASMITHGRADE:Xác nhận nâng cấp tiệm rèn?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.sure:Confirmar o aprimoramento da guilda?
+church.churchScene.SceneUI.menuClick:Confirmar o início do casamento agora?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASHOPGRADE:Confirmar o aprimoramento da loja da guilda?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASTOREGRADE:Confirmar o aprimoramento do cofre?
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASMITHGRADE:Confirmar o aprimoramento da forja?
 are.you.sure.to.marry:Xác nhận tiến hành lễ cưới ngay?
 tank.room.RoomIIView2.leaveRoom:Sair da sala?
 tank.missionsettle.explore.leaveConfirm.contents:Xác nhận thoát trận đấu hiện tại?
@@ -1354,38 +1354,38 @@ tank.view.common.newQuestion2:2. Pow và 3 tia có thể sử dụng cùng lúc 
 tank.view.common.newAnwser3:Có thể.
 tank.view.common.newAnwser4:Không thể.
 tank.view.im.IMController.issure:Xác nhận đưa người này vào danh sách đen?
-tank.consortia.myconsortia.frame.MyConsortiaTax.sure:Xác nhận công hiến tài sản?
-tank.view.emailII.EmailIIStripView.delectEmail: Trong thư bạn xóa có kèm vật phẩm, sau khi xóa<br/>  không thể lấy lại vật phẩm, tiếp tục xóa?
+tank.consortia.myconsortia.frame.MyConsortiaTax.sure:Confirmar a contribuição de tesouro?
+tank.view.emailII.EmailIIStripView.delectEmail: O correio que você vai excluir tem item anexado. Após excluir<br/>  não será possível recuperá-lo. Continuar?
 tank.gametrainer.data.TrainerModel.answer2: Nhấn phím mũi tên ←,→.
 tank.hotSpring.room.time.minute:phút
 tank.hotSpring.room.config.title:Thiết lập phòng
 tank.hotSpring.room.create.title:Tạo phòng
 tank.hotSpring.room.defaultName:Ngâm mình trong dòng suối nóng thư giãn
-tank.view.bagII.BagIIView.BindsInfo:Tiếp tục sẽ làm vật phẩm trở thành vật phẩm khóa, <br><FONT SIZE='16' FACE='Arial Unicode MS' KERNING='2' COLOR='#FF0000'>Muốn tiếp tục?</FONT>
+tank.view.bagII.BagIIView.BindsInfo:Continuar tornará o item vinculado, <br><FONT SIZE='16' FACE='Arial Unicode MS' KERNING='2' COLOR='#FF0000'>Deseja continuar?</FONT>
 tank.fightLib.FightLibAwardView.exp:EXP
 tank.gameover.ExperienceView:Điểm kinh nghiệm cặp vợ chồng là 1.5
 tank.command.fightLibCommands.script.FightLibGuideScripit.welcome:Chào mừng đến phòng luyện tập, tại đây chúng tôi sắp xếp \n một số bài tập luyện để nâng cao năng lực chiến đấu của bạn.
-store.view.ShortcutBuyCell.lingju:Ngưng Tụ
-store.view.ShortcutBuyCell.jiezi: Nhẫn
-store.view.ShortcutBuyCell.shouzhuo: Lắc
-store.view.ShortcutBuyCell.baozhu:châu báu
-store.view.ShortcutBuyCell.zhuque:Chu Tước
-store.view.ShortcutBuyCell.xuanwu:Huyền Vũ
-store.view.ShortcutBuyCell.qinglong:Thanh Long
-store.view.ShortcutBuyCell.baihu:Bạch Hổ
-store.view.ShortcutBuyCell.Stone1:Chu Tước
-store.view.ShortcutBuyCell.Stone2:Huyền Vũ
-store.view.ShortcutBuyCell.Stone3:Thanh Long
-store.view.ShortcutBuyCell.Stone4:Bạch Hổ
-shop.ShopIIModel.GoodsNumberLimit: Không còn nhiều vật phẩm có thể mua
-church.churchScene.frame.ModifyDiscriptionFrame.word:Ký tự
+store.view.ShortcutBuyCell.lingju:Condensação
+store.view.ShortcutBuyCell.jiezi: Anel
+store.view.ShortcutBuyCell.shouzhuo: Pulseira
+store.view.ShortcutBuyCell.baozhu:gema
+store.view.ShortcutBuyCell.zhuque:Pássaro Vermelho
+store.view.ShortcutBuyCell.xuanwu:Tartaruga Negra
+store.view.ShortcutBuyCell.qinglong:Dragão Azul
+store.view.ShortcutBuyCell.baihu:Tigre Branco
+store.view.ShortcutBuyCell.Stone1:Pássaro Vermelho
+store.view.ShortcutBuyCell.Stone2:Tartaruga Negra
+store.view.ShortcutBuyCell.Stone3:Dragão Azul
+store.view.ShortcutBuyCell.Stone4:Tigre Branco
+shop.ShopIIModel.GoodsNumberLimit: Não há mais unidades deste item para comprar
+church.churchScene.frame.ModifyDiscriptionFrame.word:Caractere
 tank.hotSpring.money:Xu
 tank.hotSpring.gold:Vàng
 tank.hotSpring.comfirm:Phòng Thường | Để vào phòng này tốn 10000 Vàng,xác nhận?
 tank.hotSpring.comfirm1:Phòng VIP | Để vào phòng này tốn 2500 Xu,xác nhận?
 tank.room.duplicate.previewTitle:Fortaleza sombria
 tank.game.map.smallMapView.slow:O jogo está lento.\nDesligar efeitos especiais para melhorar?
-store.view.strength.clew2:<FONT SIZE='16' FACE='Arial' KERNING='2' COLOR='#FF0000'><B>sau khi vũ khí cường hóa đạt cấp 10,thuộc tính \nkhông thể dịch chuyển,xác nhận cường hóa?</B></FONT>
+store.view.strength.clew2:<FONT SIZE='16' FACE='Arial' KERNING='2' COLOR='#FF0000'><B>depois que a arma for fortalecida ao nível 10, os atributos \nnão poderão ser transferidos. Confirmar fortalecer?</B></FONT>
 tank.manager.PlayerManager.pass:<{0}>Hội đã duyệt đơn của bạn
 tank.view.common.NPCPairingDialog.title:Gặp đối thủ mạnh
 tank.view.common.NPCPairingDialog.accept:Tiếp nhận
@@ -1400,10 +1400,10 @@ tank.fightLib.Award.GetMessage:Bạn nhận được
 tank.fightLib.FightLibQuestionFrame.reAnswer:Thử lại lần nữa
 tank.fightLib.FightLibQuestionFrame.viewTutorial:Xem bài học
 tank.hall.ChooseHallView.campaignLabAlert:Laboratório de combate
-store.view.strength.clew:<FONT SIZE='16' FACE='Arial Unicode MS' KERNING='2' COLOR='#FF0000'><B>Dùng đá cường hóa 5 tỉ lệ cường hóa cao hơn đó,\n  dung luyện 4 đá cường hóa 4 sẽ nhận được đá cường hóa 5 đó!</B></FONT>
+store.view.strength.clew:<FONT SIZE='16' FACE='Arial Unicode MS' KERNING='2' COLOR='#FF0000'><B>A pedra de fortalecer 5 tem taxa maior.\n  Fundir 4 pedras de fortalecer 4 produz uma pedra de fortalecer 5!</B></FONT>
 tank.auctionHouse.view.BrowseLeftMenuView.qianghua5:Đá cường hóa cấp 5
 2.35versio:2.35version
-tank.consortia.myconsortia.MyConsortiaMemberInfoItem.long:Rất lâu
+tank.consortia.myconsortia.MyConsortiaMemberInfoItem.long:Há muito tempo
 tank.hotSpring.room.load.error:Thông tin phòng tải thất bại, hãy vào lại.
 tank.menu.fireConfirm:Bạn xác nhận muốn khai trừ “{0}”?
 tank.timeBox.awardsInfo:Phần thưởng
@@ -1430,11 +1430,11 @@ tank.view.effort.EffortPullDodnMenu.INCOMPLETE:Chưa hoàn thành
 tank.view.rouletteview.close:Xác nhận thoát rương quay số
 tank.view.im.IMController.addBlackList:Danh sách đen vượt quá 100 người, hãy xóat bớt rồi thêm sau
 tank.view.im.IMController.addFriend:Danh sách bạn vượt quá {0} người, hãy xóa bớt rồi thêm sau
-tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.battle:Lục chiến thành viên
-tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.contribute:Tổng điểm cống hiến\n của thành viên
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.battle:Poder de combate do membro
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.contribute:Total de contribuição\n do membro
 tank.menu.fire:Khai trừ
-tank.consortia.myconsortia.systemWord:Nhấp vào đây để sửa thông báo guild
-tank.consortia.myconsortia.frame.MyConsortiaInfoPanel.week:/tuần
+tank.consortia.myconsortia.systemWord:Clique aqui para editar o aviso da guilda
+tank.consortia.myconsortia.frame.MyConsortiaInfoPanel.week:/semana
 tank.view.rouletteview.quit:Rương đang quay, không thể đóng
 2.40versio:2.40version
 baglocked.SetPassFrame1.titText1:1/3 Thiết lập mã cấp 2
@@ -1568,25 +1568,25 @@ ddt.room.boguGoods3:Nón gà
 ddt.room.boguGoods4:Châu báu cấp 5
 ddt.view.common.church.ProposeResponse:, cầu hôn bạn!
 ddt.room.boguGoods: Đá quý cấp 4
-tank.view.caddy.title:Kích hoạt rương
-tank.view.caddy.start:Bắt đầu
-tank.view.caddy.end:Ngưng
-tank.view.caddy.close:Đóng
-tank.view.caddy.lookTrophy:Xem quà
-tank.view.caddy.closeNode:Xác nhận cất quà nhận được vào túi?
-tank.view.caddy.BagFull:Túi đã đầy,cần bán hoặc xóa bớt vật phẩm.
-tank.view.caddy.putInBag:Cất vào túi
-tank.view.caddy.sellAll:Bán hết
-tank.view.caddy.showChat:Bạn mở rương thiên sứ phát hiện {0} và nhận được 1 búa thiên sứ.
-tank.view.caddy.sellAllNode:Xác nhận muốn bán hết?<br> Tổng giá
-tank.view.caddy.dontClose:Túi đang hoạt động,không thể đóng
+tank.view.caddy.title:Ativar baú
+tank.view.caddy.start:Iniciar
+tank.view.caddy.end:Parar
+tank.view.caddy.close:Fechar
+tank.view.caddy.lookTrophy:Ver prêmios
+tank.view.caddy.closeNode:Guardar os prêmios recebidos na mochila?
+tank.view.caddy.BagFull:A mochila está cheia. Venda ou exclua alguns itens.
+tank.view.caddy.putInBag:Guardar na mochila
+tank.view.caddy.sellAll:Vender tudo
+tank.view.caddy.showChat:Você abriu o baú do anjo, encontrou {0} e recebeu 1 martelo do anjo.
+tank.view.caddy.sellAllNode:Confirmar venda de tudo?<br> Preço total
+tank.view.caddy.dontClose:A mochila está em uso, não é possível fechar
 tank.view.caddy.awardsPoint:<FONT SIZE='12' FACE='宋体' COLOR='#993300'><B>·</B></FONT>
-tank.view.caddy.awardsGong:Chúc mừng 
-tank.view.caddy.openCaddy:Mở túi thiên sứ nhận được 
-tank.view.caddy.quickDate:Vật phẩm này đã ngưng bán, không thể mua
-tank.view.caddy.quickBuyKey:Mua nhanh búa đập lu
-tank.view.caddy.quickBoxKey:Mua nhanh
-tank.view.caddy.EmptyBox:{0} số lượng không đủ.
+tank.view.caddy.awardsGong:Parabéns
+tank.view.caddy.openCaddy:Ao abrir o baú do anjo você recebeu
+tank.view.caddy.quickDate:Este item saiu de venda e não pode ser comprado
+tank.view.caddy.quickBuyKey:Compra rápida de martelo
+tank.view.caddy.quickBoxKey:Comprar rápido
+tank.view.caddy.EmptyBox:Quantidade insuficiente de {0}.
 tank.view.daddy.SilverAward:Nếu bạn tiếp tục mở 4 hộp thiên sứ nhận được hũ bạc lấp lánh! 
 tank.view.daddy.GoldAward:Nếu bạn tiếp tục mở 17 hộp thiên sứ nhận được hũ vàng lấp lánh! 
 tank.view.bead.quickNoBuy:Chọn ít nhất 1 vật phẩm
@@ -1601,9 +1601,9 @@ tank.view.award.Attribute:Mở châu báu thuộc tính
 tank.view.bead.opendGetAwards:Mở châu báu thuộc tính nhận được 
 tank.view.bead.AttackBead:Mở châu báu tấn công nhận được 
 tank.view.bead.DefanceBeak:Mở châu báu phòng ngự nhận được 
-tank.view.caddy.boxNameCaddy:Túi thiên sứ
-tank.view.caddy.boxNameBead:châu báu 
-tank.view.caddy.boxNameGift:túi lì xì
+tank.view.caddy.boxNameCaddy:Baú do anjo
+tank.view.caddy.boxNameBead:gema
+tank.view.caddy.boxNameGift:envelope da sorte
 tank.view.offer.noOffer:Công trạng không đủ,mua thất bại
 tank.view.offer.noConsortia:Bạn chưa gia nhập guild.
 tank.game.GameView.CaddyBattle:Abrir bolsa do anjo
@@ -1614,11 +1614,11 @@ tank.view.offer.opendGetAwards:Mở túi lì xì nhận được
 tank.game.ToolStripView.isExitPVP:Sair do combate?<br><FONT SIZE='12' FACE='Arial' COLOR='#FF0000'> Você perde taxa de vitória, EXP e medalhas.</FONT>
 im.IMLookupItem.CMFriendInfo:Không thể xóa bạn bè ZingMe
 im.IMLookupItem.ConsortiaPlayerInfo:Không thể xóa bạn bè guild
-store.StoreIIComposeBG.consortiaSimthLevel:Cấp bậc tiệm rèn guild
-store.StoreIIComposeBG.StrengthPercentageStrip:Bùa may mắn tăng tỉ lệ thành công, bùa ma thuật cường hóa thất bại không bị rớt cấp 
-store.StoreIIComposeBG.ComposePercentageStrip:Bùa may mắn tăng tỉ lệ thành công 
+store.StoreIIComposeBG.consortiaSimthLevel:Nível da forja da guilda
+store.StoreIIComposeBG.StrengthPercentageStrip:O amuleto da sorte aumenta a taxa de sucesso; o amuleto mágico evita perda de nível se o fortalecer falhar
+store.StoreIIComposeBG.ComposePercentageStrip:O amuleto da sorte aumenta a taxa de sucesso
 tank.view.chat.ChatInputView.friend:Danh sách bạn
-church.view.churchFire.ChurchFireView:Vàng
+church.view.churchFire.ChurchFireView:Ouro
 im.IMView.inviteBtnText:Mời gia nhập 
 im.IMView.inviteInfo:Đã gửi lời mời qua tin tức ZingMe 
 im.IMView.inviteInfo1:chứa từ cấm,không thể gửi!
@@ -1668,20 +1668,20 @@ ddt.manager.playerManager.hushandOnline:Chồng của bạn [{0}] đã online
 ddt.manager.playerManager.wifeOnline:Vợ của bạn [{0}] đã online
 ddt.email.readingEmail.payEmail:Đây là thư trừ xu,nhấp chọn vật đính kèm để nhận
 civil.view.CivilRightView.info:Mời nhập tên cần tìm
-store.fusion.preview.LowRate:Hơi thấp
-store.showTips.compose.dontCompose:Bạn chưa cho trang bị và vũ khí vào!
-store.showTips.compose.dontComposeI:Bạn chưa cho trang bị và vũ khí vào!
-store.showTips.compose.dontComposeII:Bạn chưa cho đá hợp thành vào!
-store.showTips.transfer.dontTransferI:Bạn chưa cho trang bị và vũ khí vào!
-store.showTips.transfer.dontTransferIII:Bạn chưa cho trang bị hoặc vữ khi gốc vào!
-store.showTips.transfer.dontTransferIIII:Bạn chưa cho trang bị hoặc vũ khí đích vào!
-store.showTips.transfer.dontTransferII:Trang bị không có thuộc tính để di chuyển!
-store.showTips.strength.dontStrengthI:Bạn chưa cho trang bị và vũ khí vào!
-store.showTips.strength.dontStrengthII:Bạn chưa cho đá cường hóa vào!
-store.showTips.fusion.noEquip:Bạn chưa cho trang bị hoặc vật phẩm!
-store.showTips.fusion.notSameStone:Cần cho vào vật phẩm cùng loại
-store.showTips.fusion.notEnoughStone:Cần cho vào 4 vật phẩm cùng loại
-store.showTips.fusion.nofusonStone:Bạn chưa cho vào công thức dung luyện!
+store.fusion.preview.LowRate:Baixa
+store.showTips.compose.dontCompose:Você ainda não colocou equipamento nem arma!
+store.showTips.compose.dontComposeI:Você ainda não colocou equipamento nem arma!
+store.showTips.compose.dontComposeII:Você ainda não colocou a pedra de compor!
+store.showTips.transfer.dontTransferI:Você ainda não colocou equipamento nem arma!
+store.showTips.transfer.dontTransferIII:Você ainda não colocou o equipamento ou a arma de origem!
+store.showTips.transfer.dontTransferIIII:Você ainda não colocou o equipamento ou a arma de destino!
+store.showTips.transfer.dontTransferII:O equipamento não tem atributo para transferir!
+store.showTips.strength.dontStrengthI:Você ainda não colocou equipamento nem arma!
+store.showTips.strength.dontStrengthII:Você ainda não colocou a pedra de fortalecer!
+store.showTips.fusion.noEquip:Você ainda não colocou equipamento nem item!
+store.showTips.fusion.notSameStone:Coloque itens do mesmo tipo
+store.showTips.fusion.notEnoughStone:Coloque 4 itens do mesmo tipo
+store.showTips.fusion.nofusonStone:Você ainda não colocou a fórmula de fundir!
 ddt.view.vote.title:Phiếu khảo sát
 ddt.view.vote.loadXMLError:Tải thông tin bỏ phiếu thất bại !
 ddt.view.vote.choseOne:Cần chọn ít nhất 1 đáp án
@@ -1733,8 +1733,8 @@ ddt.vip.vipView.cueDateScript:Bạn đã nhận túi VIP của tuần này,thờ
 bag.changeColor.tips.name:Vỏ
 bag.changeColor.tips.armName:Vũ khí 
 im.IMController.deleteRecentContactsInfo:Xác nhận xóa người liên hệ gần nhất
-bagAndInfo.info.PlayerInfoEffortHonorView.selecting:Chọn danh hiệu
-bagAndInfo.bag.UnableUseColorShell:Vũ khí trên cấp 10 có thể dùng vật phẩm này.
+bagAndInfo.info.PlayerInfoEffortHonorView.selecting:Escolher título
+bagAndInfo.bag.UnableUseColorShell:Armas acima do nível 10 podem usar este item.
 ddt.vip.VipStatusView.VIPFeatureDescription:1.Quyền lợi hiển thị nick đặc sắc</b></FONT><br/> Nick VIP hiển thị màu đỏ.<br/><FONT COLOR='#FF0000'><b>2. Quyền lợi hưởng điểm kinh nghiệm </b></FONT><br/>  VIP nhận được nhiều điểm kinh nghiệm hơn sau khi chiến đấu, guild chiến, vượt phó bản. Điểm kinh nghiệm được thêm chỉ có hiệu lực đối với thẻ x2 kinh nghiệm. Điểm kinh nghiệm được thêm tỉ lệ với cấp VIP, từ  1.1 lần -1.9 lần.<br/><FONT COLOR='#FF0000'><b>3.Quyền lợi VIP khi tắm suối</b></FONT><br/>    Nhân vật VIP có trang phục riêng khi tắm suối, khác biệt hẳn với nhân vật thường, thời gian cũng nhiều hơn 1 giờ, điểm kinh nghiệm nhận nhiều hơn.<br/><FONT COLOR='#FF0000'><b>4. Quyền lợi khi lật bài tại phó bản </b></FONT><br/>    Nhân vật VIP sau khi vượt ải,sẽ được giảm giá khi lật bài lần thứ 3.<br/><FONT COLOR='#FF0000'><b>5. Quyền lợi bạn bè </b></FONT><br/>    VIP có thể kết bạn với tối đa 150 người,tùy theo cấp VIP, số người tăng thêm
 ddt.vip.VipStatusView.RewardDescription: Thẻ x2 kinh nghiệm X1,thẻ x2 công trạng X1
 ddt.view.academyCommon.academyRequest.AcademyRequestMasterFrame.account:Gặp được nhau là duyên phận, nay thành tâm đến bái sư, mong sư phụ thu nhận!
@@ -1788,23 +1788,23 @@ ddt.manager.academyManager.Freezes:Sau khi từ sư phụ 24h mới có thể ti
 ddt.manager.academyManager.FreezesII:Sau khi từ bỏ đệ tử 48h mới có thể tiếp tục thu nhận đệ tử mới!
 ddt.manager.playerManager.masterState:Sư phụ [{0}] online rồi
 ddt.manager.playerManager.ApprenticeState:Đệ tử [{0}] online rồi
-academy.view.AcademyMemberListView.searchTxt:Hãy nhập tên người chơi
+academy.view.AcademyMemberListView.searchTxt:Digite o nome do jogador
 ddt.view.academyCommon.register.TitleTxt:Thông tin đăng ký
 ddt.view.academyCommon.register.TitleTxtII:Sửa thông tin
 ddt.view.academyCommon.register.introductionFieldTxt:1 chữ cũng là thầy, nửa chữ cũng là thầy, hãy tìm cho mình sư phụ giỏi nhất!
 ddt.data.analyze.AcademyMemberListAnalyze.info:Đáng tiếc! Hiện tại không có đệ tử thích hợp, hãy quay lại sau! 
 ddt.data.analyze.AcademyMemberListAnalyze.infoI:Đáng tiếc!Hiện tại không có sư phụ thích hợp, hãy quay lại sau!
-academy.view.AcademyMemberListView.amendBtnTips:Sửa thông tin bái sư hoặc thu nhận đệ tử
-academy.view.AcademyMemberListView.registerBtnTips:Đăng ký thông tin bái sư hoặc thu nhận đệ tử
+academy.view.AcademyMemberListView.amendBtnTips:Editar o anúncio de mestre ou de discípulo
+academy.view.AcademyMemberListView.registerBtnTips:Cadastrar anúncio de mestre ou de discípulo
 ddt.manager.AcademyManager.alertSubmit:Đến phòng sư đồ
 hall.HallStateView.academyInfo:Đẳng cấp từ 7 đến 16 mới tham gia được tính năng!
 im.IMView,academyInfo: Bạn chỉ có thể bái sư phụ khi cấp bạn lớn hơn Lv6 và nhỏ hơn Lv20.
 ddt.view.academyCommon.register.introductionLabel:Lời nhắn
-academy.view.AcademyMemberListView.registerInfo:Bạn đã bái sư,không thể đăng ký tại phòng sư đồ
-academy.view.AcademyMemberListView.registerInfoII:Bạn đã có 3 đệ tử,không thể đăng ký tại phòng sư đồ
-academy.view.AcademyMemberListView.registerInfoIII:Không có kết quả tương ứng
-academy.view.success:Thao tác thành công,chờ phản hồi!
-bagAndInfo.bag.sortBagClick.isSegistration:Bạn có muốn sau khi sắp xếp túi sẽ xếp chồng vật phẩm?
+academy.view.AcademyMemberListView.registerInfo:Você já tem mestre; não pode se cadastrar na sala da academia
+academy.view.AcademyMemberListView.registerInfoII:Você já tem 3 discípulos; não pode se cadastrar na sala da academia
+academy.view.AcademyMemberListView.registerInfoIII:Nenhum resultado correspondente
+academy.view.success:Operação concluída; aguarde a resposta!
+bagAndInfo.bag.sortBagClick.isSegistration:Deseja empilhar os itens após organizar a mochila?
 ddt.giftSystem.loadRecord.error:Tải nhật ký vật phẩm thất bại !
 ddt.giftSystem.GiftBannerView.giftLvel:LV {0} điểm\n hấp dẫn
 ddt.giftSystem.GiftBannerView.giftShow:Nhận được        quà
@@ -1910,8 +1910,8 @@ ddt.room.cantOpenMuti:Đạt cấp 6 có thể nhấp tại đây để tăng s�
 ddt.playerManager.addFriend.isRefused:Bạn bè đã thiết lập từ chối kết bạn!
 room.view.roomView.MatchRoomView.roundTimeTip:A contagem no combate cai para 10 s
 room.view.roomView.MatchRoomView.challengeTip:Desafio ligado: escolha uma sala ou o nome de alguém e use "desafiar"
-shop.manager.ShopBuyManager.textImg:Số lượng mua
-shop.view.ShopRankingView.NoSearchResults:Không tìm thấy kết quả
+shop.manager.ShopBuyManager.textImg:Quantidade
+shop.view.ShopRankingView.NoSearchResults:Nenhum resultado encontrado
 im.playerState.awayReply:Hiện tôi vắng mặt, xin liên lạc lại sau.
 im.playerState.busyReply:Hiện tôi đang bận, xin liên lạc lại sau.
 im.playerState.noDisturbReply:Xin đừng làm phiền
@@ -1922,13 +1922,13 @@ im.playerState.busy:Đang bận
 im.playerState.noDisturb:Xin đừng làm phiền
 im.playerState.online:Online
 im.playerState.shopping:Mua sắm
-ddt.consortia.event.contribute:{0} thành viên guild {1} cống hiến {2} điểm tài sản
-ddt.consortia.event.quite:{0} {1} khai trừ thành viên guild {2}! 
-ddt.consortia.event.join:{0} {1} chiêu mộ thành viên mới {2}! 
+ddt.consortia.event.contribute:{0} membro da guilda {1} contribuiu {2} ponto(s) de tesouro
+ddt.consortia.event.quite:{0} {1} expulsou o membro da guilda {2}!  
+ddt.consortia.event.join:{0} {1} recrutou o novo membro {2}!  
 im.playerState.shopping:Mua sắm
 ddt.view.bossbox.AwardsView.TheNextTimeText:Hãy online đến {0},bạn sẽ nhận được phần thưởng sau
-shop.view.ShopRankingView.shopSearchText:Hãy nhập tên vật phẩm
-shop.view.ShopRankingView.PleaseEnterTheKeywords:Hãy nhập từ khóa
+shop.view.ShopRankingView.shopSearchText:Digite o nome do item
+shop.view.ShopRankingView.PleaseEnterTheKeywords:Digite a palavra-chave
 im.imView.giftBtnTip:Hộp quà
 ddt.giftSystem.openGiftBtn.text:Đạt cấp 16 mới có thể mở hộp quà
 ddt.giftSystem.openCardBtn.text:Đạt cấp 25 mới có thể mở album thẻ
@@ -1958,8 +1958,8 @@ ddt.cardSystem.cardEquip.cannotOpen3:Hiện bạn chưa có thẻ bài cấp 20,
 ddt.cardSystem.cardEquip.cannotOpen4:Hiện bạn chưa có 3 thẻ cấp 20, không thể giải phong ấn thẻ bài vị trí số 4
 ddt.cardSystem.upgrade.explain:Thuyết minh thăng cấp thẻ bài
 ddt.cardSystem.cardView.explain:Thuyết minh thẻ bài
-shop.view.ShopRightView.getSimpleAlert.title:Nhận miễn phí
-shop.view.ShopRightView.getSimpleAlert.msg:Mỗi ngày bạn có 1 lần nhận miễn phí,muốn thực hiện?
+shop.view.ShopRightView.getSimpleAlert.title:Receber grátis
+shop.view.ShopRightView.getSimpleAlert.msg:Você pode receber grátis 1 vez por dia. Deseja receber?
 ddt.roomLoading.tips0:Trong chiến đấu nhấn "Enter" có thể chat ngay.
 ddt.roomLoading.tips1:Tự tiêu hao thẻ bài để nâng cấp thẻ
 ddt.roomLoading.tips2:Bái sư/thu nhận đệ tử đều nhận được phần thưởng
@@ -1967,7 +1967,7 @@ ddt.cardSyste.bagItem.unkwon:Chưa biết
 ddt.tryonSystem.title:Hãy chọn quà
 ddt.cardSystem.bagView.openCardBox.level:Bạn chưa đạt cấp 20,không thể mở hộp thẻ bài
 im.IMView.academyInfo:Chỉ khi cấp bậc lớn hơn 7 và nhỏ hơn 16 mới có thể bái sư
-ddt.consortion.shopItem.limitOver:Dây chuyền này đã bán hết
+ddt.consortion.shopItem.limitOver:Este item esgotou
 :
 ddt.roomList.roomListBG.full:tất cả phương thức	
 ddt.roomList.roomListBG.Athletics:phương thức chiến đấu	
@@ -2247,19 +2247,19 @@ tank.game.BuffTip49:No combate, {0} +{1}
 tank.room.ToShopConfirm:Ir para a loja?
 tank.room.RoomIIController.reduceGains:Esta missão reduz os pontos de contribuição
 tank.roomlist.siftAllFb:Todas as missões
-shop.SetsTitle:Kích hoạt lời chúc của Quốc Vương Gà
+shop.SetsTitle:Ativar a bênção do Rei Galinha
 tank.data.EquipType.TEMPARMLET: Bao tay tạm thời
 tank.data.EquipType.tempTEMPRING: Nhẫn tạm thời
 tank.data.EquipType.tempweapon: vũ khí tạm thời.	
 tank.data.EquipType.prop:  Đạo cụ
-tank.view.bagII.GoodsTipPanel.drill:Mũi khoan
-tank.view.bagII.GoodsTipPanel.drillnote:Mũi khoan cấp {0}
+tank.view.bagII.GoodsTipPanel.drill:Broca
+tank.view.bagII.GoodsTipPanel.drillnote:Broca nível {0}
 tank.game.IM.custom:Adicionar grupo padrão
 tank.game.ToolStripView.sign:Pet
 tank.game.ToolStripView.transparent:Transparente (T)
 tank.view.common.BellowStripViewII.supply:Recarregar
 tank.view.common.BellowStripViewII.exit:Sair
-tank.view.emailII.EmailIIdiamondview.distill:Ghi chú
+tank.view.emailII.EmailIIdiamondview.distill:Observação
 tank.view.chat.ChatInput.time1:Nói quá nhanh, hãy nghỉ trong giây lát!
 tank.view.chat.ChatInput.time2:Thêm nhanh
 tank.view.common.RoomIIPropTip.Energy:<b>Custo: </b><font color='#f2c834'>{0} de vigor</font>
@@ -2274,25 +2274,25 @@ tank.view.quest.bubble.Act:[Sự kiện]
 tank.view.quest.bubble.VIP:[VIP]	
 tank.view.buff.PayBuff.Note:Nhấn để kích hoạt "lời chúc của Quốc Vương Gà"
 tank.view.buff.PayBuff.Name:"Lời chúc của Quốc Vương Gà"
-church.weddingRoom.frame.AddWeddingRoomFrame.hour:Giờ
+church.weddingRoom.frame.AddWeddingRoomFrame.hour:Hora
 ddt.data.analyze.MyAcademyPlayersAnalyze:Tải thông tin sư đồ thất bại	
 civil.register.infoAutoEntered:Thông tin tự động ghi chép
-tank.consortia.consortiashop.ConsortiaShopView.skill:Kĩ năng guild cấp {0}	
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.bank:Két sắt guild tăng đến cấp cao nhất	
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.skill:Kĩ năng guild tăng lên cấp cao nhất	
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.skill.explainTxt:sau khi tăng cấp có thể dùng kĩ năng cao cấp nhất	
-tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.search:Tìm thành viên
+tank.consortia.consortiashop.ConsortiaShopView.skill:Habilidade da guilda nível {0}	
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.bank:O cofre da guilda já está no nível máximo	
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.skill:A habilidade da guilda já está no nível máximo	
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.skill.explainTxt:Após o aprimoramento será possível usar a habilidade mais avançada	
+tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.search:Buscar membro
 tank.manager.ItemManager.aid: viện trợ	
 tank.data.EquipType.leagueBadge: Huy chương Chiến thần
 tank.manager.PlayerManager.consortiaSkill:Bạn sẽ tăng kĩ năng guild lên cấp {0}	
 tank.manager.PlayerManager.consortiaSkill2:kĩ năng guild bạn tăng đến cấp {0} 	
 tank.manager.PlayerManager.notOtherLvWoo:Không được cầu hôn người chơi dưới cấp 10	
 tank.manager.PlayerManager.notLvWoo:Người chơi dưới cấp 10 không thể cầu hôn	
-tank.view.bagII.GoodsTipPanel.reply:hồi phục	
-tank.view.emailII.EmailIIStripSended.sender_txtMember:Người nhận thư
-store.ShowSuccessRate.basallevelTxt:% gốc	
-store.ShowSuccessRate.luckyTxt:bùa may mắn	
-store.ShowSuccessRate.sociatyTxt:guild	
+tank.view.bagII.GoodsTipPanel.reply:recuperação
+tank.view.emailII.EmailIIStripSended.sender_txtMember:Destinatário
+store.ShowSuccessRate.basallevelTxt:% base
+store.ShowSuccessRate.luckyTxt:amuleto da sorte
+store.ShowSuccessRate.sociatyTxt:guilda
 tank.data.EquipType.decorate: Trang sức
 tank.room.difficulty.all:Todos
 tank.room.difficulty.none:nenhum
@@ -2309,7 +2309,7 @@ tank.view.chat.ChannelListSelectView.crossBugle:Loa thế giới
 tank.fightLib.AngleMessage:Không bắn trong góc quy định,bắn trúng không tính.
 tank.command.fightLibCommands.script.MeasureScree.DifficultTwentyDegree.command3:Bài tập này hướng dẫn cách bắn góc 20 độ vượt quá 1 màn, chúng ta hãy bắt đầu tập luyện cao cấp nào!
 tank.game.ToolStripView.isExitLib:Parar o treino?
-tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASKILLGRADE:tăng cấp kĩ năng guild?	
+tank.consortia.myconsortia.frame.MyConsortiaUpgrade.CONSORTIASKILLGRADE:Aprimorar a habilidade da guilda?	
 tank.hall.ChooseHallView.auction:Leilão
 tank.hall.ChooseHallView.church:Igreja
 tank.hall.ChooseHallView.civil:Fazer amigos
@@ -2321,19 +2321,19 @@ tank.hall.ChooseHallView.tofflist:Ranking
 tank.hall.ChooseHallView.dungeon:Missão
 tank.hall.ChooseHallView.master:Academia
 tank.hall.ChooseHallView.openBuildTip:Parabéns, você desbloqueou {0}!
-tank.consortia.myconsortia.MyConsortiaMemberInfoItem.month:Trên 1 tháng
+tank.consortia.myconsortia.MyConsortiaMemberInfoItem.month:Há mais de 1 mês
 tanl.timebox.LimitAwardTip: Sự kiện này sẽ kết thúc sau khi đếm ngược về không. Hãy nhanh tay mời bạn bè tham gia.
 tank.view.effort.EffortRigthItemView.honorNameII:Tiêu đề
 tank.view.effort.EffortRigthItemView.honorNameIII: Y
 tank.view.effort.EffortRigthItemView.honorNameIV: Vật phẩm thưởng
 tank.view.effort.EffortRigthItemView.honorNameV:Tiêu đề phần thưởng
 feedback.view.csTelNumber: Hotline: {0}
-tank.view.caddy.FullBag:Túi đã đầy,hãy sắp xếp lại.	
-tank.view.caddy.opennAll:Xác nhận mở tất cả hộp thẻ?
+tank.view.caddy.FullBag:A mochila está cheia, organize-a.
+tank.view.caddy.opennAll:Confirmar abertura de todas as caixas de cartas?
 tank.view.caddy.cardCartonDontClose:
-tank.view.caddy.openCardBox:Mở hộp thẻ thần bí
-tank.view.caddy.openCardCarton: Kích hoạt thẻ 
-tank.view.caddy.EmptyKey:Búa không đủ.	
+tank.view.caddy.openCardBox:Abrir caixa de cartas misteriosa
+tank.view.caddy.openCardCarton: Ativar carta
+tank.view.caddy.EmptyKey:Martelos insuficientes.
 tank.view.bead.buyNoCardBox:Trong trang bị không có hộp thẻ thần bí,bạn muốn mua không?
 tank.view.bead.buyNoCardBox1:Trong trang bị không có hộp thẻ ngẫu nhiên.
 tank.view.bead.buyNoCardBox2:Trong trang bị không có hộp thẻ.
@@ -2348,27 +2348,27 @@ tank.view.card.moreCard:Loại thẻ này đã đạt giới hạn,không thể 
 tank.view.card.noHaveCard: Không có bộ thẻ
 tank.view.card.HaveCard: Trang bị thành công
 tank.view.card.dontClose:Đang mở hộp thẻ,không thể tắt.
-store.StoreIIComposeBG.StrengthenStonStrip:tỉ lệ thành công do đá cường hoá.	
-store.StoreIIComposeBG.ComposeStonStrip:tỉ lệ thành công do đá hợp thành.	
-store.StoreIIComposeBG.LuckSignStrip:tỉ lệ thành công do bùa may mắn.	
-store.StoreIIComposeBG.VIPAddStrip:Tỉ lệ thành công cộng thêm đến từ VIP.
-store.StoreIIComposeBG.NoVIPAddStrip:Bạn chưa trở thành VIP.
-store.StoreIIComposeBG.ConsortiaAddStrip:Tỉ lệ thành công do tiệm rèn guild	
-store.StoreIIComposeBG.RichesIsNotEnough:không đủ điểm cống hiến guild	
-store.StoreIIComposeBG.AllNumStrip:Tổng hợp từ % cơ bản,bùa may mắn,guild	
-store.StoreIIComposeBG.noVIPAllNumStrip:Tổng hợp của
+store.StoreIIComposeBG.StrengthenStonStrip:taxa de sucesso da pedra de fortalecer.
+store.StoreIIComposeBG.ComposeStonStrip:taxa de sucesso da pedra de compor.
+store.StoreIIComposeBG.LuckSignStrip:taxa de sucesso do amuleto da sorte.
+store.StoreIIComposeBG.VIPAddStrip:Bônus de taxa de sucesso do VIP.
+store.StoreIIComposeBG.NoVIPAddStrip:Você ainda não é VIP.
+store.StoreIIComposeBG.ConsortiaAddStrip:taxa de sucesso da forja da guilda
+store.StoreIIComposeBG.RichesIsNotEnough:pontos de contribuição da guilda insuficientes
+store.StoreIIComposeBG.AllNumStrip:Soma da % básica, amuleto da sorte e guilda
+store.StoreIIComposeBG.noVIPAllNumStrip:Soma de
 ddt.loader.LoadingBadgeInfoFailure:Falha ao carregar medalhas da guilda!
 ddt.loader.ShopDisCountRealTimesFailure:Falha ao carregar promoções da loja.
 ddt.loader.LoadingTexpExpFailure:Falha ao carregar a lista de treino!
 ddt.loader.LoadingBadLuckFailure:Falha ao carregar a lista de azar!
 ddt.loader.LoadingLikeFriendTemplateFailure:Falha ao carregar amigos da mesma cidade.
-store.showTips.strength.dontStrengthIII:Trang bị đã vượt qua cường hóa 9, không có bùa ma thuật không thể tiếp tục cường hóa.
+store.showTips.strength.dontStrengthIII:O equipamento passou do fortalecer 9. Sem amuleto mágico não é possível continuar.
 ddt.vip.vipIcon.notVipCoin:không đủ tiền VIP,không thể khởi động!	
 ddt.vip.vipIcon.notVip:bạn chưa trở thành VIP,không thể quay vòng quay may mắn!	
 ddt.vip.vipFrame.upValue0:Điểm tăng trưởng
-bagAndInfo.bag.sortBagClick.isSegistration2:bạn có muốn sắp xếp thẻ bài không?	
-bagAndInfo.consortionBag.sortBagClick.isSegistration:Bạn có muốn sau khi sắp xếp túi trang bị sẽ tiến hành xếp chồng vật phẩm?
-store.StrengthItemCell.up:Trang bị này đã đạt cấp cao nhất.
+bagAndInfo.bag.sortBagClick.isSegistration2:deseja organizar as cartas?
+bagAndInfo.consortionBag.sortBagClick.isSegistration:Deseja empilhar os itens após organizar a mochila de equipamentos?
+store.StrengthItemCell.up:Este equipamento já está no nível máximo.
 ddt.view.academyCommon.academyIcon.AcademyIconTip.1:1	
 ddt.view.academyCommon.academyIcon.AcademyIconTip.2:2	
 ddt.view.academyCommon.academyIcon.AcademyIconTip.3:3	
@@ -2398,15 +2398,15 @@ ddt.cardSystem.PropResetFrame.Guard:Hộ giáp: {0}
 ddt.cardSystem.PropResetFrame.resetagain:Tẩy điểm lần nữa	
 ddt.cardSystem.PropResetFrame.EmptyCard:bạn không đủ 3 thẻ bài, dùng 300 xu để tẩy điểm?	
 ddt.trainer.store.open:sau khi đến tiệm rèn có thể sử dụng chức năng này!	
-ddt.consortia.event.contributeGM:{0} GM cống hiến {1} điểm tài phú Guild
-ddt.consortia.event.quit:{0} {1} thoát Guild 
+ddt.consortia.event.contributeGM:{0} GM contribuiu {1} ponto(s) de tesouro da guilda
+ddt.consortia.event.quit:{0} {1} saiu da guilda  
 ddt.texpSystem.openTexpBtn.text:Cấp bậc đạt đến cấp 10 mới mở hệ thống tu luyện.
-ddt.consortion.levelTip.explain:Mô tả：
-ddt.consortion.levelTip.nextLevel:Cấp sau：
-ddt.consortion.levelTip.requirements:Yêu cầu：
-ddt.consortion.levelTip.consumption:Hao phí：
-ddt.consortion.loadEventList.fail:Tải thất bại ！
-ddt.consortion.loadUseCondition.fail:Tải thất bại ！
+ddt.consortion.levelTip.explain:Descrição：
+ddt.consortion.levelTip.nextLevel:Próximo nível：
+ddt.consortion.levelTip.requirements:Requisito：
+ddt.consortion.levelTip.consumption:Custo：
+ddt.consortion.loadEventList.fail:Falha ao carregar ！
+ddt.consortion.loadUseCondition.fail:Falha ao carregar ！
 cityWideFrame.ONSTitle:Ta và bạn có thể ở chung 1 thành phố	
 cityWideFrame.ONSAlertInfo:<font size='14px' COLOR='#000000'>đã thêm </font><font size='14px' COLOR='#D38753'> </font><font size='14px' COLOR='#000000'>làm bạn!</font>	
 ddt.exitPrompt.btInfoTextI:còn <font size='18px' COLOR='#20d8ff'>r</font>cái chưa hoàn thành	
@@ -2451,30 +2451,30 @@ journal.view.JournalItem.content26:li hôn với {0},không được nhắc lạ
 journal.view.JournalItem.content27:VIP tăng đến cấp {0}!	
 journal.view.JournalItem.contentTxtNum:<FONT SIZE='14' FACE='Tahoma' COLOR='#993300'><B>{0}.</B></FONT>	
 journal.view.JournalItem.contentTxtContent:<FONT SIZE='14' FACE='Tahoma' COLOR='#FF0000'><B>{0}</B></FONT>	
-ddt.consortion.mailFrame.title:viết thư guild	
-ddt.consortion.mailFrame.all:toàn thành viên guild	
-ddt.consortion.mailFrame.noEnagth:tài sản guild không đủ 1000 xu	
-ddt.consortion.pollFrame.success:bỏ phiếu thành công	
-ddt.consortion.mailFrame.fail:thư guild gửi thất bại	
-ddt.consortion.pollFrame.title:bầu chủ guild	
-ddt.consortion.pollload.error:tải danh sách bầu chọn guild thất bại!	
-ddt.consortion.pollFrame.pleaseSelceted:mời chọn 1 ứng cử viên	
-ddt.consortion.pollFrame.helpFrame.title: thuyết minh chuyển quyền chủ guild	
-ddt.consortion.pollFrame.continueDay:chú thích:bầu chọn còn{0}ngày	
-ddt.consortion.skillFrame.title:kỹ năng guild	
-ddt.consortion.skillInfo.loadError:tải thông tin kĩ năng guild thất bại!	
-ddt.consortion.skillTip.validity:có hiệu lực:{0}	
-ddt.consortion.skillItem.oneDay:1 ngày	
-ddt.consortion.openSkillFrame.title: khởi động kỹ năng	
-ddt.consortion.SkillFrame.confirm:xác nhận tắt kĩ năng này	
-ddt.consortion.SkillFrame.info:chủ guild hoặc phó guild mới được khởi động kĩ năng này	
-ddt.consortion.skillItem.click.open:không đủ đẳng cấp kĩ năng guild	
-ddt.consortion.skillItem.click.enough1:tài sản guild không đủ,muốn cống hiến tài sản ngay?	
-ddt.consortion.skillItem.click.enough2:không đủ cống hiến cá nhân,muốn cống hiến tài sản ngay?	
-ddt.consortion.skillItem.click.enough3:không đủ phù hiệu.
-ddt.consortion.pollFrame.fail:bỏ phiếu thất bại	
-ddt.consortion.pollFrame.double:bạn đã bỏ phiếu rồi	
-ddt.consortion.playerTip.notInvite:Người chơi cấp 8 không thể gia nhập guild	
+ddt.consortion.mailFrame.title:escrever correio da guilda	
+ddt.consortion.mailFrame.all:todos os membros da guilda	
+ddt.consortion.mailFrame.noEnagth:tesouro da guilda insuficiente: menos de 1000 cupons	
+ddt.consortion.pollFrame.success:voto registrado	
+ddt.consortion.mailFrame.fail:falha ao enviar o correio da guilda	
+ddt.consortion.pollFrame.title:eleger o líder da guilda	
+ddt.consortion.pollload.error:falha ao carregar a lista de votação da guilda!	
+ddt.consortion.pollFrame.pleaseSelceted:escolha 1 candidato	
+ddt.consortion.pollFrame.helpFrame.title: guia de transferência de liderança da guilda	
+ddt.consortion.pollFrame.continueDay:nota: a votação resta {0} dia(s)	
+ddt.consortion.skillFrame.title:habilidade da guilda	
+ddt.consortion.skillInfo.loadError:falha ao carregar as habilidades da guilda!	
+ddt.consortion.skillTip.validity:validade:{0}	
+ddt.consortion.skillItem.oneDay:1 dia	
+ddt.consortion.openSkillFrame.title: ativar habilidade	
+ddt.consortion.SkillFrame.confirm:confirmar o desligamento desta habilidade	
+ddt.consortion.SkillFrame.info:só o líder ou o vice-líder pode ativar esta habilidade	
+ddt.consortion.skillItem.click.open:nível de habilidade da guilda insuficiente	
+ddt.consortion.skillItem.click.enough1:tesouro da guilda insuficiente; deseja contribuir agora?	
+ddt.consortion.skillItem.click.enough2:contribuição pessoal insuficiente; deseja contribuir tesouro agora?	
+ddt.consortion.skillItem.click.enough3:Emblemas insuficientes.
+ddt.consortion.pollFrame.fail:falha na votação	
+ddt.consortion.pollFrame.double:você já votou	
+ddt.consortion.playerTip.notInvite:Jogador de nível 8 não pode entrar na guilda	
 #Iconos sala:#Tema sala
 room.roomPlayerActionKey.HAPPY:haha|hehe|^ ^|^_^|phụt|phùphù|haha|hoho	
 room.roomPlayerActionKey.LUAGH:ahaha|ahahaha|ahahah|ahahahaha|ahahahahah|ahahahahaha|hahahaha|hahahahaha|hahahahahahahah|hahah|hahahaha|hahhahaha|hahahaha|ohhaha|wahaha|XD|tức cười chết đi	
@@ -2493,14 +2493,14 @@ room.roomPlayerActionKey.OH_MY_GOD:trời!|trời ơi|trời đất!|omg|wa|wawa
 room.roomPlayerActionKey.LOVE:muah|chụtchụt|chụt|kiss|chut chut|muahmuah~|muahmuah～|mỹ nữ|em ơi|chàng đẹp trai～|đẹp trai|lợi hại!|lợi hại quá!|rất lợi hại	
 room.roomPlayerActionKey.PRIDE:hihi|hừ|hhi|hehe	
 ddt.view.skillFrame.effect:hiệu quả:	
-ddt.consortion.skillCell.btnPersonal.rich:cống hiến	
-ddt.consortion.skillFrame.alertFrame.title:khởi động kĩ năng cùng loại	
-ddt.consortion.skillFrame.alertFrame.content:nếu khởi động kĩ năng này, thì những kĩ năng cùng loại đã mở sẽ bị đóng, có muốn khởi động không?	
-ddt.consortion.skillFrame.alertFrame.personal.riches:không đủ cống hiến cá nhân, không thể khởi động kĩ năng này	
-ddt.consortion.skillFrame.alertFrame.consortion.riches:tài sản của guild không đủ,không thể khởi động kĩ năng	
+ddt.consortion.skillCell.btnPersonal.rich:contribuição	
+ddt.consortion.skillFrame.alertFrame.title:ativar habilidade do mesmo tipo	
+ddt.consortion.skillFrame.alertFrame.content:se ativar esta habilidade, as do mesmo tipo já ligadas serão desligadas. Deseja ativar?	
+ddt.consortion.skillFrame.alertFrame.personal.riches:contribuição pessoal insuficiente; não é possível ativar esta habilidade	
+ddt.consortion.skillFrame.alertFrame.consortion.riches:tesouro da guilda insuficiente; não é possível ativar a habilidade	
 ddt.tryonSystem.tryon:mời chọn phần thưởng	
-ddt.bagInfo.notSociaty:không có guild click vô hiệu	
-ddt.bagInfo.notDesignation:chưa có danh hiệu thành tích thao tác này vô hiệu	
+ddt.bagInfo.notSociaty:sem guilda, clique inválido
+ddt.bagInfo.notDesignation:sem título de conquista, esta ação é inválida
 ddt.dailyRecord.title:nhật ký gunny	
 ddt.dailyRecord.content1:nhận được vật phẩm:<FONT COLOR='#b51609'><B>{0}</B></FONT>!<br/>	
 ddt.dailyRecord.content2:<FONT COLOR='#b51609'><B>{0}</B></FONT>cường hóa thành công đến cấp<FONT COLOR='#b51609'><B>{1}</B></FONT>!<br/>	
@@ -2559,7 +2559,7 @@ calendar.view.goodsExchange.warning:Chủng loại vật phẩm không phù hợ
 calendar.view.goodsExchange.warningI:Cấp cường hóa không đủ
 calendar.view.goodsExchange.warningII:Cấp dung luyện không đủ
 calendar.view.goodsExchange.warningIII:Hãy nhập vật phẩm muốn đổi
-bagAndInfo.sellFrame.explainTxt:Bạn muốn bán <FONT COLOR='#ff0000'>{0}</FONT> cái\n giá:
+bagAndInfo.sellFrame.explainTxt:Deseja vender <FONT COLOR='#ff0000'>{0}</FONT> unidade(s)\n preço:
 texpSystem.view.TexpView.currLv:Cấp hiện tại:
 texpSystem.view.TexpView.currEffect:Hiệu ứng hiện tại:
 texpSystem.view.TexpView.upEffect:Hiệu quả cấp kế tiếp:
@@ -2598,11 +2598,11 @@ IM.alertCustom.fail:Nhóm mặc định sửa thất bại
 IM.PrivateFrame.title:Thì thầm với "{0}"
 IM.PrivateFrame.send:Gửi
 IM.PrivateFrame.record:Nhật ký
-consortion.view.selfConsortia.SearchMemberFrame:Tìm thành viên
-consortion.view.selfConsortia.SearchMemberFrame.default:Nhập tên thành viên
-consortion.view.selfConsortia.SearchMemberFrame.warning:Không tìm thấy tên nhân vật và số ký tự {0} tương ứng.
-consortion.view.selfConsortia.SearchMemberFrame.warningII:Người bạn cần tìm không trong danh sách tìm kiếm
-consortion.view.selfConsortia.SearchMemberFrame.warningIII:Tối đa được nhập 14 ký tự
+consortion.view.selfConsortia.SearchMemberFrame:Buscar membro
+consortion.view.selfConsortia.SearchMemberFrame.default:Digite o nome do membro
+consortion.view.selfConsortia.SearchMemberFrame.warning:Nenhum personagem encontrado com {0} caractere(s) correspondente(s).
+consortion.view.selfConsortia.SearchMemberFrame.warningII:A pessoa que você busca não está na lista
+consortion.view.selfConsortia.SearchMemberFrame.warningIII:Máximo de 14 caracteres
 IM.ChatFrame.level:Lv:
 IM.ChatFrame.warning:Trong lúc chat cần đề phòng tránh lừa đảo...
 IM.ChatFrame.recordFrame.title:Nhật ký thông tin
@@ -2615,25 +2615,25 @@ tank.gameover.takecard.score:Điểm t.lũy
 tank.gameover.takecard.medal:huân chương
 tank.littlegame.scorelack:Điểm tích lũy không đủ
 cardSystem.preview.descript.level:(cấp 0/cấp 10/cấp 20/cấp 30)
-consortia.task.releasetitle:Sứ mệnh Guild
-consortia.task.releaseTable:Công bố sứ mệnh
-consortia.task.cancelTable:Hủy sứ mệnh
-consortia.task.resetTable:Nhận lại
-consortia.task.okTable:Xác nhận công bố
-consortia.task.resetContent:Nhận lại sứ mệnh cần 500 xu,bạn muốn tiếp tục?
-consortia.task.OKContent:Công bố sứ mệnh cần {0} điểm tài sản,bạn muốn tiếp tục?
-consortia.task.lasttime:Thời gian sứ mệnh còn {0}:{1} 
-consortia.task.released:Sứ mệnh đã được công bố!
-consortia.task.havetaskNoRelease:Sứ mệnh lần này đã dùng đến điểm tài sản Guild,nhấn công bố lại không bị trừ.
-consortia.task.donateOK:Quyên góp thành công
-consortia.task.plaese:Hãy nhập số lượng
-consortia.task.stopTable:Sứ mệnh Guild đã kết thúc
-consortia.donateMEDAL:Quyên góp
-consortia.task.noMedal:Bạn chưa có huy chương
+consortia.task.releasetitle:Missão da guilda
+consortia.task.releaseTable:Publicar missão
+consortia.task.cancelTable:Cancelar missão
+consortia.task.resetTable:Receber de novo
+consortia.task.okTable:Confirmar publicação
+consortia.task.resetContent:Receber a missão de novo custa 500 cupons. Deseja continuar?
+consortia.task.OKContent:Publicar a missão custa {0} ponto(s) de tesouro. Deseja continuar?
+consortia.task.lasttime:Tempo restante da missão {0}:{1}  
+consortia.task.released:A missão foi publicada!
+consortia.task.havetaskNoRelease:Esta missão já usou tesouro da guilda; republicar não desconta de novo.
+consortia.task.donateOK:Doação concluída
+consortia.task.plaese:Digite a quantidade
+consortia.task.stopTable:A missão da guilda terminou
+consortia.donateMEDAL:Doar
+consortia.task.noMedal:Você ainda não tem medalha
 ActivityState.confirm.content:Xác nhận nạp {0} xu?
-consortion.buyBadgeFrameTitle:Mua huy chương Guild
+consortion.buyBadgeFrameTitle:Comprar medalha da guilda
 core.badgeTip.description:Cấp guild phải lớn hơn hoặc bằng cấp {0},chỉ có chủ guild mới có quyền hạn
-consortia.buyBadge.levelTooLow:Cấp guild chưa đạt điều kiện
+consortia.buyBadge.levelTooLow:O nível da guilda não atende à condição
 EliteGame.loadScoreRank.fail:Tải xếp hạng tích lũy thất bại!
 email.complain.lan:Thư khiếu nại
 BaseRoomView.getout.Timeout:Você será expulso da sala em 30 segundos.
@@ -2643,10 +2643,10 @@ eliteGame.readyFrame.firstLine:Começa a segunda rodada
 eliteGame.readyFrame.alert:Fique Pronto em {0} segundos para entrar na partida
 eliteGame.readyFrame.readyOther:Procurando oponente...
 eliteGame.readyFrame.readyOk:Pronto
-store.fusion.donMoveGoods:Đang dung luyện vật phẩm, không thể di chuyển vật phẩm!
-store.fusion.autoSplit.inputNumber:Nhập số lượng dung luyện
+store.fusion.donMoveGoods:Fundindo item, não é possível movê-lo!
+store.fusion.autoSplit.inputNumber:Digite a quantidade a fundir
 loading.asset:Arquivo de origem
-shop.buyAvatarFail:Một số vật phẩm không được phép mua
+shop.buyAvatarFail:Alguns itens não podem ser comprados
 email.complain.confim:Xác nhận đây là thư rác?
 tank.trainer.fightAction.newHandTip1:Bạn đang ngược chiều đối thủ, hãy chỉnh lại hướng.
 tank.trainer.fightAction.newHandTip2:Quá mạnh, hãy thử nhẹ lại một chút.
@@ -2789,86 +2789,86 @@ setFacebookParam.bogu.putong:¡He pasado Bogu Normal! ¡Vengan a jugar DDTank-Es
 setFacebookParam.bogu.kunnan:¡He pasado Bogu Difícil! ¡Vengan a jugar DDTank-Español conmigo para recibir tu premio! Página oficial de DDTank http
 setFacebookParam.xieshen.kunnan:¡He pasado Demonio Tribal nivel difícil! ¡Vengan a jugar DDTank-Español conmigo para recibir tu premio! Página oficial de DDTank http
 InviteFriendsMainView.FbClick.sendMsg:Gunny Cường Hóa Hên Xui +12 Có hệ thống PET và Dát Vàng này. Chơi thử ngay nhé!!! Đặc biệt hãy sử dụng mã {0} trong mục mời bạn bè để cùng mình nhận vô vàn phần thưởng hấp dẫn nhoa!!!
-ddt.pets.rePetName:Đổi tên thú cưng
-ddt.pets.release:Thả pet
-ddt.pets.revert:Phục hồi
-ddt.pets.feed:Nuôi pet
-ddt.pets.feedNoFood:Vui lòng đặt thức ăn pet vào trước.
-ddt.pets.rePetNameTitle:Đổi tên thú cưng
-ddt.pets.reInputPetName:Nhập biệt danh mới
-ddt.pets.growthText:Lớn lên
-ddt.pets.revertPetAlertMsg:Bạn có thực sự muốn phục hồi thú cưng {0} ?Cấp độ thú cưng sẽ về LV1,\n và bạn nhận được thức ăn tương ứng.
-ddt.pets.revertPetCostMsg:Phục hồi cần {0} Xu，bạn có thực sự muốn phục hồi?
-ddt.pets.hungerMsg:Ê cu anh đói quá cho anh ăn cái không anh nghỉ chơi bây giờ.
-ddt.pets.expLimitMsg:Đã đạt cấp độ tối đa!
-ddt.pets.petHapyyStatus:Độ vui vẻ hiện tại
-ddt.pets.petHapyyheart:Tình trạng
-ddt.petsBag.petStatus:Giận dữ||Bình thường||Hài lòng||Vui vẻ
-ddt.pets.petUnFight:Pet không thể xuất trận
-ddt.pets.petHappyDesc:Pet có thể sử dụng {0} thuộc tính.
-ddt.pets.skillTipLost:tiêu thụ
-ddt.pets.skillTipDesc:kỹ năng
-ddt.pets.skillTipMagicValue:{0}ma pháp 
-ddt.pets.foodAmountSelect:Số lượng thức ăn
-ddt.pets.foodAmountTipText:Số \nthực phẩm:
-ddt.pets.upgradeNeedFoodAmount:Bạn cần<FONT COLOR='#FF0000'>{0}</FONT>thức ăn để tăng cấp thú cưng.
-ddt.pets.attactDetail:Tăng chỉ số công kích cho bạn
-ddt.pets.defenseDetail:Tăng chỉ số phòng ngự cho bạn
-ddt.pets.agilityDetail:Tăng chỉ số nhanh nhẹn cho bạn
-ddt.pets.luckDetail:Tăng chỉ số may mắn cho bạn
+ddt.pets.rePetName:Renomear pet
+ddt.pets.release:Liberar pet
+ddt.pets.revert:Restaurar
+ddt.pets.feed:Alimentar pet
+ddt.pets.feedNoFood:Coloque a comida do pet primeiro.
+ddt.pets.rePetNameTitle:Renomear pet
+ddt.pets.reInputPetName:Digite o novo apelido
+ddt.pets.growthText:Crescimento
+ddt.pets.revertPetAlertMsg:Deseja mesmo restaurar o pet {0}? O nível volta para LV1,\n e você recebe a comida correspondente.
+ddt.pets.revertPetCostMsg:Restaurar custa {0} cupons. Deseja mesmo restaurar?
+ddt.pets.hungerMsg:Ei, estou com fome! Me alimenta ou eu paro de brincar.
+ddt.pets.expLimitMsg:Nível máximo atingido!
+ddt.pets.petHapyyStatus:Felicidade atual
+ddt.pets.petHapyyheart:Estado
+ddt.petsBag.petStatus:Irritado||Normal||Satisfeito||Feliz
+ddt.pets.petUnFight:O pet não pode entrar em combate
+ddt.pets.petHappyDesc:O pet pode usar {0} do atributo.
+ddt.pets.skillTipLost:consome
+ddt.pets.skillTipDesc:habilidade
+ddt.pets.skillTipMagicValue:{0}magia  
+ddt.pets.foodAmountSelect:Quantidade de comida
+ddt.pets.foodAmountTipText:Qtd. \nde comida:
+ddt.pets.upgradeNeedFoodAmount:Você precisa de<FONT COLOR='#FF0000'>{0}</FONT>comida(s) para subir o nível do pet.
+ddt.pets.attactDetail:Aumenta o ataque para você
+ddt.pets.defenseDetail:Aumenta a defesa para você
+ddt.pets.agilityDetail:Aumenta a agilidade para você
+ddt.pets.luckDetail:Aumenta a sorte para você
 ddt.pets.hp:HP
-ddt.pets.hpDetail:Tăng giới hạn máu cho bạn
-ddt.pets.rePetNameAlertContonet:Đổi tên cần thanh toán:                  Xu
-ddt.pets.petSkill:Kỹ năng Pet
-ddt.pets.fightSkill:Kỹ năng chiến đấu
-ddt.petsBag.readme:Hướng dẫn Pet
+ddt.pets.hpDetail:Aumenta o limite de HP para você
+ddt.pets.rePetNameAlertContonet:Renomear custa:                  Cupom
+ddt.pets.petSkill:Habilidade do pet
+ddt.pets.fightSkill:Habilidade de combate
+ddt.petsBag.readme:Guia do pet
 ddt.petsBag.formTitleTxt:Forma Pet
-ddt.petsBag.LevAction:Ô này sẽ kích hoạt khi pet đạt Lv.{0}
-ddt.petsBag.VipAction:Đạt VIP 7 sẽ được mở ô này.
-ddt.petsBag.evolutionView:Hướng dẫn tiến hóa pet
-ddt.petsBag.eatPets.autoUse:Dùng tất cả
-ddt.petsBag.eatPets.pleaseChoosePets:Vui lòng chọn thú cưng
+ddt.petsBag.LevAction:Este espaço ativa quando o pet chegar ao Lv.{0}
+ddt.petsBag.VipAction:VIP 7 libera este espaço.
+ddt.petsBag.evolutionView:Guia de evolução do pet
+ddt.petsBag.eatPets.autoUse:Usar todos
+ddt.petsBag.eatPets.pleaseChoosePets:Escolha um pet
 ddt.petsBag.eatPets.tipsNameLv:{0}  Lv.{1}
-ddt.petsBag.eatpets.petDesTitle: Thú cưng 3 sao hoặc trên 3 sao có thể manh hóa 
-ddt.petsBag.eatpets.eatAllPets: Manh hóa toàn bộ thú cưng 3 sao hoặc trên 3 sao, tiếp tục?
-ddt.petsBag.eatpets.eatGreatPets: Trong lần manh hóa này có thú cưng cao cấp, tiếp tục? \n <font color='#ff0000'>Thú cưng sau khi manh hoa sẽ bị xóa</font> 
-ddt.petsBag.eatPets.maxLevel:Cấp độ đã đạt tối đa
-ddt.petsBag.isOpen:Cấp {0} sẽ được kích hoạt
+ddt.petsBag.eatpets.petDesTitle: Pets de 3 estrelas ou mais podem ser devorados 
+ddt.petsBag.eatpets.eatAllPets: Devorar todos os pets de 3 estrelas ou mais. Continuar?
+ddt.petsBag.eatpets.eatGreatPets: Há pet de alto nível nesta devoração. Continuar? \n <font color='#ff0000'>O pet será excluído após a devoração</font> 
+ddt.petsBag.eatPets.maxLevel:Nível máximo atingido
+ddt.petsBag.isOpen:Nível {0} será ativado
 ddt.loader.PetsAdvancedDataFail:Falha ao carregar evolução de pet
-ddt.pets.fight:Chiến
-ddt.pets.unfight:Triệu hồi
-ddt.pets.advancedTxt:Đào tạo thú cưng
-ddt.pets.risingStar.tisingStarTxt:hết tất cả
-ddt.pets.risingStar.maxStarTxt:Đã đạt đến cấp cao nhất
-ddt.pets.risingStar.helpTxt1:1. Tốn Linh Lộ Đơn để tăng cấp sao pet.
-ddt.pets.risingStar.helpTxt2:2. Linh Lộ Đơn nhận được khi khiêu chiến \n    Vòng Xoáy Thời Gian.
-ddt.pets.risingStar.helpTxt3:3. Sau khi tăng cấp Pet, thuộc tính và điểm trưởng \n    thành sẽ tăng hoặc giảm ngẫu nhiên. Nhưng \n    tổng thể sẽ chắc chắn tăng.
-ddt.pets.evolution.helpTxt:Các thuộc tính nhận thêm từ tiến hóa sẽ tự thêm khi vào trận. 
-ddt.pets.evolution.cannotEvolutionTxt:Thú cưng phải xuất trận mới được tiến hóa.
-ddt.pets.advanced.noPropTxt:{0} không đủ!
-ddt.pets.openTxt:Hệ thống thú cưng sẽ kích hoạt khi đạt đến cấp {0}!
-ddt.pets.break.eatNum.NotEnough:Số thú cưng hiến tế không đủ
-ddt.pets.break.stars.NotEnough:Cấp sao thú cưng hiến tế không đủ
-ddt.pets.break.samsang.NotEnough:Tam Sinh Thạch không đủ
-ddt.pets.break.petLevel.NotEnough:Cấp thú cưng không đủ, không thể đột phá
-ddt.pets.break.shoudnotFight:Thú cưng xuất trận không thể hiến tế
-ddt.pets.break.breakGradeEnough:Cấp thú cưng hiến tế không đủ
-ddt.pets.break.protectedNotEnough:Bùa Bảo Vệ không đủ
-ddt.pets.break.starExpWaste:Thú cưng hiến tế đã từng dùng Linh Lộ Đơn, tiếp tục?
-ddt.pets.break.SucMessage:Thành công!
-ddt.pets.break.useProtected:Dùng bùa
-ddt.pets.break.stone:Tam Sinh Thạch\ncần: {0}/{1}
-ddt.pets.break.levelFull:Cấp thú cưng phải thấp hơn cấp người chơi
-ddt.pets.break.BreakLevelFull:Cấp thú cưng phải thấp hơn cấp đột phá cao nhất của thú cưng
-ddt.pets.break.sureToNotUseProtect:Chưa dùng Thủ Hộ Phù, tiếp tục?\n<FONT COLOR='#FF0000'>(Nếu đột phá thất bại, thú cưng tế phẩm sẽ mất)</FONT>
-ddt.pets.break.warning:Đột phá dù thành công hay không, Tam Sinh Thạch đều sẽ mất.\nDùng Bùa bảo vệ, khi thất bại, thú cưng tế phẩm không bị mất.
-ddt.pets.break.detail:Sau khi đột phá cấp 60, giới hạn cấp là cấp 63\nSau khi đột phá cấp 63, giới hạn cấp là cấp 65\nSau khi đột phá cấp 65, giới hạn cấp là cấp 68\nSau khi đột phá cấp 68, giới hạn cấp là cấp 70\nSau khi đột phá, Tăng cấp sẽ tăng thuộc tính.
-ddt.pets.break.breakCurGradeInfo:Đột phá Lv{0} cần: Pet = {1}, sao ≥ {3}, cấp ≥ {2}
-ddt.pets.break.fullGrade:Thú cưng đã đột phá đến giới hạn cấp 
-ddt.pets.convert:Chuyển hóa
-ddt.pets.convertCannotTxt:Pet cấp sao cao không thể chuyển
-ddt.pets.convertCannotTxt2:Pet không đủ cấp sao
-ddt.farms.convertPet:Chuyển hóa <FONT COLOR='#FF0000'>Pet {0} sao</FONT> thành Nguồn Thú Cưng và Thuốc Tinh Hoa Thú Cưng,\nsau khi chuyển Pet sẽ bị xóa, đồng ý?
+ddt.pets.fight:Combate
+ddt.pets.unfight:Recolher
+ddt.pets.advancedTxt:Treinar pet
+ddt.pets.risingStar.tisingStarTxt:usar todos
+ddt.pets.risingStar.maxStarTxt:Já está no nível máximo
+ddt.pets.risingStar.helpTxt1:1. Gasta Pílula Estelar para subir as estrelas do pet.
+ddt.pets.risingStar.helpTxt2:2. A Pílula Estelar vem do desafio \n    Redemoinho do Tempo.
+ddt.pets.risingStar.helpTxt3:3. Ao subir o nível do pet, atributos e pontos de \n    crescimento sobem ou descem ao acaso. No \n    conjunto, o ganho é garantido.
+ddt.pets.evolution.helpTxt:Os atributos extras da evolução entram sozinhos no combate.  
+ddt.pets.evolution.cannotEvolutionTxt:O pet precisa estar em combate para evoluir.
+ddt.pets.advanced.noPropTxt:{0} insuficiente!
+ddt.pets.openTxt:O sistema de pet ativa no nível {0}!
+ddt.pets.break.eatNum.NotEnough:Pets para sacrificar insuficientes
+ddt.pets.break.stars.NotEnough:Estrelas dos pets sacrificados insuficientes
+ddt.pets.break.samsang.NotEnough:Pedra Três Vidas insuficiente
+ddt.pets.break.petLevel.NotEnough:Nível do pet insuficiente; não é possível avançar
+ddt.pets.break.shoudnotFight:Pet em combate não pode ser sacrificado
+ddt.pets.break.breakGradeEnough:Nível do pet sacrificado insuficiente
+ddt.pets.break.protectedNotEnough:Amuleto de Proteção insuficiente
+ddt.pets.break.starExpWaste:O pet sacrificado já usou Pílula Estelar. Continuar?
+ddt.pets.break.SucMessage:Sucesso!
+ddt.pets.break.useProtected:Usar amuleto
+ddt.pets.break.stone:Pedra Três Vidas\nprecisa: {0}/{1}
+ddt.pets.break.levelFull:O nível do pet precisa ser menor que o do jogador
+ddt.pets.break.BreakLevelFull:O nível do pet precisa ser menor que o limite de avanço do pet
+ddt.pets.break.sureToNotUseProtect:Sem Amuleto de Proteção. Continuar?\n<FONT COLOR='#FF0000'>(Se o avanço falhar, o pet sacrificado será perdido)</FONT>
+ddt.pets.break.warning:Com sucesso ou falha, a Pedra Três Vidas é gasta.\nCom o Amuleto de Proteção, o pet sacrificado não se perde na falha.
+ddt.pets.break.detail:Após o avanço no nível 60, o limite vai a 63\nApós o avanço no nível 63, o limite vai a 65\nApós o avanço no nível 65, o limite vai a 68\nApós o avanço no nível 68, o limite vai a 70\nDepois do avanço, subir de nível aumenta os atributos.
+ddt.pets.break.breakCurGradeInfo:Avanço Lv{0} precisa: Pet = {1}, estrelas ≥ {3}, nível ≥ {2}
+ddt.pets.break.fullGrade:O pet já avançou até o limite de nível  
+ddt.pets.convert:Converter
+ddt.pets.convertCannotTxt:Pet de alta estrela não pode ser convertido
+ddt.pets.convertCannotTxt2:Pet com poucas estrelas
+ddt.farms.convertPet:Converter o <FONT COLOR='#FF0000'>Pet de {0} estrela(s)</FONT> em Fonte de Pet e Essência de Pet;\napós a conversão o pet será excluído. Concorda?
 petBag.view.titleText:Hệ thống thú cưng
 assets.petsBag.petbagTextLG:Chú ý：Hệ thống thú cưng
 wishBeadMainView.tipTxt:Châu báu chúc phúc có \nthể nhận ở Sự kiện
@@ -2886,16 +2886,16 @@ wishBead.GoodsTipPanel.txt3: giờ
 wishBead.lostEquip:Đặt vật phẩm cần dát vàng vào ô
 wishBead.help:Đang dát vàng vật phẩm không thể thao tác
 wishBead.result:Xin chúc mừng, dát vàng thành công!
-store.StoreBagView.EquipmentTip.ExaltText:Click đúp để chuyển nhanh
-store.Strength.GoodPanelText.StoreExaltRock:Đá tăng cấp
-store.view.exalt.StoreExaltProgressBar.title:Thăng cấp may mắn
-store.StoreExaltBG.say:Hướng dẫn tăng cấp
-store.Exalt.autoSplit.inputNumber:Số lượng
-store.view.exalt.warning:Chưa đặt vật phẩm và đá tăng cấp vào ô.
-store.view.exalt.luckyTips:Điểm may mắn+{0}
-store.view.exalt.goodTips:(Cấp {0})
-store.view.exalt.warningI:Đã tăng cấp lên cấp độ cao nhất!
-store.view.exalt.warningII:Đá tăng cấp không phù hợp.
+store.StoreBagView.EquipmentTip.ExaltText:Clique duas vezes para transferir rapidamente
+store.Strength.GoodPanelText.StoreExaltRock:Pedra de elevar
+store.view.exalt.StoreExaltProgressBar.title:Sorte de elevação
+store.StoreExaltBG.say:Ajuda de elevar
+store.Exalt.autoSplit.inputNumber:Quantidade
+store.view.exalt.warning:Coloque o item e a pedra de elevar no espaço.
+store.view.exalt.luckyTips:Sorte+{0}
+store.view.exalt.goodTips:(Nível {0})
+store.view.exalt.warningI:Já está no nível máximo!
+store.view.exalt.warningII:A pedra de elevar não é compatível.
 ddt.labyrinth.LabyrinthFrame.title:Mê Cung
 ddt.labyrinth.LabyrinthFrame.text1:Khiêu chiến thành công được EXP và Chiến hồn đơn, dùng Đá mê cung tăng phần thưởng.
 ddt.labyrinth.LabyrinthFrame.text2:Dùng Đá mê cung\nx2 phần thưởng
@@ -2942,13 +2942,13 @@ ddt.bandMoney:Xu khóa
 ddt.dungeonroom.pass.warriorsArena:Bạn hoặc ai đó trong phòng đã vượt <FONT COLOR='0xff0000'>{0}</FONT> lần phó bản này. Tối đa mỗi ngày chỉ được vượt <FONT COLOR='0xff0000'>{0}</FONT> lần, hãy quay lại vào ngày mai. 
 ddt.dungeonroom.FisrtInWarriorsArena:Bạn cần phải trả phí để được tham gia phó bản này.<br>Chỉ cần chủ phòng có vé là có thể vào, những người khác là miễn phí.<br>Bạn có thể nhận vé từ sự kiện hoặc đổi vé tại mục nhiệm vụ sự kiện.
 ddt.dungeonRoom.enterTicketCount:Số lượng vé vào phó bản {0}/{1}
-store.Strength.StrengthenCurrentEquipmentCellText:Trang bị
+store.Strength.StrengthenCurrentEquipmentCellText:Equipamento
 petAndHorse.risingStar.toLinkTxtValue:Clic <U><FONT COLOR='#52D412'><a href='event
-tank.view.bagII.GoodsTipPanel.gp:EXP
-tank.view.bagII.GoodsTipPanel.maxGP:Giới hạn kinh nghiệm
-ddt.pets.pose1:Ông chủ có cần giúp gì không?
-ddt.pets.pose2:Thức ăn không chỉ tăng EXP mà còn tăng cả điểm vui vẻ nữa đấy.
-ddt.pets.pose3:Sau khi tăng cấp thú cưng sẽ mạnh hơn.
+tank.view.bagII.GoodsTipPanel.gp:GP
+tank.view.bagII.GoodsTipPanel.maxGP:Limite de GP
+ddt.pets.pose1:Chefe, precisa de alguma ajuda?
+ddt.pets.pose2:A comida sobe EXP e também a felicidade.
+ddt.pets.pose3:Ao subir de nível o pet fica mais forte.
 core.petskillTip.balltype0:Không thể xếp chồng POW
 core.petskillTip.balltype1:Không thể xếp chồng đạo cụ tăng tốc, POW
 core.petskillTip.balltype2:Không thể xếp chồng đạo cụ, POW, sử dụng xong TURN sẽ kết thúc
@@ -2958,7 +2958,7 @@ core.petskillTip.activeSkill:Kỹ năng chủ động
 core.petskillTip.passiveSkill:Kỹ năng bị động
 core.petMptip.description:Mỗi lần sử dụng sẽ làm giảm ma pháp, số ma pháp bị giảm tùy thuộc vào kỹ năng sử dụng.
 tank.game.actions.cooldown:Aguardando turno
-ddt.bagandinfo.bagAndInfo.itemOpenUpTxt:Nhận thưởng
+ddt.bagandinfo.bagAndInfo.itemOpenUpTxt:Receber prêmio
 tank.data.EquipType.seed:Hạt giống
 tank.data.EquipType.manure:Phân bón
 tank.data.EquipType.food:Thức ăn
@@ -2968,30 +2968,30 @@ game.objects.TransmissionGate.tips:Saída
 game.objects.TransmissionGate.tipsII:Próxima fase
 tnak.game.tryagain.titleII:Chọn tiếp tục để khiêu chiến lại ải trước đó  
 ddt.storeIIStrength.startStrengthClickTimerMsg:Bạn nhấp quá nhanh, vui lòng đợi 1 giây rồi thử lại.
-petsBag.petPropButtonTipSignTxt:Tiến hóa
+petsBag.petPropButtonTipSignTxt:Evolução
 pet.eatPet.tips:Thú cưng sau khi manh hoa sẽ bị xóa
 tank.view.bagII.GoodsTipPanel.setPurpleHtmlTxt:<FONT COLOR='FF9933'>{0}</FONT><FONT COLOR='E82EFE'>{1}</FONT><FONT COLOR='FF9933'>{2}</FONT>
 ShowForeView.NoLevelTip:Cần đạt Lv20 trở lên mới có thê sử dụng chức năng này!
-ddt.pets.releaseCannotTxt:Không thể thả thú cưng cấp sao cao
-ddt.pets.releaseTransformTxt:Chuyển
-ddt.pets.releaseDirectTxt:Thả
+ddt.pets.releaseCannotTxt:Não é possível liberar pet de alta estrela
+ddt.pets.releaseTransformTxt:Converter
+ddt.pets.releaseDirectTxt:Liberar
 MainToolBar.PetLevelTip:Cần đạt lv25 trở lên để sử dụng chức năng này.
-ddt.pets.hungerFull:Điểm tâm trạng thú cưng đã đạt 100%.
-ddt.pets.hungerNeedFoodAmount:Cần <FONT COLOR='#FF0000'>{0}</FONT> thức ăn mới đầy điểm vui vẻ.
-ddt.pets.releasPetsDiscrp:Thả thú cưng 4 sao sẽ nhận được Nguồn thú cưng.
-ddt.pets.releaseCanTransTipTxt:Thả thú {0} sao sẽ chuyển thành Nguồn thú cưng
-ddt.farms.releasePet2:Xác nhận thả <FONT COLOR='#FF0000'>thú cưng {0} sao</FONT>?
-ddt.farms.releasePet3:Chuyển Nguồn thú cưng cần {0} xu.
+ddt.pets.hungerFull:A felicidade do pet já está em 100%.
+ddt.pets.hungerNeedFoodAmount:É preciso <FONT COLOR='#FF0000'>{0}</FONT> comida(s) para encher a felicidade.
+ddt.pets.releasPetsDiscrp:Liberar um pet de 4 estrelas rende Fonte de Pet.
+ddt.pets.releaseCanTransTipTxt:Liberar um pet de {0} estrela(s) vira Fonte de Pet
+ddt.farms.releasePet2:Confirmar a liberação do <FONT COLOR='#FF0000'>pet de {0} estrela(s)</FONT>?
+ddt.farms.releasePet3:Converter em Fonte de Pet custa {0} cupons.
 ddt.petEquipLevel:Cấp thú cưng yêu cầu: Lv.{0}
 ddt.petEquipLevelNo:Cấp thú cưng không đủ.
 ddt.petEquipNo:Không có thú cưng.
-ddt.farms.releasePet:Bạn có chắc là muốn thả pet <FONT COLOR='#FF0000'>{0}</FONT>? Điều này đồng nghĩa với việc không thể phục hồi lại Pet.
+ddt.farms.releasePet:Tem certeza de que quer liberar o pet <FONT COLOR='#FF0000'>{0}</FONT>? Não será possível restaurá-lo.
 petsBag.form.petsListGuardTxt:HP +{0}%
-petsBag.form.petsabsorbHurtTxt:Chịu sát thương POW -{0}%
+petsBag.form.petsabsorbHurtTxt:Dano POW sofrido -{0}%
 ddt.campBattle.onlyFly:Bạn chỉ có thể sử dụng bay.
 ShowPet.Tip:Chú ý Pet này đang được trang bị vật phẩm.
-store.view.fusion.AccessoryDragInArea.type:Vật phẩm này đã đầy hoặc không
-ddt.bagAndInfo.sell.CanNotSell:Vật phẩm này không thể bán
+store.view.fusion.AccessoryDragInArea.type:Este item já está cheio ou não
+ddt.bagAndInfo.sell.CanNotSell:Este item não pode ser vendido
 ddt.buffinfo.labyrinthBuffhelp:Nhấp xem Thuốc Mê Cung
 game.view.propertyWaterBuff.timer:Faltam {0} dias
 game.view.propertyWaterBuff.timerI:Faltam {0} horas
@@ -2999,7 +2999,7 @@ game.view.propertyWaterBuff.timerII:Faltam {0} minutos
 game.view.propertyWaterBuff.timerIII:Expirado
 tank.hall.ChooseHallView.labyrinth:É preciso ser nível 30 para participar!
 tank.view.emailII.WritingView.NOGoods:
-tank.view.emailII.WritingView.NOmoney:Thư có đính kèm chỉ được trả tiền giao dịch!
+tank.view.emailII.WritingView.NOmoney:Correio com anexo só aceita pagamento da transação!
 
 ddt.gemstone.curInfo.title1:Thuộc tính Chiến Hồn hiện tại
 ddt.gemstone.curInfo.title2:Thuộc tính chiến hồn hiện tại
@@ -3135,139 +3135,139 @@ ddt.growthPackage.buyPriceMsg:<FONT COLOR="#FF0000">Bạn muốn kích hoạt t�
 growthPackage.explainTxt.txt:Nạp bằng thẻ hoặc chuyển khoản tại Web !
 ddt.HallStateView.farm:Kinh doanh nông trại tạo ra\nthức ăn để nuôi thú cưng.		
 ddt.vip.PrivilegeViewItem.FarmAssistant:M.phí trợ giúp		
-ddt.farms.refresh:Tạo mới		
-ddt.farms.desc:Thuyết minh thú cưng		
-ddt.farms.refreshPetsAlert:Tạo mới thú cưng		
-ddt.farms.helper.buyTxt:Xác nhận mua		
-ddt.farms.helper.buyTxt1:Đạo cụ không đủ, đến cửa hàng nông trại mua không?		
-ddt.farms.refreshPetsAlertContonet:Tạo mới cần		hoặc 1 phiếu tạo mới thú cưng
-ddt.farms.refreshPetsNOAlert:Hôm nay không nhắc nhở lại		
-ddt.farms.adoptPetsAlertTitle:Xác nhận nhận nuôi		
-ddt.farms.adoptPetsAlertContonet:Xác nhận nhận nuôi thú cưng?		
-ddt.farms.refreshPetsAlertTitle:Tạo mới xác nhận		
-ddt.farms.refreshPetsAlertContonetI:Bạn đã tạo mới thú cưng 4 sao, tiếp tục nữa chứ?		
+ddt.farms.refresh:Atualizar		
+ddt.farms.desc:Guia do pet		
+ddt.farms.refreshPetsAlert:Atualizar pets		
+ddt.farms.helper.buyTxt:Confirmar compra		
+ddt.farms.helper.buyTxt1:Itens insuficientes. Ir à loja da fazenda?		
+ddt.farms.refreshPetsAlertContonet:Atualizar precisa		ou 1 vale de atualização de pet
+ddt.farms.refreshPetsNOAlert:Não avisar de novo hoje		
+ddt.farms.adoptPetsAlertTitle:Confirmar adoção		
+ddt.farms.adoptPetsAlertContonet:Confirmar a adoção do pet?		
+ddt.farms.refreshPetsAlertTitle:Confirmar atualização		
+ddt.farms.refreshPetsAlertContonetI:Você já atualizou um pet de 4 estrelas. Continuar?		
 ddt.farms.refreshPetsLastTimes	tạo mới	
-ddt.farms.shopPayButton:Mua		
-ddt.farms.shopPayAlert:Bạn cần trả		
-ddt.farms.petRefreshVolume:Phiếu tạo mới thú cưng		
-ddt.farms.shopPayTitle:Xác nhận mua		
-ddt.farms.composeComfirmNumPnlTitle:Xác nhận số lượng ghép		
-ddt.farms.confirmHelperMoneyAlertFrame.selectOneText:7 ngày		
-ddt.farms.confirmHelperMoneyAlertFrame.selectTwoText:1 tháng		
-ddt.farms.confirmHelperMoneyAlertFrame.payMoneyShow:{0} xu		
-ddt.farms.confirmComposeFoodAlertFrame.promptText:Hãy chọn thực phẩm cần ghép		
-ddt.farms.shopPayTitle:Xác nhận mua		
-ddt.farm.farmNameTxt:Nông trại của {0}		
-ddt.farm.farmNameTxt:Nông trại của {0}		
-ddt.farm.spreadTitle:Mở rộng ruộng		
-ddt.farm.spreadTime:Thời gian mở rộng		
-ddt.farm.spreadTime1:1 tuần		
-ddt.farm.spreadTime2:1 tháng		
-ddt.farm.spreadTime3:Mở toàn bộ		
-ddt.farm.spread.payMoney:Bạn cần trả		
-ddt.farm.spread.Money:{0} xu		
-ddt.farmHouse.readme:Hướng dẫn ghép thức ăn thú cưng		
-ddt.farm.gainField.fail:Thu hoạch nông sản thất bại		
-ddt.farm.gainField.success:Thu hoạch nông sản thành công		
-ddt.farm.payField.fail:Khai hoang thất bại		
-ddt.farm.payField.success:Khai hoang thành công		
-ddt.farm.DoMature.fail:Tăng trưởng thất bại		
-ddt.farm.DoMature.success:Tăng trưởng thành công		
-ddt.farm.seeding.fail:Trồng thất bại		
-ddt.farm.seeding.success:Trồng thành công		
-ddt.farm.goFarm.internal:Đổi nông trại cần chờ 2 giây		
-ddt.farm.goFarm.internal:Đổi nông trại cần chờ 2 giây		
-ddt.farm.steal.farm:Trộm rau thành công		
-ddt.farm.steal.farm:Trộm rau thành công		
-ddt.farm.goods.name:Tên	{0}\n{1}	
-ddt.farm.goods.grown:Số lượng{0}/{1}		
-ddt.farm.goods.mini:Thời gian chín	{0} phút	
-ddt.farm.goods.houer:Thời gian chín	{0} giờ {1} phút	
-ddt.farm.field.noGrown:Vẫn chưa chín, không thể thu hoạch		
-ddt.farm.helperList.fieldIndexText:Mã số ruộng		
-ddt.farm.helperList.seedIDText:Tên nông sản		
-ddt.farm.helperList.fertilizerIDText:Phân bón		
-ddt.farm.helperList.isAutoText:Trạng thái		
-ddt.farm.helperList.pleaseSelect:Hãy chọn		
-ddt.farm.helperList.yesAuto:Ruộng {0} thiết lập dạng tự trồng		
-ddt.farm.helperList.noAuto:Ruộng {0} thiết lập dạng không tự trồng		
-ddt.farm.helperItem.selectSeedFail:Số hạt giống chọn là 0, không thể thiết lập là tự trồng		
-ddt.farm.helperItem.pleaseSelectSeed:Hãy chọn hạt giống rồi tiến hành thao tác này		
-ddt.farm.helper.SetTxt3:Hãy chọn số lượng hạt giống		
-ddt.farm.helper.SetTxt4:Hãy chọn số lượng phân bón		
-ddt.farm.helper.SetTxt6:Túi không có loại hạt giống này		
-ddt.farm.helper.SetTxt7:Túi không có loại phân bón này		
-ddt.farm.helperItem.pleaseSelectSeedI:Hãy chọn phân bón rồi tiến hành thao tác này		
-ddt.farms.killCropComfirmNumPnlTitle:Xác nhận hủy nông sản		
-ddt.farms.comfirmKillCropMsg:Bạn xác nhận hủy {0}?		
-ddt.farms.comfirmKillCropMsg2:Bạn xác nhận hủy {0}?\nThao tác này sẽ dừng trợ thủ nông trại		
-ddt.farm.helperItem.selectFertilizerFail:Số phân bón chọn là 0, hãy mua phân bón		
-ddt.farm.killCrop.success:Tiêu hủy nông sản thành công		
-ddt.farm.helperShow.text1:Trước khi dùng bạn nên xem hướng dẫn!		
-ddt.farm.helperSelSeed.text:Hãy chọn hạt giống muốn trồng		
-ddt.farm.helperSeltime.text:Hãy chọn thời gian ủy thác		
-ddt.farm.helperNeedSeed.text:Hạt giống cần		
-ddt.farm.helperGetSeed.text:Thức ăn thú cưng		
-ddt.farm.helperNeedTime.text:Thời gian thu hoạch còn		
-ddt.farm.StartBtn.text:Mở		
-ddt.farm.CloseBtn.text:Dừng		
-ddt.farm.beginFrame.title:Mở xác nhận		
-ddt.farms.stopHelperComfirm:Xác nhận đóng trợ thủ		
-ddt.farms.stopHelperComfirmText:Bạn muốn đóng trợ thủ nông trại?		
-ddt.farm.beginFrame.expText:Xác nhận mở chức năng trợ thủ?		
-ddt.farm.beginFrame.expText1:Bạn thiếu {0} hạt giống, đồng ý trả {1}		
-ddt.farm.beginFrame.expText2:Mua nhanh và mở?		
-ddt.farm.beginFrame.expText3:(Mở trợ thủ sẽ tự tiêu hủy nông sản hiện có)		
-ddt.farm.beginFrame.expText4:Xu khóa không đủ!		
-ddt.farm.helpBtn.text:? Giúp đỡ		
-ddt.farm.killCrop.fail:Tiêu hủy nông sản thất bại		
-ddt.farm.helper.help.readme:Hướng dẫn trợ thủ trồng trọt		
-ddt.farm.hepper.help.Reset:Thiết lập		
-ddt.farm.hepper.help.Set:Thiết lập trợ thủ		
-ddt.farms.helperMoneyComfirmPnlTitle:Trả phí trợ thủ		
-ddt.farms.helperMoneyComfirm.timeText:Thời gian trả phí		
-ddt.farms.helperMoneyComfirm.payText:Bạn cần trả		
-ddt.farms.helperMoneyComfirmPnlSuccess:Trả phí trợ thủ thành công		
-farm.componse.selected.me:Hãy chọn thực phẩm cần ghép		
+ddt.farms.shopPayButton:Comprar		
+ddt.farms.shopPayAlert:Você precisa pagar		
+ddt.farms.petRefreshVolume:Vale de atualização de pet		
+ddt.farms.shopPayTitle:Confirmar compra		
+ddt.farms.composeComfirmNumPnlTitle:Confirmar a quantidade a compor		
+ddt.farms.confirmHelperMoneyAlertFrame.selectOneText:7 dias		
+ddt.farms.confirmHelperMoneyAlertFrame.selectTwoText:1 mês		
+ddt.farms.confirmHelperMoneyAlertFrame.payMoneyShow:{0} cupons		
+ddt.farms.confirmComposeFoodAlertFrame.promptText:Escolha a comida a compor		
+ddt.farms.shopPayTitle:Confirmar compra		
+ddt.farm.farmNameTxt:Fazenda de {0}		
+ddt.farm.farmNameTxt:Fazenda de {0}		
+ddt.farm.spreadTitle:Ampliar canteiros		
+ddt.farm.spreadTime:Tempo de ampliação		
+ddt.farm.spreadTime1:1 semana		
+ddt.farm.spreadTime2:1 mês		
+ddt.farm.spreadTime3:Abrir tudo		
+ddt.farm.spread.payMoney:Você precisa pagar		
+ddt.farm.spread.Money:{0} cupons		
+ddt.farmHouse.readme:Guia de composição de comida de pet		
+ddt.farm.gainField.fail:Falha na colheita		
+ddt.farm.gainField.success:Colheita concluída		
+ddt.farm.payField.fail:Falha ao preparar o terreno		
+ddt.farm.payField.success:Terreno preparado		
+ddt.farm.DoMature.fail:Falha no crescimento		
+ddt.farm.DoMature.success:Crescimento concluído		
+ddt.farm.seeding.fail:Falha ao plantar		
+ddt.farm.seeding.success:Plantio concluído		
+ddt.farm.goFarm.internal:Trocar de fazenda exige esperar 2 segundos		
+ddt.farm.goFarm.internal:Trocar de fazenda exige esperar 2 segundos		
+ddt.farm.steal.farm:Roubo de colheita concluído		
+ddt.farm.steal.farm:Roubo de colheita concluído		
+ddt.farm.goods.name:Nome	{0}\n{1}	
+ddt.farm.goods.grown:Quantidade{0}/{1}		
+ddt.farm.goods.mini:Tempo para madurar	{0} min	
+ddt.farm.goods.houer:Tempo para madurar	{0} h {1} min	
+ddt.farm.field.noGrown:Ainda não madurou; não é possível colher		
+ddt.farm.helperList.fieldIndexText:Nº do canteiro		
+ddt.farm.helperList.seedIDText:Nome da plantação		
+ddt.farm.helperList.fertilizerIDText:Fertilizante		
+ddt.farm.helperList.isAutoText:Estado		
+ddt.farm.helperList.pleaseSelect:Escolha		
+ddt.farm.helperList.yesAuto:Canteiro {0} definido para autoplantar		
+ddt.farm.helperList.noAuto:Canteiro {0} definido sem autoplantar		
+ddt.farm.helperItem.selectSeedFail:Quantidade de sementes é 0; não dá para autoplantar		
+ddt.farm.helperItem.pleaseSelectSeed:Escolha a semente antes desta ação		
+ddt.farm.helper.SetTxt3:Escolha a quantidade de sementes		
+ddt.farm.helper.SetTxt4:Escolha a quantidade de fertilizante		
+ddt.farm.helper.SetTxt6:A mochila não tem essa semente		
+ddt.farm.helper.SetTxt7:A mochila não tem esse fertilizante		
+ddt.farm.helperItem.pleaseSelectSeedI:Escolha o fertilizante antes desta ação		
+ddt.farms.killCropComfirmNumPnlTitle:Confirmar o descarte da plantação		
+ddt.farms.comfirmKillCropMsg:Confirmar o descarte de {0}?		
+ddt.farms.comfirmKillCropMsg2:Confirmar o descarte de {0}?\nIsto interrompe o assistente da fazenda		
+ddt.farm.helperItem.selectFertilizerFail:Quantidade de fertilizante é 0; compre fertilizante		
+ddt.farm.killCrop.success:Plantação descartada		
+ddt.farm.helperShow.text1:Leia o guia antes de usar!		
+ddt.farm.helperSelSeed.text:Escolha a semente que deseja plantar		
+ddt.farm.helperSeltime.text:Escolha o tempo de delegação		
+ddt.farm.helperNeedSeed.text:Sementes necessárias		
+ddt.farm.helperGetSeed.text:Comida de pet		
+ddt.farm.helperNeedTime.text:Tempo restante da colheita		
+ddt.farm.StartBtn.text:Ligar		
+ddt.farm.CloseBtn.text:Parar		
+ddt.farm.beginFrame.title:Confirmar ativação		
+ddt.farms.stopHelperComfirm:Confirmar o desligamento do assistente		
+ddt.farms.stopHelperComfirmText:Deseja desligar o assistente da fazenda?		
+ddt.farm.beginFrame.expText:Confirmar a ativação do assistente?		
+ddt.farm.beginFrame.expText1:Faltam {0} semente(s); concorda em pagar {1}		
+ddt.farm.beginFrame.expText2:Comprar rápido e ligar?		
+ddt.farm.beginFrame.expText3:(Ligar o assistente descarta a plantação atual)		
+ddt.farm.beginFrame.expText4:Cupons vinculados insuficientes!		
+ddt.farm.helpBtn.text:? Ajuda		
+ddt.farm.killCrop.fail:Falha ao descartar a plantação		
+ddt.farm.helper.help.readme:Guia do assistente de plantio		
+ddt.farm.hepper.help.Reset:Configurar		
+ddt.farm.hepper.help.Set:Configurar assistente		
+ddt.farms.helperMoneyComfirmPnlTitle:Pagar o assistente		
+ddt.farms.helperMoneyComfirm.timeText:Tempo pago		
+ddt.farms.helperMoneyComfirm.payText:Você precisa pagar		
+ddt.farms.helperMoneyComfirmPnlSuccess:Pagamento do assistente concluído		
+farm.componse.selected.me:Escolha a comida a compor		
 ddt.Farm.friendList.item.enterFriend:Chỉ có thể vào nông trại của bạn bè		
 ddt.goFarm.need20:Mở nông trại Lv25!		
-ddt.farm.farmHouse.click:Tính năng kho chưa mở		
-ddt.farm.farmHouse.click:Tính năng kho chưa mở		
-ddt.farms.fieldBlockSeedTips:Đang mở tính năng trợ giúp nông trại		
-ddt.farm.petguide1:Sở trưởng bảo vệ bản thân và đồng đội, kỹ năng  hồi phục, sở hữu các tính năng hồi phục mạnh.		
-ddt.farm.petguide2:Tấn công kiêm phòng thủ, đặc biệt chú ý đến phòng thủ bản thân, nếu ở địa hình có lợi thì sẽ phát huy uy lực		
-ddt.farm.petguide3:Sinh lực và phòng ngự hơi cao, là con pet có sở trường về phòng ngự và phản kích, cho dù bị đánh hội đồng cũng không sợ		
-ddt.farm.petguide4:Có thể tăng thêm lực chiến cho bản thân và đồng đội, cũng có kỹ năng khôi phục sinh lực		
-ddt.farm.petScore:Tích điểm		
-ddt.farm.possessScore:Bạn có:		
-ddt.farm.affirmExchange:Xác nhận đổi		
-ddt.farm.scoreNotEnough:Điểm tích lũy của bạn không đủ!		
-ddt.farms.newPetsComew:Rồng con!!!\n\nSức mạnh siêu phàm!!!		
-ddt.farms.adoptItemAlertTitle:Đồng ý nhận		
-ddt.farms.adoptItemsAlertContonet:Đồng ý nhận vật phẩm?		
-ddt.farm.helperShow.text2:Trợ thủ đáo hạn		
-ddt.farm.newPet.SkillTxt:Kỹ Năng		
-ddt.farm.newPet.Come:Thú hiếm đến đây!		
-ddt.farm.newPet.Desc:Hãy mau đến trung tâm nhận nuôi 1 Kiến Lửa Nhỏ đi!		
-ddt.farm.newPet.LvTxt:Cấp:1		
-ddt.farms.petFreeRefresh:Làm mới miễn phí ({0})		
-farm.viewx.farmBuyExpFrame.title:Mua thức ăn			
-farm.viewx.farmBuyExpFrame.explain:Hao <FONT COLOR='#FF0000'>{0}</FONT> xu có thể mua <FONT COLOR='#FCC036'>{1}</FONT> Thức ăn (Cao) Dùng sẽ tăng độ vui vẻ và tối đa <FONT COLOR='#FF0000'>{2}</FONT> EXP cho thú cưng.			
-farm.viewx.FarmBuyExpFrame.warning:Số lần mua hôm nay đã hết			
-farm.seed1:Cây trồng (sơ)		
-farm.seed2:Cây trồng (trung)		
-farm.seed3:Cây trồng (cao)		
-farm.seed4:Thần được mùa		
-ddt.farm.arrange2:Số lần dọn đất của bạn này đã tối đa		
-ddt.farm.arrange1:Hôm nay đã dọn đất cho bạn này rồi		
-ddt.farm.arrange0:Đã dọn thành công đất cho bạn này		
-ddt.farm.arrange.tips:Hôm nay đã dọn đất cho bạn này rồi			
+ddt.farm.farmHouse.click:O armazém ainda não está disponível		
+ddt.farm.farmHouse.click:O armazém ainda não está disponível		
+ddt.farms.fieldBlockSeedTips:Abrindo o assistente da fazenda		
+ddt.farm.petguide1:Especialista em proteger a si e aos aliados, com habilidades de cura bem fortes.		
+ddt.farm.petguide2:Ataque e defesa juntos, com ênfase em se defender; no terreno certo rende ainda mais.		
+ddt.farm.petguide3:HP e defesa um pouco altos; pet de defesa e contra-ataque, sem medo de ser cercado.		
+ddt.farm.petguide4:Aumenta o poder de combate seu e dos aliados e também recupera HP.		
+ddt.farm.petScore:Pontos		
+ddt.farm.possessScore:Você tem:		
+ddt.farm.affirmExchange:Confirmar troca		
+ddt.farm.scoreNotEnough:Seus pontos acumulados são insuficientes!		
+ddt.farms.newPetsComew:Dragãozinho!!!\n\nPoder fora do comum!!!		
+ddt.farms.adoptItemAlertTitle:Aceitar		
+ddt.farms.adoptItemsAlertContonet:Aceitar o item?		
+ddt.farm.helperShow.text2:Assistente vencido		
+ddt.farm.newPet.SkillTxt:Habilidade		
+ddt.farm.newPet.Come:Pet raro chegou!		
+ddt.farm.newPet.Desc:Vá já ao centro de adoção pegar 1 Formiga de Fogo!		
+ddt.farm.newPet.LvTxt:Nível:1		
+ddt.farms.petFreeRefresh:Atualizar grátis ({0})		
+farm.viewx.farmBuyExpFrame.title:Comprar comida			
+farm.viewx.farmBuyExpFrame.explain:Gastar <FONT COLOR='#FF0000'>{0}</FONT> cupons compra <FONT COLOR='#FCC036'>{1}</FONT> Comida (Alta). Usar sobe a felicidade e no máximo <FONT COLOR='#FF0000'>{2}</FONT> EXP do pet.			
+farm.viewx.FarmBuyExpFrame.warning:As compras de hoje acabaram			
+farm.seed1:Planta (iniciante)		
+farm.seed2:Planta (médio)		
+farm.seed3:Planta (alto)		
+farm.seed4:Deus da colheita		
+ddt.farm.arrange2:Você já limpou o terreno desta pessoa o máximo de vezes		
+ddt.farm.arrange1:Você já limpou o terreno desta pessoa hoje		
+ddt.farm.arrange0:Terreno desta pessoa limpo com sucesso		
+ddt.farm.arrange.tips:Você já limpou o terreno desta pessoa hoje			
 ddt.systemOpenPrompt.farmCropRipe:Cây trồng đã\nchín.		
-ddt.farms.fastForwardInfo:Dùng {0} Xu rút ngắn 30 phút thời gian cây chín.		
-ddt.farms.fastForwardAllInfo:Dùng {0} Xu rút ngắn 30 phút thời gian chín cho tất cả cây trồng.		
-ddt.farms.noFastForwardInfo:Không có cây cần thúc chín		
-ddt.farms.playerGiftPacksText:Đồng ý tặng Túi Cây Trồng Trung Thu, tặng sẽ bị trừ\n1 Túi Cây Trồng Trung Thu (không khóa) trong túi?		
-ddt.farms.playerSpeakInfo:Nhấn vào tôi để tặng Túi Cây Trồng Trung Thu!		
+ddt.farms.fastForwardInfo:Gastar {0} cupons reduz 30 minutos do amadurecimento.		
+ddt.farms.fastForwardAllInfo:Gastar {0} cupons reduz 30 minutos do amadurecimento de todas as plantas.		
+ddt.farms.noFastForwardInfo:Nenhuma planta para acelerar		
+ddt.farms.playerGiftPacksText:Concordar em presentear o Pacote de Plantio do Festival da Lua? Será descontado\n1 Pacote de Plantio do Festival da Lua (não vinculado) da mochila?		
+ddt.farms.playerSpeakInfo:Clique em mim para presentear o Pacote de Plantio do Festival da Lua!		
 newChickenBox.EagleEye.msg:Dùng mắt ưng có thể nhìn xuyên qua 1 lá bài,còn có <FONT COLOR='#FF0000'>  {0}  </FONT> cơ hội \ndùng mắt ưng.Lần này tiêu hao <FONT COLOR='#FF0000'>  {1}  </FONT> xu, sẽ không trừ số lần lật bài.    
 newChickenBox.noAlert:Không nhắc lại:
 newChickenBox.newChickenTitle:Rương Gà
@@ -3362,7 +3362,7 @@ worldboss.buyBuff.confirmFrame.desc3:Tốn {0} Xu tăng sát thương cơ bản 
 worldboss.buyBuff.confirmFrame.desc4:Mỗi tầng tốn {0} Xu mua đến 20 tầng sát thương
 worldboss.buyBuff.confirmFrame.desc5:Tốn {0} Xu Khóa tăng sát thương cơ bản 1 tầng ({1})
 worldboss.buyBuff.confirmFrame.desc6:Mỗi tầng tốn {0} Xu Khóa mua đến 20 tầng sát thương
-shop.PresentFrame.OkBtnText:Xác nhận 
+shop.PresentFrame.OkBtnText:Confirmar
 tank.game.ToolStripView.recentContact:Contatos recentes
 tank.view.im.Friend:Bạn bè
 #5.1.5圣诞节版本
@@ -3399,12 +3399,12 @@ christmas.buy.playingSnowman.volumes:Hết thời gian vào Khu Tuyết miễn p
 christmas.room.santaSpeakFiveSecondsText:Nhanh tay đắp Người Tuyết nhận thưởng!
 christmas.Icon.NoEnter:Lv10 mới được vào phó bản!
 christmas.room.packs.isFull:Quà Noel Bất Ngờ đã hết, mai hãy đến nhận sớm!
-shop.PresentFrame.CancelBtnText:Hủy
+shop.PresentFrame.CancelBtnText:Cancelar
 petBag.view.titleText:Hệ thống thú cưng - GunHoiUc.Com!
 assets.petsBag.petbagTextLG:Bấm >> hoặc << để hiện trang bị, thức ăn
-tank.view.bagII.changeSexAlert:Bạn muốn chuyển giới? Chuyển xong sẽ hủy quan hệ vợ chồng
-tank.view.bagII.changeSexAlert.success:Chuyển giới thành công, hãy đăng nhập lại
-tank.view.bagII.changeSexAlert.failed:Chuyển giới thất bại
+tank.view.bagII.changeSexAlert:Deseja trocar de sexo? A troca cancela o casamento
+tank.view.bagII.changeSexAlert.success:Troca de sexo concluída, entre novamente
+tank.view.bagII.changeSexAlert.failed:Falha na troca de sexo
 tank.hotSpring.continu:Thêm 30 phút tắm suối sẽ cần 1299 xu, quyết định gia hạn?
 newTitleView.currentTitleTxt:Chọn trúng \ndanh hiệu 
 newTitleView.hasTitleTxt:Cá nhân \ncó
@@ -3415,8 +3415,8 @@ newTitleView.useTitleSuccessTxt: Dùng {0} thành công
 newTitleView.hideBtnTipTxt: Ẩn danh hiệu, danh hiệu sẽ không hiển thị ra nhưng thuộc tính vẫn có hiệu lực. 
 newTitleView.hasnoTitleTxt: Chưa có
 newTitleView.selectTitleTxt: Chọn 1 danh hiệu đang có 
-ddt.bag.item.openBatch.titleStr:Mở nhanh
-ddt.bag.item.openBatch.promptStr:Nhập số lượng cần mở
+ddt.bag.item.openBatch.titleStr:Abrir rápido
+ddt.bag.item.openBatch.promptStr:Digite a quantidade a abrir
 wonderfulactivity.accumulativelogin.txt:Đăng nhập 7 ngày mới được chọn thần khí
 wonderfulactivity.accumulativelogin.txt2:Hãy chọn 1 thần khí
 wonderfulActivityManager.btnTxt15:Đăng nhập tích lũy
@@ -3428,39 +3428,39 @@ tank.dungeon.battleNum:LC đề cử:{0}
 tank.dungeon.noFightPower:LC đề cử: Không
 ddt.dungeonRoom.fightRange:LC đề cử:
 tank.dungeon.noFightPower1:Không
-ddt.consortia.title:Guild chiến
-ddt.consortia.norank:Không có hạng
-ddt.consortiaBattle.inTimerView.promptTxt:Còn 
-ddt.consortiaBattle.powerFullBtn.tipTxt:Sử dụng chiến đấu kích nộ có thể tăng 30 điểm nộ khí trong lượt đầu
-ddt.consortiaBattle.doubleScoreBtn.tipTxt:Mua nhân đôi điểm tích lũy sẽ nhận được điểm tích lũy gấp đôi trong tranh bá Guild
-ddt.consortiaBattle.hideTip.sameTxt:Ẩn cùng Guild
-ddt.consortiaBattle.hideTip.tombTxt:Ẩn bia mộ
-ddt.consortiaBattle.hideTip.fightingTxt:Ẩn đang giao chiến
-ddt.consortiaBattle.scoreView.selfScoreTxt:Điểm: 
+ddt.consortia.title:Guerra de guildas
+ddt.consortia.norank:Sem classificação
+ddt.consortiaBattle.inTimerView.promptTxt:Restam  
+ddt.consortiaBattle.powerFullBtn.tipTxt:Usar Fúria de combate aumenta 30 de fúria no primeiro turno
+ddt.consortiaBattle.doubleScoreBtn.tipTxt:Comprar pontos em dobro rende o dobro de pontos na Disputa da Guilda
+ddt.consortiaBattle.hideTip.sameTxt:Ocultar da mesma guilda
+ddt.consortiaBattle.hideTip.tombTxt:Ocultar lápides
+ddt.consortiaBattle.hideTip.fightingTxt:Ocultar quem está lutando
+ddt.consortiaBattle.scoreView.selfScoreTxt:Pontos:  
 ddt.game.consortiaBattle.txt:Combate de guilda
-ddt.consortiaBattle.chatPrompt.threeWinningStreakTxt:{0} dễ dàng đánh bại đối thủ, thắng liền 3 trận!
-ddt.consortiaBattle.chatPrompt.sixWinningStreakTxt:{0} bách phát bách trúng, thắng liền 6 trận!
-ddt.consortiaBattle.chatPrompt.tenWinningStreakTxt:{0} càng đánh càng hăng, thắng liền 10 trận!
-ddt.consortiaBattle.chatPrompt.terminatorTxt:{0} quá dữ, kết thúc {1}-{2} liên thắng!
-ddt.consortiaBattle.buyPowerFull.promptTxt:Tốn 30 Xu mua kích nộ?
-ddt.consortiaBattle.buyDoubleScore.promptTxt:Tốn 300 Xu mua x2 tích lũy?
-ddt.consortiaBattle.buyResurrect.promptTxt:Hồi sinh ngay cần tốn 10 Xu, xác nhận hồi sinh ngay
-ddt.consortiaBattle.buyResurrect.promptTxtCampBattle:Hồi sinh ngay cần tốn 50 Xu, xác nhận hồi sinh ngay
-ddt.consortiaBattle.buyConfirm.noAlertTxt:Không nhắc nữa
-ddt.consortiaBattle.buy.noEnoughMoneyTxt:Xu không đủ 
-ddt.consortiaBattle.buy.noEnoughBindMoneyTxt:Không đủ xu khóa
-ddt.consortiaBattle.openPromptTxt:Tranh Bá Guild đã bắt đầu, các dũng sĩ hãy tiến lên!
-ddt.consortiaBattle.closePromptTxt:Hoạt động Tranh Bá Guild đã kết thúc!
-ddt.consortiaBattle.leavePromptTxt:Rời khỏi Đấu trường sẽ hủy ghi nhớ liên thắng, xác nhận quay về?
-ddt.consortiaBattle.cannotEnterTxt:Guild của bạn tuần này không có tư cách tham chiến, xin tiếp tục cố gắng!
-ddt.consortiaBattle.cannotEnterTxt2:Chưa gia nhập Guild
-ddt.consortiaBattle.loadResError:Lỗi dữ liệu nguồn, xin vào lại, đổi kênh, hoặc khiếu nại GM
-ddt.consortiaBattle.buyStayResurrect.promptTxt:Hồi sinh tại chỗ tốn 80 Xu, đồng ý?
-ddt.consortiaBattle.justWinProtectTxt:Người chơi vẫn chưa thoát chiến đấu, vui lòng đợi
-ddt.consortiaBattle.autoBuyPowerFullBtnTipTxt:Sau khi chọn sẽ tự mua kích nộ
-ddt.consortiaBattle.autoBuyPowerFullTipTxt:Xác nhận mở tự mua kích nộ?
-ddt.consortiaBattle.autoBuyPowerFullNoEnoughMoney:Không đủ Xu, Xu Khóa!
-ddt.consortiaBattle.changeMoneyCostTxt:Không đủ Xu Khóa, xác nhận dùng Xu?
+ddt.consortiaBattle.chatPrompt.threeWinningStreakTxt:{0} derrotou o adversário com facilidade e venceu 3 seguidas!
+ddt.consortiaBattle.chatPrompt.sixWinningStreakTxt:{0} acertou em cheio e venceu 6 seguidas!
+ddt.consortiaBattle.chatPrompt.tenWinningStreakTxt:{0} só esquenta e venceu 10 seguidas!
+ddt.consortiaBattle.chatPrompt.terminatorTxt:{0} foi demais e encerrou a sequência {1}-{2}!
+ddt.consortiaBattle.buyPowerFull.promptTxt:Gastar 30 cupons para comprar Fúria?
+ddt.consortiaBattle.buyDoubleScore.promptTxt:Gastar 300 cupons para comprar x2 de pontos?
+ddt.consortiaBattle.buyResurrect.promptTxt:Reviver agora custa 10 cupons; confirmar o reviver imediato
+ddt.consortiaBattle.buyResurrect.promptTxtCampBattle:Reviver agora custa 50 cupons; confirmar o reviver imediato
+ddt.consortiaBattle.buyConfirm.noAlertTxt:Não avisar de novo
+ddt.consortiaBattle.buy.noEnoughMoneyTxt:Cupons insuficientes  
+ddt.consortiaBattle.buy.noEnoughBindMoneyTxt:Cupons vinculados insuficientes
+ddt.consortiaBattle.openPromptTxt:A Disputa da Guilda começou; guerreiros, avante!
+ddt.consortiaBattle.closePromptTxt:A Disputa da Guilda terminou!
+ddt.consortiaBattle.leavePromptTxt:Sair da arena apaga a sequência de vitórias. Confirmar o retorno?
+ddt.consortiaBattle.cannotEnterTxt:Sua guilda não se classificou nesta semana; continue tentando!
+ddt.consortiaBattle.cannotEnterTxt2:Ainda não entrou em uma guilda
+ddt.consortiaBattle.loadResError:Erro nos dados de origem; entre de novo, troque de canal ou fale com o GM
+ddt.consortiaBattle.buyStayResurrect.promptTxt:Reviver no local custa 80 cupons. Concorda?
+ddt.consortiaBattle.justWinProtectTxt:O jogador ainda não saiu do combate; aguarde
+ddt.consortiaBattle.autoBuyPowerFullBtnTipTxt:Se marcado, compra Fúria automaticamente
+ddt.consortiaBattle.autoBuyPowerFullTipTxt:Confirmar a compra automática de Fúria?
+ddt.consortiaBattle.autoBuyPowerFullNoEnoughMoney:Cupom e cupom vinculado insuficientes!
+ddt.consortiaBattle.changeMoneyCostTxt:Cupom vinculado insuficiente; confirmar o uso de cupom?
 ddt.game.consBat.losingStreakBuffTip:Ataque e agilidade +{0}% nos atributos básicos
 ddt.TaskManager.questFinish.TooQuickly:Nhanh quaaaaa!
 
@@ -3526,5 +3526,5 @@ avatarCollection.delayConfirmFrame.promptTxt:Gia hạn cần tốn <FONT COLOR='
 avatarCollection.delayConfirmFrame.noEnoughHonor:Vinh dự không đủ
 avatarCollection.doActive.donnotHas:Hiện chưa nhận trang phục này
 avatarCollection.buyConfirm.tipTxt:Dùng {0} Xu mua hình kích hoạt và trang phục?
-shop.buyAvatarFail:Vật phẩm không thể mua bằng phím tắt
+shop.buyAvatarFail:Item não pode ser comprado pelo atalho
 ddt.league.restCountTipTxt:Chiến Thần còn: {0}/{1}
