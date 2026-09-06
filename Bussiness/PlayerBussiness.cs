@@ -4404,7 +4404,7 @@ namespace Bussiness
                 {
                     case 4:
                     case 5:
-                        msg = LanguageMgr.GetTranslation(" tên nhân vật đã tồn tại.");
+                        msg = LanguageMgr.GetTranslation("Player.NickExists");
                         break;
                 }
             }

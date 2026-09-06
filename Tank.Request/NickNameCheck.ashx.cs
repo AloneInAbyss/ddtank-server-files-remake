@@ -32,7 +32,7 @@ namespace Tank.Request
             bool value = false;
             //string message = "Name is Exist!";
             //string message = LanguageMgr.GetTranslation("Tank.Request.NickNameCheck.Exist");
-            string message = LanguageMgr.GetTranslation(" Tên người chơi đã tồn tại");
+            string message = LanguageMgr.GetTranslation("NickNameCheck.Exists");
             XElement result = new XElement("Result");
 
             try

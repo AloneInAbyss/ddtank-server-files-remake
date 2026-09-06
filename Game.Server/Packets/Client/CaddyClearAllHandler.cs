@@ -34,11 +34,11 @@ namespace Game.Server.Packets.Client
 			}
 			if (num2 > 0)
 			{
-				str = LanguageMgr.GetTranslation("Bạn nhận được {0} vàng", num2);
+				str = LanguageMgr.GetTranslation("CaddyClearAll.Gold", num2);
 			}
 			if (num3 > 0)
 			{
-				str2 = LanguageMgr.GetTranslation("Bạn nhận được {0} lễ kim", num3);
+				str2 = LanguageMgr.GetTranslation("CaddyClearAll.Gift", num3);
 			}
 			client.Player.BeginChanges();
 			client.Player.AddGold(num2);

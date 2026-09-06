@@ -110,7 +110,7 @@ namespace Game.Server.Rooms
                         }
                         else
                         {
-                            this.m_player.Out.SendMessage(eMessageType.BIGBUGLE_NOTICE, LanguageMgr.GetTranslation("Phòng đã đầy!"));
+                            this.m_player.Out.SendMessage(eMessageType.BIGBUGLE_NOTICE, LanguageMgr.GetTranslation("Room.Full"));
                             this.m_player.Out.SendRoomLoginResult(false);
                             return;
                         }

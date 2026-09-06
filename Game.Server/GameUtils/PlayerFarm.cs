@@ -173,7 +173,7 @@ namespace Game.Server.GameUtils
 				if (num3 > 0)
 				{
 					string content = $"Kết thúc trợ thủ, bạn nhận được {num3} {itemInfo.Template.Name}";
-					string translation = LanguageMgr.GetTranslation("Kết thúc trợ thủ, nhận được thức ăn thú cưng!");
+					string translation = LanguageMgr.GetTranslation("Farm.HelperEndFood");
 					m_player.SendItemToMail(itemInfo, content, translation, eMailType.ItemOverdue);
 					m_player.Out.SendMailResponse(m_player.PlayerCharacter.ID, eMailRespose.Receiver);
 				}
@@ -251,7 +251,7 @@ namespace Game.Server.GameUtils
 			m_player.Out.SendtoGather(m_player.PlayerCharacter, m_otherFields[fieldId]);
 			if (list.Count > 0)
 			{
-				string translation = LanguageMgr.GetTranslation("Túi đầy");
+				string translation = LanguageMgr.GetTranslation("Farm.BagFull");
 				m_player.SendItemsToMail(list, translation, translation, eMailType.ItemOverdue);
 				m_player.Out.SendMailResponse(m_player.PlayerCharacter.ID, eMailRespose.Receiver);
 			}
@@ -390,7 +390,7 @@ namespace Game.Server.GameUtils
 				m_player.OnCropPrimaryEvent();
 				if (list.Count > 0)
 				{
-					string translation = LanguageMgr.GetTranslation("Túi đầy");
+					string translation = LanguageMgr.GetTranslation("Farm.BagFull");
 					m_player.SendItemsToMail(list, translation, translation, eMailType.ItemOverdue);
 					m_player.Out.SendMailResponse(m_player.PlayerCharacter.ID, eMailRespose.Receiver);
 				}

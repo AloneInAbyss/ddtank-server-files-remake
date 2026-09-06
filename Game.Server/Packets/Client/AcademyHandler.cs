@@ -121,7 +121,7 @@ namespace Game.Server.Packets.Client
 						}
 						else
 						{
-							client.Player.SendMessage(LanguageMgr.GetTranslation("Thâ\u0323t tiê\u0301c, đô\u0301i phương đa\u0303 la\u0300 bâ\u0323c thâ\u0300y ha\u0303y thư\u0309 la\u0323i va\u0300o lâ\u0300n sau!"));
+							client.Player.SendMessage(LanguageMgr.GetTranslation("Academy.AlreadyMaster"));
 						}
 					}
 					else

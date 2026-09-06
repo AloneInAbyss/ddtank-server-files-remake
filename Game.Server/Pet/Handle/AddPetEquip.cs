@@ -35,12 +35,12 @@ namespace Game.Server.Pet.Handle
 					inventory.TakeOutItem(itemAt);
 					Player.PetBag.OnChangedPetEquip(place);
 					Player.PetBag.SaveToDatabase(false);
-					Player.SendMessage(LanguageMgr.GetTranslation("Trang bị vật phẩm PET thành công!"));
+					Player.SendMessage(LanguageMgr.GetTranslation("Pet.Equip.Success"));
 
 				}
 				else
 				{
-					Player.SendMessage(LanguageMgr.GetTranslation("Đã có lỗi sảy ra vui lòng liên hệ BQT!"));
+					Player.SendMessage(LanguageMgr.GetTranslation("Pet.Equip.Error"));
 				}
 			}
 			else

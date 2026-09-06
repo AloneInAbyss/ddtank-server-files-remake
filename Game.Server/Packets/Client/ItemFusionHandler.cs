@@ -39,7 +39,7 @@ namespace Game.Server.Packets.Client
 
             if (Items.Count >= 4 && (Items[0].TemplateID != Items[1].TemplateID || Items[0].TemplateID != Items[2].TemplateID || Items[0].TemplateID != Items[3].TemplateID))
             {
-                client.Out.SendMessage(eMessageType.ERROR, LanguageMgr.GetTranslation("Tồn tại vật phẩm không cùng loại!"));
+                client.Out.SendMessage(eMessageType.ERROR, LanguageMgr.GetTranslation("ItemFusion.NotSameType"));
                 return 0;
             }
 

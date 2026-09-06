@@ -120,7 +120,7 @@ Como o pack é 3.6 e o cliente é 4.1, **item muito novo do 4.1 pode não ter de
 | Item na loja / de graça | SQL (shop, templates) | Fácil / média |
 | Arma com outro dano | SQL do template | Média |
 | Arma com visual novo | SQL + arquivo em `resource\image\equip\...` | Média (se o path existir) |
-| Traduzir para PT | XML / `language.txt` do Flash + `Language-vn.txt` do servidor | Média (trabalho, não mistério) |
+| Traduzir para PT | Ver [`DOCUMENTACAO-TRADUCAO.md`](DOCUMENTACAO-TRADUCAO.md) (`language.txt`, `Language-*.txt`, SQL) | Média (trabalho, não mistério) |
 | Evento / drop especial | SQL + às vezes C# | Média |
 | Física do tiro diferente | `Game.Logic` | Difícil |
 | Tela/loja totalmente outra | Recompilar Flash | Difícil + ferramenta extra |

@@ -8,6 +8,8 @@
 
 **O que foi instalado neste PC, o boot até o lobby (5/set/2026) e como desfazer:** [`DOCUMENTACAO-AMBIENTE-LOCAL.md`](DOCUMENTACAO-AMBIENTE-LOCAL.md).
 
+**Tradução pt-BR (camadas, glossário, lotes):** [`DOCUMENTACAO-TRADUCAO.md`](DOCUMENTACAO-TRADUCAO.md).
+
 Este documento explica, do zero, o que é este repositório, como um servidor de DDTank funciona, o que já existe aqui e o que ainda falta para o jogo realmente abrir.
 
 Você **não precisa saber programar** para entender o texto. Quando um termo técnico aparecer, ele é explicado na hora.
@@ -598,9 +600,9 @@ Isso **não** é um servidor “oficial 4.1 lacrado”. É um fork comunitário 
 | **Tank.Flash** | Site que abre o SWF. |
 | **Consortia** | Guilda. |
 | **GP** | Experiência / “Gong Po”. |
-| **Money / Xu** | Moeda premium. |
-| **Gold** | Moeda básica. |
-| **Gift / GiftToken** | Cupom / vale. |
+| **Money / Xu** | Moeda premium. Na UI pt-BR: **Cupom**. |
+| **Gold** | Moeda básica. Na UI pt-BR: **Ouro**. |
+| **Gift / GiftToken** | Vale de missão/evento. Na UI pt-BR: **Presente**. Detalhe em [`DOCUMENTACAO-TRADUCAO.md`](DOCUMENTACAO-TRADUCAO.md). |
 | **Strengthen** | Fortalecer equipamento. |
 | **Fusion / Compose** | Fundir / compor itens. |
 | **PVE** | Missão contra NPCs. |
@@ -657,7 +659,7 @@ Neste PC o **boot local já passou** (SQL restaurado, IIS, Center/Fighting/Road,
 
 Se o objetivo é **estudar** a arquitetura, o mapa Center + Road + Fighting + Request + Flash continua o padrão da comunidade.
 
-Se o objetivo é **produção + pt-BR**, o próximo trabalho não é “escrever servidor”: é segurança mínima, um combate de verdade, depois inventário de tradução. Ordem em [`DOCUMENTACAO-AMBIENTE-LOCAL.md`](DOCUMENTACAO-AMBIENTE-LOCAL.md) §10 e no [`AGENTS.md`](AGENTS.md) §9.
+Se o objetivo é **produção + pt-BR**, o próximo trabalho não é “escrever servidor”: é segurança mínima, um combate de verdade, depois tradução. Ordem em [`DOCUMENTACAO-AMBIENTE-LOCAL.md`](DOCUMENTACAO-AMBIENTE-LOCAL.md) §10, [`DOCUMENTACAO-TRADUCAO.md`](DOCUMENTACAO-TRADUCAO.md) e no [`AGENTS.md`](AGENTS.md) §9.
 
 ---
 

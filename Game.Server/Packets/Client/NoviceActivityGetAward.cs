@@ -79,11 +79,11 @@ namespace Game.Server.Packets.Client
                     if (eventRewardInfo.Condition <= info2.Conditions)
                     {
                         client.Player.Extra.UpdateEventCondition(ActivityType, eventRewardInfo.Condition, isPlus, awardGot);
-                        client.Player.SendItemsToMail(list, $"Đây là thư tự động từ phần thưởng Quà Mở Máy Chủ, người chơi vui lòng không reply.", LanguageMgr.GetTranslation("Quà Mở Máy Chủ"), eMailType.Manage);
+                        client.Player.SendItemsToMail(list, LanguageMgr.GetTranslation("NoviceActivity.OpenServerMailBody"), LanguageMgr.GetTranslation("NoviceActivity.OpenServerGift"), eMailType.Manage);
                     }
                     else
                     {
-                        client.Player.SendMessage("Điều kiện không đủ! thao tác thất bại.");
+                        client.Player.SendMessage(LanguageMgr.GetTranslation("NoviceActivity.ConditionFail"));
                     }
                 }
             }

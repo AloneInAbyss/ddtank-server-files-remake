@@ -13,6 +13,7 @@ Documentação humana (não reescrever o que já está aqui):
 | [`DOCUMENTACAO-MODIFICACOES.md`](DOCUMENTACAO-MODIFICACOES.md) | Onde cada tipo de mudança mora |
 | [`DOCUMENTACAO-RESOURCE.md`](DOCUMENTACAO-RESOURCE.md) | Pacote gráfico `resource/` |
 | [`DOCUMENTACAO-LAUNCHER.md`](DOCUMENTACAO-LAUNCHER.md) | Launcher (referência; não copiar CDN de terceiros) |
+| [`DOCUMENTACAO-TRADUCAO.md`](DOCUMENTACAO-TRADUCAO.md) | Locale pt-BR: camadas, glossário, formato, lotes |
 
 ---
 
@@ -66,74 +67,15 @@ Visual Studio **não é obrigatório**. Compile servidores com MSBuild / Build T
 
 ---
 
-## 4. Traduções (objetivo de origem)
+## 4. Traduções
 
-O jogador vê texto em **várias camadas**. Traduzir só um arquivo deixa o jogo misto (vietnamita + chinês + inglês quebrado). Sempre identifique a camada antes de editar.
+Detalhe (camadas, glossário, formato, lotes): [`DOCUMENTACAO-TRADUCAO.md`](DOCUMENTACAO-TRADUCAO.md). Leia **antes** de editar idioma.
 
-### 4.1 Camadas
-
-| # | O que o jogador vê | Onde está | Precisa recompilar? |
-|---|-------------------|-----------|---------------------|
-| 1 | UI, diálogos, dicas do cliente | `Source Flash\FlashSV1\ui\vietnam\language.txt` | **Não.** O Flash baixa em runtime (`PathManager` → `ui/{LANGUAGE}/language.txt`). `config.xml` tem `<LANGUAGE value="vietnam"/>`. |
-| 2 | Mensagens do servidor (erro, guilda, mail, combate) | `Languages\Language-vn.txt` em cada serviço (`Road`, `Fighting`, `Center`, `Tank.Request`, `Tank.Flash`, `GameAdmin`) | Não. `LanguageMgr` relê o arquivo. |
-| 3 | Avisos / notice | `Languages\SystemNotice.xml` (Center) | Não |
-| 4 | Nomes de item, set, quest, NPC | SQL + XML gerado pelo Request (ex.: `clothpropertytemplateinfo_out.xml`) | Não (SQL/XML) |
-| 5 | HTML de login/registro | `Tank.Flash` (`index.htm` etc.) | Não |
-| 6 | String **hardcoded** no C# | `LanguageMgr.GetTranslation("texto việt...")` — se a chave não existe, o fallback **é o próprio texto** | Sim, se extrair para chave |
-| 7 | Texto desenhado dentro do SWF | bitmap / componente compilado | Sim (Flash) — evite; só se 1–6 não cobrirem |
-
-Hoje os `Language-vn.txt` **só existem em `bin\`**. Trate isso como dívida: a fonte de verdade deve viver no source (ex. `Languages\` na raiz ou pasta do serviço, copiada no build). Não edite só um `bin\` e esqueça os outros.
-
-### 4.2 Formato dos arquivos `key:value`
-
-`Bussiness\LanguageMgr.cs` e o cliente Flash usam o **primeiro `:`** da linha como separador.
-
-```
-# comentário
-ConsortiaInvitePassHandler.Success:Convite aceito.
-OpenUpArkHandler.RingScore:Você recebeu {0} afinidade
-```
-
-Regras obrigatórias:
-
-- **Não traduza a chave.** Só o valor à direita do primeiro `:`.
-- Preserve `{0}`, `{1}`, HTML (`<font>`, `<b>`) e pontuação usada pelo `string.Format`.
-- Não introduza `{` / `}` extras no texto pt-BR.
-- Encoding **UTF-8**. Não salve como ANSI.
-- Linha sem `:` é ignorada. Não “ajude” juntando linhas.
-- Se `GetTranslation` não achar a chave, o jogador vê a **chave crua**. Toda string nova no C# precisa de entrada no arquivo de idioma.
-- Proibido passar frase humana como chave (`GetTranslation("Không tìm thấy pet!")`). Extraia para `Pet.Adopt.NotFound` e coloque a tradução no arquivo.
-- Não faça tradução automática em massa sem glossário. Qualidade > cobertura.
-- Termos de jogo: mantenha consistência (veja §4.3). Em dúvida, pergunte.
-
-### 4.3 Glossário mínimo (pt-BR)
-
-Use estes termos até o usuário definir outro. Não misture.
-
-| Original comum | pt-BR |
-|----------------|--------|
-| Xu / money | Xu |
-| Lễ kim / gift / ddtMoney | Gift |
-| Vàng / gold | Ouro |
-| Công hội / Consortia | Guilda |
-| Huân chương / medal | Medalha |
-| Lễ / church | Igreja |
-| Suối nước nóng / Spa | Fonte termal |
-| Pet | Pet |
-| GP / exp de luta | GP |
-| Ready | Pronto |
-
-Nomes próprios de mapa, set e arma: traduzir só se houver nome estável e reconhecível; senão transliterar ou manter e anotar.
-
-### 4.4 Como trabalhar tradução
-
-1. Inventariar a camada (não traduzir “o jogo inteiro” num PR só).
-2. Copiar o arquivo de origem para `Language-pt-BR.txt` / `ui/pt-BR/language.txt` — **não apagar o vietnamita** até o locale novo estar ligado e testado.
-3. Traduzir por domínio (login, inventário, combate, guilda…).
-4. Ligar o locale (`LanguagePath` nos configs; `<LANGUAGE>` no `config.xml`).
-5. Conferir placeholders e uma tela real (ou o XML/log), não só o arquivo.
-
-Cliente Flash: criar `FlashSV1\ui\pt-BR\language.txt` e apontar `<LANGUAGE value="pt-BR"/>` é preferível a sobrescrever `ui\vietnam\`.
+- Identifique a camada. Não misture SQL de item com `language.txt` no mesmo PR.
+- Não traduza a chave. UTF-8. Preserve `{n}` e HTML.
+- Termos de jogo: só os do doc de tradução (Cupom ≠ Presente ≠ Ouro). Em dúvida, pergunte e anote **lá**.
+- Não apague o vietnamita até o pt-BR estar ligado e testado.
+- Sem tradução automática em massa. Proibido `GetTranslation("frase việt")`. Não reescrever `LanguageMgr`.
 
 ---
 
@@ -196,7 +138,7 @@ Não pule segurança para “já traduzir tudo”. Dá para paralelizar **depois
 
 1. Boot local alinhado (`GUIA-SUBIR-SERVIDOR.md`): SQL, configs, IIS, Center → Fighting → Road, Flash.
 2. Segurança mínima: senha real, keys iguais, configs sem senha do autor.
-3. Inventário de tradução (contagem por camada) + glossário.
+3. Tradução: inventário e locale conforme [`DOCUMENTACAO-TRADUCAO.md`](DOCUMENTACAO-TRADUCAO.md).
 4. Locale pt-BR nos arquivos de idioma do cliente e do servidor.
 5. Extração das strings hardcoded no C#.
 6. Nomes de item/quest no SQL (maior volume; fazer por lote).

@@ -14,7 +14,7 @@ namespace Game.Server.Farm.Handle
         {
 			if (player.PlayerCharacter.Grade < 25)
 			{
-				player.SendMessage(LanguageMgr.GetTranslation("Bạn chưa đạt cấp độ 25 không thể vào Nông Trại!"));
+				player.SendMessage(LanguageMgr.GetTranslation("Farm.NeedLevel25"));
 				return false;
 			}
 			int num = pkg.ReadInt();

@@ -18,5 +18,5 @@ GetTranslation("Không tìm thấy pet!")
 - Preserve `{0}`, `{1}` e HTML. Não quebre `string.Format`.
 - Flash carrega `ui/{LANGUAGE}/language.txt` em runtime. Prefira `ui/pt-BR/` + `<LANGUAGE value="pt-BR"/>` em `FlashSV1/config.xml` em vez de apagar `ui/vietnam/`.
 - `Language-vn.txt` hoje só está em `bin\`. Edite/crie fonte versionada e replique em Road, Fighting, Center, Request, Flash, GameAdmin.
-- Sem tradução automática em massa. Glossário em `AGENTS.md` §4.3.
+- Sem tradução automática em massa. Glossário e camadas: `DOCUMENTACAO-TRADUCAO.md`.
 - Camada SQL (nome de item/quest) é outra frente — não misture no mesmo arquivo.

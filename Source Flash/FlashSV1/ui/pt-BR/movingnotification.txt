@@ -1,0 +1,49 @@
+O Leilão é o lugar para negociar equipamentos desvinculados, usando correio
+ pago para as transações.
+Alguns itens são comprados com cupom; use Recarregar para adicionar saldo.
+Cupons também podem ser doados à guilda, aumentando a taxa da oficina da guilda.
+No combate, pressione T para deixar a barra de ferramentas transparente.
+Para encontrar um oponente do seu nível, a espera pode ser longa. Pedimos paciência.
+Se cair em um lugar ruim, use F para voar até uma nova posição.
+A partir do nível 12, com 100000 de ouro, você pode criar sua própria Guilda.
+O jogador pode pedir para entrar na guilda desejada pela lista de guildas.
+Uma pessoa pode enviar pedido para várias guildas ao mesmo tempo.
+Para mudar o nome da guilda já criada, compre o cartão de troca de nome na loja.
+Após a troca, o novo nome vale por 24h.
+Entre nas Missões para enfrentar o boss e, ao vencer,
+ receber recompensas.
+A barra de espaço ajusta a força do tiro. Quanto mais tempo segurar, mais forte; solte
+ para atirar mais longe.
+As teclas ↑↓ ajustam o ângulo do tiro conforme a situação.
+As teclas ←→ movem o personagem; mova-se para achar o melhor ângulo.
+Por segurança, não compartilhe sua conta com outras pessoas.
+Não faça transações offline e configure a senha de nível 2.
+Pela sua saúde, não jogue por tempo demais.
+Recomendamos descansar um pouco a cada 1h.
+Fortalecer equipamentos e armas de níveis diferentes tem taxas de sucesso diferentes.
+Prepare o amuleto mágico e o amuleto da sorte.
+Para facilitar fundir e fortalecer, a oficina tem compra rápida de amuleto
+ mágico e da sorte.
+Para um ambiente saudável, não use programas de hack. Contas
+ que violarem as regras serão bloqueadas.
+Contas ilegais serão bloqueadas.
+Você pode usar a função de lembrar para salvar o endereço de login, bem
+ prático para a próxima vez.
+Se o jogo carregar lento, ajuste as configurações.
+Se o jogo carregar lento, desligue os efeitos especiais.
+Se depois do ajuste ainda estiver lento, fale com o atendimento.
+Há muitas missões; quanto maior o nível, mais ricas as recompensas.
+Escolha missões adequadas ao seu nível para subir mais rápido.
+Na loja, clique no item para experimentar; pode salvar para comprar depois.
+Na loja você pode comprar o item que quiser. Atenção ao prazo do item.
+Sair do jogo de forma abrupta reduz o Mérito.
+Saída abrupta inclui: forçar saída, fechar o navegador, cair a rede.
+Combate em equipe rende mais GP que o combate individual.
+Cartas do GM têm marca própria; ao receber correio do sistema, fique atento.
+Escolha o modo entre servidores para enfrentar oponentes do seu nível.
+Você pode relaxar na Fonte termal e ainda ganhar experiência.
+Luvas, anéis e pedras de fortalecer têm nível máximo 5. Não dá para subir mais.
+Se encontrar erro do sistema ou outro problema, use o feedback
+ do jogo para enviar sua opinião.
+Com sua opinião, vamos atualizar e resolver o mais
+ rápido possível.

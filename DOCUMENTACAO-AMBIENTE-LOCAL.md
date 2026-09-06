@@ -226,7 +226,7 @@ O `AGENTS.md` manda **não pular segurança para traduzir tudo**. O lobby já pr
 
 1. **Endurecer o local sem quebrar o login** — `Server_List` no SQL para `127.0.0.1`; decidir o que vira fonte (ashx inline vs `dotnet build` do Request); **não** commitar connection string; anotar o `if (true)` para tirar depois.
 2. **Um combate** — achar por que o prédio da dungeon não desenha (quase certamente figurinha 4.1 ausente no resource 3.6) e entrar por Fight Lab / Ring Station / mapa que exista no pack.
-3. **Inventário de tradução** — contar chaves por camada (`language.txt` do Flash, `Language-vn.txt` dos serviços, SQL de item). Glossário já está no `AGENTS.md`. Só então locale `pt-BR` (copiar, não apagar o vietnamita).
+3. **Tradução** — camadas, glossário e lotes em [`DOCUMENTACAO-TRADUCAO.md`](DOCUMENTACAO-TRADUCAO.md). Locale `pt-BR` (copiar, não apagar o vietnamita).
 4. **Produção de verdade** (depois): senha real, keys iguais, configs sem `sa`, GameAdmin, eventos.
 
 Na próxima conversa, comece pelo item **1** ou **2** — não pelos dois ao mesmo tempo.

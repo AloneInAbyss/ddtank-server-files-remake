@@ -20,14 +20,14 @@ namespace Game.Server.Pet.Handle
             if (num2 == -1)
             {
                 player.Out.SendRefreshPet(player, petBag.GetAdoptPet(player.PlayerCharacter.VIPLevel), null, refreshBtn: false);
-                player.SendMessage(LanguageMgr.GetTranslation("Số lượng pet đã đạt giới hạn!"));
+                player.SendMessage(LanguageMgr.GetTranslation("Pet.Adopt.Limit"));
             }
             else
             {
                 if (num < 0)
                 {
                     player.Out.SendRefreshPet(player, petBag.GetAdoptPet(player.PlayerCharacter.VIPLevel), null, refreshBtn: false);
-                    player.SendMessage(LanguageMgr.GetTranslation("Không tìm thấy pet này!"));
+                    player.SendMessage(LanguageMgr.GetTranslation("Pet.Adopt.NotFound"));
                     return false;
                 }
                 UsersPetInfo adoptPetAt = petBag.GetAdoptPetAt(num);
