@@ -1,33 +1,33 @@
-﻿AlertDialog.Error:Báo lỗi
-AlertDialog.Info:Nhắc nhở
-Crazytank.ONLY_ONE_CLIENT:Cùng lúc chỉ có thể mở được một client
-CrazyTank.CLOSE_OTHER_CLIENT:Đang đóng client khác
-BaseStateCreator.LoadingTip:Đang tải khối
+AlertDialog.Error:Erro
+AlertDialog.Info:Aviso
+Crazytank.ONLY_ONE_CLIENT:Só é possível abrir um cliente por vez
+CrazyTank.CLOSE_OTHER_CLIENT:Fechando o outro cliente
+BaseStateCreator.LoadingTip:Carregando módulo
 Tank.auctionHouse.view.BaseStripView.Font:Arial Unicode MS
-ok:O K
-get:Nhận
-sure:O K
-modify:Sửa
-close:Đóng
-clear:Clear
-cancel:Hủy bỏ
-money:Xu 
-gift:Lễ kim 
-gold:Vàng
-ddtMoney:Lễ kim
-medal:Huân chương 
-alert:Cảnh cáo 
-load:Tải 
-fail:Thất bại 
-second:giây
-yes:Đúng
-no:Sai
-tips:Gợi ý
-ddt.ConnectServerError:Kết nối thất bại!
-tank.trainer.Welcome:Hi, <font color='#a4ee91'><b>{0}</b></font> Để giúp đỡ bạn nhanh chóng làm quen với game,chúng tôi đã chuẩn bị<font color='#DC801B'><b> 30s </b></font> cho giáo trình tân thủ,hoàn thành giáo trình bạn sẽ nhận được <font color='#DC801B'><b> phần thưởng không nhỏ </b></font>đó nhen!
-weekly.magazineTitle:Bản tin Gunny
+ok:OK
+get:Receber
+sure:OK
+modify:Alterar
+close:Fechar
+clear:Limpar
+cancel:Cancelar
+money:Cupom
+gift:Presente
+gold:Ouro
+ddtMoney:Presente
+medal:Medalha
+alert:Alerta
+load:Carregar
+fail:Falha
+second:segundo
+yes:Sim
+no:Não
+tips:Dica
+ddt.ConnectServerError:Falha na conexão!
+tank.trainer.Welcome:Olá, <font color='#a4ee91'><b>{0}</b></font>! Para você se acostumar rápido, preparamos <font color='#DC801B'><b>30 s</b></font> de tutorial. Ao concluir você recebe <font color='#DC801B'><b>uma boa recompensa</b></font>!
+weekly.magazineTitle:Notícias DDTank
 weekly.magazineDailyNextGetDate:Bạn đã nhận "quà mỗi ngày",lần kế tiếp sau tháng {0} ngày {1} 00
-ddt.StartupResourceLoader.Error.LoadModuleError:Tải{0} thất bại!
+ddt.StartupResourceLoader.Error.LoadModuleError:Falha ao carregar {0}!
 chat.FastReplyCustomCountLimit:Tính năng phím chat nhanh đã đạt giới hạn.
 chat.FastReplyCustomTextLengthLimit:Giới hạn cho phím nhanh phản hồi là 20 ký tự.
 chat.FastReplyDefaultStr:<Mặc định>
@@ -36,8 +36,8 @@ chat.fastRepley.Message1:Mình làm quen nha
 chat.fastRepley.Message2:Đừng xem thường mình!
 chat.fastRepley.Message3:Ready 3,2,1!
 chat.fastRepley.Message4:Úm ba la,hụt đi!
-wrongUnit:Đơn vị sai 
-ServerLinkError:Kết nối máy chủ thất bại 
+wrongUnit:Unidade inválida
+ServerLinkError:Falha na conexão com o servidor
 core.MarriedTipLatterTextHusband:Chồng của {0}
 core.MarriedTipLatterTextWife:Vợ của {0}
 tank.game.danderStripTip.pow:POW
@@ -46,7 +46,7 @@ core.crossZone.ViewGoodInfoUnable:Không thể xem khi liên server.
 tank.auctionHouse.controller.AuctionHouseListError:Tải danh sách đấu gia thất bại!
 tank.auctionHouse.view.AuctionBrowseView.sure:Bạn xác nhận mua vật phẩm này
 tank.auctionHouse.view.AuctionBrowseView.Auction:Giá mua nhỏ hơn giá khởi
-tank.auctionHouse.view.AuctionBrowseView.stipple:Xu
+tank.auctionHouse.view.AuctionBrowseView.stipple:Cupom
 tank.auctionHouse.view.AuctionBrowseView.Your:Tiền của bạn không đủ
 tank.auctionHouse.view.AuctionBrowseView.buy:Bạn xác nhận mua vật phẩm này
 tank.auctionHouse.view.AuctionBrowseView.buction:Nhập giá đấu giá
@@ -79,15 +79,15 @@ tank.auctionHouse.view.BrowseLeftMenuView.Arm:Trang bị
 tank.auctionHouse.view.BrowseLeftMenuView.Head:Trang sức
 tank.auctionHouse.view.BrowseLeftMenuView.Prop:Đạo cụ
 tank.auctionHouse.view.BrowseLeftMenuView.Weapon:Vũ khí
-choosecharacter.ChooseCharacterView.name:Tên nhân vật có từ ngữ không hợp lệ
-choosecharacter.ChooseCharacterView.space:Tên nhân vật không thể bỏ trống toàn bộ
-choosecharacter.ChooseCharacterView.string:Tên nhân vật có chứa từ cấm
-choosecharacter.ChooseCharacterView.input:Hãy nhập tên nhân vật
-tank.RenameFrame.Consortia.FailWord:Tên chứa từ cấm
-tank.RenameFrame.Consortia.space:Tên không được trống
-tank.RenameFrame.Consortia.string:Tên chứa ký tự cấm  
-tank.RenameFrame.Consortia.input:Mới nhập tên nhân vật
-choosecharacter.ChooseSexPanel:Chọn giới tính
+choosecharacter.ChooseCharacterView.name:O nome do personagem contém palavras inválidas
+choosecharacter.ChooseCharacterView.space:O nome do personagem não pode ficar em branco
+choosecharacter.ChooseCharacterView.string:O nome do personagem contém palavra proibida
+choosecharacter.ChooseCharacterView.input:Digite o nome do personagem
+tank.RenameFrame.Consortia.FailWord:O nome contém palavra proibida
+tank.RenameFrame.Consortia.space:O nome não pode ficar vazio
+tank.RenameFrame.Consortia.string:O nome contém caracteres proibidos
+tank.RenameFrame.Consortia.input:Digite o nome do personagem
+choosecharacter.ChooseSexPanel:Escolher sexo
 tank.game.actions.ChangePlayerAction: ☎■■■■Đến lượt bạn■■■■☎,☏□□□□Đến lượt bạn
 tank.game.actions.SelfPlayerWalkAction:Thể lực không đủ
 tank.game.ArrowViewIII.fall:Đến lượt bạn mới được sử dụng
@@ -179,27 +179,27 @@ tank.roomlist.RoomListIIPassInput.write:Hãy nhập mật mã
 tank.roomlist.RoomListIIPassInput.write1:Escriba la \ncontraseña 
 tank.hall.ChooseHallView.sorry:Xin lỗi, chức năng này chưa mở.
 tank.movement.MovementRightView.pass:Hãy nhập mật mã thẻ
-tank.serverlist.ServerListPosView.choose:Hãy chọn máy chủ
-tank.serverlist.ServerListPosView.low:Đẳng cấp của bạn quá thấp, không thể
-tank.serverlist.ServerListPosView.full:Máy chủ đã đầy, Hãy chọn máy chủ kh
-tank.serverlist.ServerListPosView.maintenance:Máy chủ này đang được bảo tr
-tank.serverlist.ServerListPosView.close:Đóng
-tank.serverlist.ServerListView.login:Đăng nhập vào máy chủ thất bại
-shop.ShopIIBtnPanel.yellow:Vàng và Xu của bạn không đủ
-shop.ShopIIBtnPanel.stipple:Tiền Xu không đủ
-shop.ShopIIBtnPanel.gold:Tiền vàng không đủ
+tank.serverlist.ServerListPosView.choose:Escolha um servidor
+tank.serverlist.ServerListPosView.low:Seu nível é baixo demais para este servidor
+tank.serverlist.ServerListPosView.full:Servidor lotado. Escolha outro
+tank.serverlist.ServerListPosView.maintenance:Este servidor está em manutenção
+tank.serverlist.ServerListPosView.close:Fechar
+tank.serverlist.ServerListView.login:Falha ao entrar no servidor
+shop.ShopIIBtnPanel.yellow:Você não tem ouro e cupons suficientes
+shop.ShopIIBtnPanel.stipple:Cupons insuficientes
+shop.ShopIIBtnPanel.gold:Ouro insuficiente
 shop.ShopIIBtnPanel.buy:Xác nhận mua không?
 shop.ShopIIModel.car:Giỏ hàng của bạn đã đầy
 shop.Shop.car:Giỏ hàng
 shop.ShopIIPresentView.give:Hãy thiết lập đối tượng tặng quà
 shop.ShopIIPresentView.space:Đối tượng được tặng quà không thể để trống.
 shop.ShopIISaveFigurePanel.point:Điểm
-shop.ShopIIShoppingCarItem.stipple:Tiền xu
+shop.ShopIIShoppingCarItem.stipple:Cupom
 shop.ShopIIShoppingCarItem.day:Ngày
 shop.ShopIIShoppingCarItem.piece:Món
 shop.ShopIIShoppingCarItem.free:Miễn phí
-shop.ShopIIShoppingCarItem.gold:Vàng
-shop.ShopIIShoppingCarItem.money:Xu
+shop.ShopIIShoppingCarItem.gold:Ouro
+shop.ShopIIShoppingCarItem.money:Cupom
 shop.ShopIIShoppingCarItem.forever:Vĩnh viễn
 store.view.fusion.AccessoryDragInArea.overdue:Vật phẩm này đã quá hạn
 store.view.fusion.LoadStrengthenListError:Tải danh sách cường hóa thất bại!
@@ -287,17 +287,17 @@ tank.data.EquipType.normal:Đạo cụ chức năng
 tank.data.WebSpeedInfo.good:Tốt
 tank.data.WebSpeedInfo.find:Khá
 tank.data.WebSpeedInfo.bad:Kém
-tank.manager.BallManager.bom:Thêm đạn thất bại
+tank.manager.BallManager.bom:Falha ao adicionar projétil
 tank.manager.CharTimerManager.say:Thời gian phát ngôn lại phải cách 3 giây
 tank.manager.ChatManager.tool:Không có đạo cụ thích hợp
-tank.manager.ItemManager.loader:Thêm vật phẩm thất bại
-tank.manager.MailManager.email:Mở hộp thư thất bại, hãy thử lại sau
+tank.manager.ItemManager.loader:Falha ao adicionar item
+tank.manager.MailManager.email:Falha ao abrir o correio. Tente de novo mais tarde
 tank.manager.MailManager.delete:Xóa thư thành công
 tank.manager.MailManager.false:Xóa thư thất bại
 tank.manager.MailManager.back:Trở về thư thành công
 tank.manager.MailManager.return:Trả về thư thất bại
-tank.manager.MapManager.random:Map bất kì
-tank.manager.MapManager.loader:Tải thông tin Map thất bại
+tank.manager.MapManager.random:Mapa aleatório
+tank.manager.MapManager.loader:Falha ao carregar informações do mapa
 tank.manager.PlayerManager.one:Giuld {0} đã thông qua đơn của bạn
 tank.consortia.club.CreatConsortiaFrame.titleText:Tạo Guild
 tank.manager.PlayerManager.your:Guild của bạn đã bị giải tán
@@ -307,11 +307,11 @@ tank.manager.PlayerManager.come: Mời bạn vào &lt;{0}&gt; Guild
 tank.manager.PlayerManager.sure:Xác nhận
 tank.manager.PlayerManager.refuse:Từ chối
 tank.manager.PlayerManager.forbid:Bạn đã bị cấm {0} phát ngôn
-tank.manager.RoomManager.type:Tạm thời không có lọai phòng thích hợp
-tank.manager.RoomManager.break:Xin lỗi, kết nối thất bại, hãy thử lại sau!
-tank.manager.RoomManager.false:Xin lỗi, kết nối thất bại, hãy thử lại sau!
-tank.manager.StateManager.save:Lưu văn bản, lần sau không cần tải lại
-tank.manager.TaskManager.loader:Tải danh sách nhiệm vụ thất bại. Xác nhận
+tank.manager.RoomManager.type:Não há um tipo de sala adequado no momento
+tank.manager.RoomManager.break:Desculpe, a conexão falhou. Tente de novo em instantes!
+tank.manager.RoomManager.false:Desculpe, a conexão falhou. Tente de novo em instantes!
+tank.manager.StateManager.save:Salvar arquivo; da próxima vez não precisará baixar de novo
+tank.manager.TaskManager.loader:Falha ao carregar a lista de missões. Confirme
 tank.manager.TaskManager.task:Danh sách nhiệm vụ đã đầy
 tank.request.LoadServerListAction.server:Máy chủ đang bảo trì, mời thử lại
 ddt.UseGoodsFrame.title:Mở
@@ -659,8 +659,8 @@ tank.roomlist.RoomListIICreateRoomView.contest:Phòng đấu không thể đọa
 tank.roomlist.RoomListIIFindRoomPanel.room.info:Số phòng bạn nhập không tồn tại
 tank.tofflist.view.TofflistLeftCurrentCharcter.cdr:Chủ guild
 tank.tofflist.view.TofflistLeftInfo.no:Không có guild
-Crazytank.load:Tải gói ngôn ngữ thất bại
-Crazytank.TankStartApp.login:Đăng nhập thất bại
+Crazytank.load:Falha ao carregar o pacote de idioma
+Crazytank.TankStartApp.login:Falha no login
 tank.consortia.myconsortia.frame.MyConsortiaUpgrade.titleTxt:Nâng cấp Guild
 tank.view.movement.MovementLeftView.action:Họat động
 tank.manager.PlayerManager.player:<{0}> gia nhập guild
@@ -680,14 +680,14 @@ tank.manager.PlayerManager.youDemotion:Bạn bị <{0}> hạ thành <{1}>
 tank.manager.PlayerManager.demotionSelf:Bạn bị <{0}> hạ thành <{1}>
 tank.manager.PlayerManager.demotionOther: <{0}> hạ <{1}> thành <{2}>
 tank.consortia.myconsortia.MyConsortiaAuditingApplyList.cancelLabel:Hủy
-choosecharacter.ChooseCharacterView.pass: Chúc mừng, tên sử dụng được
-choosecharacter.ChooseCharacterView.lost: Tên đã bị xóa
+choosecharacter.ChooseCharacterView.pass:Parabéns, este nome pode ser usado
+choosecharacter.ChooseCharacterView.lost:O nome foi removido
 tank.view.common.AddPricePanel.xufei1:         Vật phẩm quá hạn, mời tiếp phí
-hours:giờ
+hours:hora
 tank.consortia.club.CreatConsortiaFrame.yourGold:Vàng không đủ
 tank.game.LeftPlayerCartoonView.Name:Phím tắt bỏ lượt P 
 tank.game.LeftPlayerCartoonView.Description:Bỏ 1 lượt công kích, tích nộ khí
-tank.view.comon.lack:Xu không đủ, nạp thêm không?
+tank.view.comon.lack:Cupons insuficientes. Deseja recarregar?
 tank.view.enthrall.turnSwitch:Hệ thống 5h chơi tắt
 tank.view.enthrall.CIDInfoSetFail:Kiểm chứng thất bại
 tank.view.enthrall.CIDInfoSetSuccess:Kiểm chứng thành công
@@ -696,7 +696,7 @@ tank.view.enthrallCheckFrame.checkBtn: Bắt đầu kiểm
 tank.view.enthrallCheckFrame.checkCode:Bạn có phải là con người không?
 tank.view.enthrallCheckFrame.checkTitle:Kiểm tên thật
 tank.view.enthrallCheckFrame.checkAlert:Thông tin sai, mời nhập lại! 
-shop.ShopIIBtnPanel.lackGold: Vàng không đủ
+shop.ShopIIBtnPanel.lackGold:Ouro insuficiente
 shop.ShopIIBtnPanel.fullBagAlert: Mua thất bại, túi đã đầy
 tank.consortia.club.CreatConsortiaFrame.consortiaName:Tên Guild có từ cấm
 tank.view.changeColor.lackCard:Biến sắc mất {0} lễ kim, tiếp tục không?
@@ -740,10 +740,10 @@ BrowseLeftMenuView.wuqisp:Mảnh ghép vũ khí
 BrowseLeftMenuView.fuwuqisp:Mảnh ghép vũ khí phụ
 BrowseLeftMenuView.freakCard:Thẻ quái thú
 BrowseLeftMenuView.equipCard:Thẻ vũ khí
-choosecharacter.ChooseCharacterView.check_txt:Nhập được kí tự la tinh và số, không dài quá 14 ký tự
-choosecharacter.ChooseCharacterView.setCheckTxt:Chúc mừng! tên nhân vật có thể sử dụng.
-choosecharacter.LoadCheckName.m:Kiểm tra thất bại
-choosecharacter.LoadChooseFigure.trace:Tải thông tin trang bị
+choosecharacter.ChooseCharacterView.check_txt:Use letras e números, no máximo 14 caracteres
+choosecharacter.ChooseCharacterView.setCheckTxt:Parabéns! Este nome de personagem pode ser usado.
+choosecharacter.LoadCheckName.m:Falha na verificação
+choosecharacter.LoadChooseFigure.trace:Carregar informações do visual
 church.churchScene.frame.ModifyDiscriptionFrame.spare:Còn 
 church.churchScene.frame.PresentFrame.confirm:Thao tác này bị trừ 
 church.churchScene.menu.MenuPanel.menuClick:Hôn lễ đang tiến hành, xin chờ
@@ -828,7 +828,7 @@ tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.level:Cấp thành viên
 tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.time:Thời gian thành viên off
 tank.consortia.myconsortia.MyConsortiaView.consortiaStore:Tiệm rèn Guild
 tank.manager.ChurchRoomManager.loadingMap:Đang tải bản đồ  lễ cưới
-tank.manager.ItemManager.falseLoading:Tải thông số vật phẩm thất bại
+tank.manager.ItemManager.falseLoading:Falha ao carregar parâmetros do item
 tank.manager.ItemManager.cigaretteAsh:Pháo hoa
 tank.manager.ItemManager.gift:Quà
 tank.manager.ItemManager.Description:Pháo hoa kìa
@@ -847,7 +847,7 @@ tank.manager.PlayerManager.isApplicant:Đồng ý lời cầu hôn
 tank.manager.PlayerManager.refuseMarry:Từ chối lời cầu hôn
 tank.manager.PlayerManager.youAndOtherMarried:cùng {0} thành vợ chồng
 tank.manager.PlayerManager.divorce:Bạn đã ly hôn
-tank.manager.SocketManager.copyRight:Phiên bản
+tank.manager.SocketManager.copyRight:Versão
 tank.manager.TaskManager.ChannelListSelectView:Đã nhận nhiệm vụ mới.
 tank.view.bagII.baglocked.BagLockedGetFrame.titleText:Mở khóa
 tank.view.bagII.baglocked.BagLockedGetFrame.titleText2:Xóa mật mã cấp 2
@@ -920,9 +920,9 @@ tank.consortia.myconsortia.MyConsortiaMemberList.tipArr.getOrLost:Điểm tài s
 gongxun: công trạng
 ge:
 ConsortiaShopItem.gongXunbuzu:Công trạng không đủ
-Crazytank.share:Gửi cho bạn bè
-Crazytank.collection:Lưu giữ địa chỉ
-Crazytank.supply:Nạp xu
+Crazytank.share:Enviar para amigos
+Crazytank.collection:Salvar endereço
+Crazytank.supply:Recarregar cupons
 tank.view.common.BellowStripViewII.channel: Nhiều hơn(T)
 tank.common.fastMenu.hasnotOfficialSite:Chưa mở 1
 tank.common.fastMenu.hasnotForum:Chưa mở 2
@@ -973,7 +973,7 @@ tank.dungeon.tryagain.title:chơi thêm 1 lần
 tank.dungeon.tryagain.content:   Thách đâu cửa ải lần nữa<br><FONT COLOR='#FF0000' SIZE='13'> Nếu chọn thách đấu lại sẽ tốn 500 xu</FONT>
 tank.invite.InvitePlayerItem.levelInadequate:Đẳng cấp người chơi này và đẳng cấp phòng không phù hợp
 tank.roomlist.RoomListIIPveBGView.levelCheck:đẳng cấp của bạn và đẳng cấp phòng không phù hợp, xin chọn lại
-tank.view.common.shortcutBuyItem:mua{0}sẽ trừ {1} xu,tiếp tục không?
+tank.view.common.shortcutBuyItem:Comprar {0} custa {1} cupom(ns). Continuar?
 tank.gameover.payConfirm.title:mua 1 lần lật bài
 tank.gameover.payConfirm.contentCommon:Lần lật bài này sẽ trừ 486 xu (VIP sẽ giảm 49 xu),\nđồng ký không?
 tank.gameover.payConfirm.contentVip:VIP thân mến,lần lật bài này chỉ trừ\n 437 xu(đã giảm 49 xu),đồng ký không?
@@ -1012,12 +1012,12 @@ tank.view.equipretrieve.needsixteen:Đạt cấp 16 có thể tinh luyện vật
 tank.dialog.showbugleframe.ok:xác nhận mua
 tank.dialog.showbugleframe.bigbugletitle:mua nhanh loa lớn
 tank.dialog.showbugleframe.smallbugletitle:mua nhanh loa nhỏ
-tank.view.ReworkNameView.consortiaReworkName:Sửa tên guild
-tank.view.ReworkNameView.reworkName:sửa tên
-tank.view.ReworkNameView.okLabel:xác nhận chỉnh sửa
-tank.view.ReworkNameView.inputName:mời nhập nickname
-tank.view.ReworkNameView.consortiaInputName:Mời nhập tên mới
-tank.view.ReworkNameView.reworkNameComplete:sửa tên thành công , tên mới trong 24h có hiệu lực
+tank.view.ReworkNameView.consortiaReworkName:Alterar nome da guilda
+tank.view.ReworkNameView.reworkName:Alterar nome
+tank.view.ReworkNameView.okLabel:Confirmar alteração
+tank.view.ReworkNameView.inputName:Digite o apelido
+tank.view.ReworkNameView.consortiaInputName:Digite o novo nome
+tank.view.ReworkNameView.reworkNameComplete:Nome alterado. O novo nome vale em 24 horas
 tank.view.bagII.GoodsTipPanel.over1: vật phẩm đã hết hạn, còn {0} ngày
 tank.view.bagII.GoodsTipPanel.over2: xóa xong, mời kịp thời tiếp phí
 tank.view.bagII.GoodsTipPanel.over3: vật phẩm đã hết hạn, sẽ nhỏ hơn {0}
@@ -1096,7 +1096,7 @@ tank.auctionHouse.view.square:Châu báu phòng thủ
 tank.auctionHouse.view.auctioned:vật phẩm này đã có người tranh giá 
 tank.manager.congratulateGain:chúc mừng {0} {1} nhận được 
 tank.manager.selectDuplicate:mời chọn phó bản 
-tank.manager.loadShopItemsFailed:tải vật phẩm thất bại 
+tank.manager.loadShopItemsFailed:Falha ao carregar itens
 tank.view.bagII.baglocked.setting:Tạo mã
 tank.view.bagII.baglocked.unlock:Bỏ khóa
 tank.view.bagII.baglocked.modify:Sửa mã
@@ -1157,23 +1157,23 @@ tank.roomlist.joinDuplicateQuickly:vào nhanh phó bản
 tank.roomlist.joinBossBattleQuickly:vào nhanh đánh BOSS
 tank.roomlist.joinExploreBattleQuickly:vào nhanh mô hình thử nghiệm
 tank.roomlist.joinBattleQuickly:vào nhanh mô hình mô hình chiến đấu
-tank.loginstate.loginURLFail:liên kết thất bại
-tank.loginstate.chooseCharacter:nhân vật chọn 
-tank.loginstate.inputUserName:mời nhập tên người dùng！
-tank.loginstate.inputGuildName:mời nhập tên GUILD！
-tank.loginstate.CharacterNameNull:tên nhân vật không thể để trống！
-tank.loginstate.guildNameNull:tên GUILD không thể để trống！
-tank.loginstate.characterNameExist:tên nhân vật <{0}>đã có, mời chỉnh sửa tên nhân vật ,trước khi tên nhân vật chưa chỉnh sữa, nhân vật này không thể vào trò chơi 
-tank.loginstate.characterModify:tên nhân vật chỉnh sửa 
-tank.loginstate.inputCharacterName:mời nhập tên nhân vật！
-tank.loginstate.guildNameExist:tên GUILD<{0}>đã có, mời chỉnh sửa tên GUILD, khi tên GUILD chưa chỉnh sửa, không thể vào trò chơi 
-tank.loginstate.guildNameModify:chỉnh sửa  tên GUILD
-tank.loginstate.inputInvalidate:tên bao gồm kí tự không hợp 
-tank.loginstate.allNull:tên không thể toàn khoảng trắng 
-tank.loginstate.inputNickName:mời nhập nickname！
+tank.loginstate.loginURLFail:Falha no link
+tank.loginstate.chooseCharacter:Escolher personagem
+tank.loginstate.inputUserName:Digite o nome de usuário!
+tank.loginstate.inputGuildName:Digite o nome da guilda!
+tank.loginstate.CharacterNameNull:O nome do personagem não pode ficar vazio!
+tank.loginstate.guildNameNull:O nome da guilda não pode ficar vazio!
+tank.loginstate.characterNameExist:O nome <{0}> já existe. Altere o nome do personagem; enquanto isso ele não pode entrar no jogo
+tank.loginstate.characterModify:Alterar nome do personagem
+tank.loginstate.inputCharacterName:Digite o nome do personagem!
+tank.loginstate.guildNameExist:A guilda <{0}> já existe. Altere o nome; enquanto isso não é possível entrar no jogo
+tank.loginstate.guildNameModify:Alterar nome da guilda
+tank.loginstate.inputInvalidate:O nome contém caracteres inválidos
+tank.loginstate.allNull:O nome não pode ser só espaços
+tank.loginstate.inputNickName:Digite o apelido!
 shop.view.restore:trở lại ban đầu
-shop.view.cantPresent:lễ kim hoặc huy hiệu không thể tặng 
-shop.view.giftLack:lễ kim không đủ 
+shop.view.cantPresent:Presente ou medalha não podem ser enviados de presente
+shop.view.giftLack:Presentes insuficientes
 store.states.hatOpenProperty:cường hóa thành công, nón của bạn có thêm thuộc tính mới
 store.states.hatOpenDefense:cường hóa thành công, nón của bạn có thêm phòng ngự mới
 store.states.clothOpenProperty:cường hóa thành công, y phục của bạn có thêm khe cắm thuộc tính mới
@@ -1633,34 +1633,34 @@ tank.store.embedCell.defense:Lỗ khảm châu báu phòng ngự, bạn có th�
 tank.store.embedCell.Hole:Lỗ châu báu thuộc tính cấp {0},bạn có thể châu báu thuộc tính S{0} hoặc S{0} trở xuống thuộc tính khảm nạm vào.
 im.IMView.infoText:Bạn chưa gia nhập guild
 gotopage.view.GotoPageView.bagStoreAlert:Hãy đóng shop trước rồi mở tiệm rèn. 
-ddt.loader.loadingActivityInformationFailure:Tải thông tin hoạt động thất bại!
-ddt.loader.LoadingBombMetadataFailure:Tải số liệu đạn nguyên tử thất bại!
-ddt.loader.LoadingChestsListFailure:Tải danh sách vật phẩm bảo rương Thất bại!
-ddt.loader.LoadingLoginFailedRewardInformation:Tải thông tin phần thưởng đăng nhập thất bại!
-ddt.loader.LoadingCopyMapsInformationFailure:Tải bản đồ phó bản thất bại!
-ddt.loader.LoadingAchievementTemplateFormFailure:Tải thông tin thành tích thất bại!
-ddt.loader.LoadingExpressionResourcesFailure:Tải biểu cảm thất bại!
-ddt.loader.LoadingBuddyListFailure:Tải thông tin bạn bè thất bại!
-ddt.loader.LoadingManualContentFailure:Tải nội dung hướng dẫn thất bại! 
-ddt.loader.LoadingManualSearchTagsFailure:Tải tiêu đề hướng dẫn thất bại! 
-ddt.loader.LoadingItemTypeFailure:Tải loại vật phẩm Thất bại!
-ddt.loader.LoadingGoodsTemplateFailure:Tải mẫu vật phẩm thất bại!
-ddt.loader.LoadingAnnouncementFailure:Tải thông báo cuộn thất bại!
-ddt.loader.LoadMapInformationFailure:Tải thông tin bản đồ thất bại!
-ddt.loader.LoadingOpenMapListFailure:Tải khởi động danh sách bản đồ thất bại!
-ddt.loader.LoadingTaskListFailure:Tải danh sách nhiệm vụ thất bại!
-ddt.loader.FailedToRegister:Đăng ký thất bại!
-ddt.loader.LoadingRoleListFailure:Tải danh sách nhân vật thất bại!
-ddt.loader.LoadingServerListFailure:Tải danh sách máy chủ thất bại!
-ddt.loader.LoadingStoreItemsFail:Tải vật phẩm shop thất bại!
-ddt.loader.LoadingGoodsAdditionFail:Tải vật phẩm thêm thất bại! 
-ddt.loader.TheClassificationOfGoodsLoadingShopFailure:Tải phân loại vật phẩm shop thất bại!
-ddt.loader.LoadingTestFailure:Tải kho câu hỏi thất bại!
-ddt.loader.LoadingChestsInformationFailure:Tải thông tin bảo rương thất bại!
-ddt.loader.LoadingGuildMembersListFailure:Tải danh sách thành viên guild thất bại!
-ddt.loader.LoadingComplainInformationFailure:Tải thông tin khiếu nại thất bại!
-ddt.loader.LoadingNoviceRewardFailure:Tải quà tân thủ thất bại!
-ddt.loader.LoadingWeaponBallListFormFailure:Tải WeaponBallList thất bại! 
+ddt.loader.loadingActivityInformationFailure:Falha ao carregar informações de evento!
+ddt.loader.LoadingBombMetadataFailure:Falha ao carregar dados de projétil!
+ddt.loader.LoadingChestsListFailure:Falha ao carregar a lista de baús!
+ddt.loader.LoadingLoginFailedRewardInformation:Falha ao carregar recompensas de login!
+ddt.loader.LoadingCopyMapsInformationFailure:Falha ao carregar mapas de missão!
+ddt.loader.LoadingAchievementTemplateFormFailure:Falha ao carregar conquistas!
+ddt.loader.LoadingExpressionResourcesFailure:Falha ao carregar emotes!
+ddt.loader.LoadingBuddyListFailure:Falha ao carregar a lista de amigos!
+ddt.loader.LoadingManualContentFailure:Falha ao carregar o manual!
+ddt.loader.LoadingManualSearchTagsFailure:Falha ao carregar tópicos do manual!
+ddt.loader.LoadingItemTypeFailure:Falha ao carregar tipos de item!
+ddt.loader.LoadingGoodsTemplateFailure:Falha ao carregar modelos de item!
+ddt.loader.LoadingAnnouncementFailure:Falha ao carregar avisos!
+ddt.loader.LoadMapInformationFailure:Falha ao carregar informações do mapa!
+ddt.loader.LoadingOpenMapListFailure:Falha ao carregar a lista de mapas!
+ddt.loader.LoadingTaskListFailure:Falha ao carregar a lista de missões!
+ddt.loader.FailedToRegister:Falha no registro!
+ddt.loader.LoadingRoleListFailure:Falha ao carregar a lista de personagens!
+ddt.loader.LoadingServerListFailure:Falha ao carregar a lista de servidores!
+ddt.loader.LoadingStoreItemsFail:Falha ao carregar itens da loja!
+ddt.loader.LoadingGoodsAdditionFail:Falha ao carregar itens extras!
+ddt.loader.TheClassificationOfGoodsLoadingShopFailure:Falha ao carregar categorias da loja!
+ddt.loader.LoadingTestFailure:Falha ao carregar o banco de perguntas!
+ddt.loader.LoadingChestsInformationFailure:Falha ao carregar informações de baú!
+ddt.loader.LoadingGuildMembersListFailure:Falha ao carregar membros da guilda!
+ddt.loader.LoadingComplainInformationFailure:Falha ao carregar denúncias!
+ddt.loader.LoadingNoviceRewardFailure:Falha ao carregar o presente de iniciante!
+ddt.loader.LoadingWeaponBallListFormFailure:Falha ao carregar WeaponBallList!
 ddt.enthrall.invalidID:Số CMND bạn nhập không hợp lệ!
 ddt.enthrall.emptyName:Mời nhập tên của bạn!
 2.4.5versio:2.4.5version
@@ -1972,7 +1972,7 @@ ddt.consortion.shopItem.limitOver:Dây chuyền này đã bán hết
 ddt.roomList.roomListBG.full:tất cả phương thức	
 ddt.roomList.roomListBG.Athletics:phương thức chiến đấu	
 ddt.roomList.roomListBG.challenge:phương thức khiêu chiến	
-AlertDialog.ErrotTip: Lỗi chưa biết.
+AlertDialog.ErrotTip:Erro desconhecido.
 poorNote:xu không đủ,bạn muốn nạp tiền không?
 exp:kinh nghiệm
 offer:công trạng 
@@ -2357,11 +2357,11 @@ store.StoreIIComposeBG.ConsortiaAddStrip:Tỉ lệ thành công do tiệm rèn g
 store.StoreIIComposeBG.RichesIsNotEnough:không đủ điểm cống hiến guild	
 store.StoreIIComposeBG.AllNumStrip:Tổng hợp từ % cơ bản,bùa may mắn,guild	
 store.StoreIIComposeBG.noVIPAllNumStrip:Tổng hợp của
-ddt.loader.LoadingBadgeInfoFailure:Tải danh sách huân chương guild thất bại!
-ddt.loader.ShopDisCountRealTimesFailure: Lỗi tải thông tin Shop.
-ddt.loader.LoadingTexpExpFailure:Tải danh sách nước tu luyện thất bại!
-ddt.loader.LoadingBadLuckFailure:Tải danh sách "thần xui xẻo" thất bại!
-ddt.loader.LoadingLikeFriendTemplateFailure: Lỗi tải danh sách bạn bè trong cùng thành phố.
+ddt.loader.LoadingBadgeInfoFailure:Falha ao carregar medalhas da guilda!
+ddt.loader.ShopDisCountRealTimesFailure:Falha ao carregar promoções da loja.
+ddt.loader.LoadingTexpExpFailure:Falha ao carregar a lista de treino!
+ddt.loader.LoadingBadLuckFailure:Falha ao carregar a lista de azar!
+ddt.loader.LoadingLikeFriendTemplateFailure:Falha ao carregar amigos da mesma cidade.
 store.showTips.strength.dontStrengthIII:Trang bị đã vượt qua cường hóa 9, không có bùa ma thuật không thể tiếp tục cường hóa.
 ddt.vip.vipIcon.notVipCoin:không đủ tiền VIP,không thể khởi động!	
 ddt.vip.vipIcon.notVip:bạn chưa trở thành VIP,không thể quay vòng quay may mắn!	
@@ -2645,7 +2645,7 @@ eliteGame.readyFrame.readyOther:Đang tìm đối thủ...
 eliteGame.readyFrame.readyOk:Sẵn sàng
 store.fusion.donMoveGoods:Đang dung luyện vật phẩm, không thể di chuyển vật phẩm!
 store.fusion.autoSplit.inputNumber:Nhập số lượng dung luyện
-loading.asset:Tập tin nguồn
+loading.asset:Arquivo de origem
 shop.buyAvatarFail:Một số vật phẩm không được phép mua
 email.complain.confim:Xác nhận đây là thư rác?
 tank.trainer.fightAction.newHandTip1:Bạn đang ngược chiều đối thủ, hãy chỉnh lại hướng.
@@ -2834,7 +2834,7 @@ ddt.petsBag.eatpets.eatAllPets: Manh hóa toàn bộ thú cưng 3 sao hoặc tr�
 ddt.petsBag.eatpets.eatGreatPets: Trong lần manh hóa này có thú cưng cao cấp, tiếp tục? \n <font color='#ff0000'>Thú cưng sau khi manh hoa sẽ bị xóa</font> 
 ddt.petsBag.eatPets.maxLevel:Cấp độ đã đạt tối đa
 ddt.petsBag.isOpen:Cấp {0} sẽ được kích hoạt
-ddt.loader.PetsAdvancedDataFail:Tải tăng cấp sao pet thất bại
+ddt.loader.PetsAdvancedDataFail:Falha ao carregar evolução de pet
 ddt.pets.fight:Chiến
 ddt.pets.unfight:Triệu hồi
 ddt.pets.advancedTxt:Đào tạo thú cưng
@@ -3064,7 +3064,7 @@ ddt.gemstone.curInfo.purpleGemstone:Chiến hồn tím (HP)
 ddt.gemstone.curInfo.purpleGemstoneLuk:Chiến hồn tím {0} HP +{1}
 
 ddt.totemSystem.openTotemBtn.text:Lv {0} sẽ mở hệ thống Vật Tổ
-ddt.loader.loadTotemInfoFail:Tải thông tin module vật tổ thất bại
+ddt.loader.loadTotemInfoFail:Falha ao carregar o totem
 ddt.totem.sevenProperty:Tấn công,Phòng thủ,Nhanh nhẹn,May mắn,HP,Sát thương,Hộ giáp
 ddt.totem.rightView.lvTxt:LV:{0}
 ddt.totem.rightView.titleTxt1:Mở
@@ -3128,7 +3128,7 @@ happyRecharge.mainFrame.countless:Không có số lần rút thưởng, vui lòn
 happyRecharge.mainFrame.ticketless:Vé Gà Con
 happyRecharge.mainFrame.inrolling:Đang rút thưởng, hãy thao tác sau
 happyRecharge.mainFrame.helpContentTxt:1.Trong thời gian hoạt động nạp <font color='#ff0000'>{0}</font> Xu nhận ngay 1 lần rút thưởng, số lần rút thưởng sẽ dựa theo mức nạp Xu để tính, số dư sẽ không tích lũy. Ví dụ nạp {1} Xu được rút 1 lần, nạp {2} Xu được rút thưởng 2 lần.  \n2. Khi rút được thưởng bất ngờ, may mắn và chí tôn, lần lượt nhận <font color='#ff0000'>{3}%</font>, <font color='#ff0000'>{4}%</font> và tất cả vật phẩm trong kho thưởng.  \n3. Vé Gà Con dùng để đổi thưởng, khi đổi sẽ trừ số lượng tương ứng. Vé Gà Con chỉ hiện ở giao diện Hoạt động, không tích lũy đến hoạt động kế.  \n4. Trong server đơn, mỗi lần rút thưởng đều tăng vật phẩm kho thưởng với số lượng nhất định
-ddt.loader.growthPackageItemsInfoFail:GrowthPackageItemsLoader load thất bại!
+ddt.loader.growthPackageItemsInfoFail:Falha ao carregar o pacote de crescimento!
 ddt.growthPackage.frameTitle: Nạp tích lũy theo mốc ! 
 ddt.growthPackage.itemGetBtnTxt: Nhận
 ddt.growthPackage.buyPriceMsg:<FONT COLOR="#FF0000">Bạn muốn kích hoạt túi quà ?</FONT>
@@ -3506,8 +3506,8 @@ forgeMainView.latentEnergy.equipTipTxt:Nhấp đôi chọn trang bị kích ho�
 forgeMainView.latentEnergy.itemTipTxt:Sau đó nhấp đôi chọn đạo cụ cần dùng
 
 ddt.avatarCollSystem.openAvatarCollBtn.text:Đạt Lv{0} sẽ mở hệ thống hình ảnh
-ddt.loader.AvatarCollectionUnitDataFail:Nhận thông tin hình ảnh thất bại
-ddt.loader.AvatarCollectionItemDataFail:Nhận thông tin trang phục thất bại
+ddt.loader.AvatarCollectionUnitDataFail:Falha ao obter informações da coleção
+ddt.loader.AvatarCollectionItemDataFail:Falha ao obter informações de traje
 avatarCollection.propertyNameTxt:Tấn công,Phòng thủ,Nhanh nhẹn,May mắn,Sát thương,Hộ giáp,HP
 avatarCollection.propertyTipTitleTxt:Hiệu quả thu thập 1/2 P.Kiện,Hiệu quả thu thập đủ P.Kiện
 avatarCollection.rightView.descTxt:Server DDTank NEWGUN
