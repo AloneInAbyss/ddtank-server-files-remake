@@ -4,7 +4,7 @@ Com os arquivos que temos (servidor 4.1 em C#, cliente Flash, bancos `.bak` e a 
 
 O limite é: cada tipo de mudança mora num lugar diferente. Algumas pedem ferramenta que ainda não está no fluxo do dia a dia (compilador Flash, edição calma do SQL).
 
-Documentos irmãos: [`DOCUMENTACAO.md`](DOCUMENTACAO.md), [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md), [`DOCUMENTACAO-FORTALECIMENTO.md`](DOCUMENTACAO-FORTALECIMENTO.md) (forja), [`DOCUMENTACAO-DROP-DUNGEON.md`](DOCUMENTACAO-DROP-DUNGEON.md) (drop de dungeon).
+Documentos irmãos: [`DOCUMENTACAO.md`](DOCUMENTACAO.md), [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md), [`DOCUMENTACAO-FORTALECIMENTO.md`](DOCUMENTACAO-FORTALECIMENTO.md) (forja), [`DOCUMENTACAO-DROP-DUNGEON.md`](DOCUMENTACAO-DROP-DUNGEON.md) (cartas do chefe).
 
 ---
 
@@ -42,7 +42,7 @@ Itens, loja, missões, NPCs, drops, mapas liberados, prêmios diários. O C# qua
 Dá para:
 
 - Colocar item na loja, mudar preço, tempo de duração
-- Alterar drop de dungeon/caixa
+- Alterar o que sai nas cartas do chefe — [`DOCUMENTACAO-DROP-DUNGEON.md`](DOCUMENTACAO-DROP-DUNGEON.md)
 - Mudar texto/recompensa de quest (se a UI Flash souber o ID)
 - Dar gold/xu/item por script ou pelo painel (o `GameAdmin` existe, mas usa nome de banco antigo: `Db_Tank`)
 - Cadastrar um **item novo** copiando um template parecido e mudando ID/nome/stats

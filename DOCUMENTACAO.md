@@ -8,7 +8,7 @@
 
 **Como funciona fortalecer arma/elmo/roupa (forja, pedras, chance, falha):** [`DOCUMENTACAO-FORTALECIMENTO.md`](DOCUMENTACAO-FORTALECIMENTO.md).
 
-**Como cai item em dungeon (formigueiro, castelo, cartas, SQL):** [`DOCUMENTACAO-DROP-DUNGEON.md`](DOCUMENTACAO-DROP-DUNGEON.md).
+**Cartas do chefe no fim da dungeon (formigueiro, castelo, sorteio):** [`DOCUMENTACAO-DROP-DUNGEON.md`](DOCUMENTACAO-DROP-DUNGEON.md).
 
 **O que foi instalado neste PC, o boot até o lobby (5/set/2026) e como desfazer:** [`DOCUMENTACAO-AMBIENTE-LOCAL.md`](DOCUMENTACAO-AMBIENTE-LOCAL.md).
 
