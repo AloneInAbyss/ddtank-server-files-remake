@@ -338,6 +338,8 @@ Depois do tiro, `DropInventory.FireDrop` pode dropar item na fight bag / temp ba
 
 Cura por bomba tipo `CURE`: usa a arma secundária (`Property7` × `1,1 ^ StrengthenLevel`).
 
+Como o `StrengthenLevel` sobe na forja (pedras, chance, destruição): [`DOCUMENTACAO-FORTALECIMENTO.md`](DOCUMENTACAO-FORTALECIMENTO.md). O bônus de dano/guarda do equipamento fortalecido é `Round(Property7 × 1,1^nível − Property7)` no lobby (`GamePlayer.getHertAddition`).
+
 ---
 
 ## 9. PvE: mapas, ondas, chefes

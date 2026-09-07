@@ -4,7 +4,7 @@ Com os arquivos que temos (servidor 4.1 em C#, cliente Flash, bancos `.bak` e a 
 
 O limite é: cada tipo de mudança mora num lugar diferente. Algumas pedem ferramenta que ainda não está no fluxo do dia a dia (compilador Flash, edição calma do SQL).
 
-Documentos irmãos: [`DOCUMENTACAO.md`](DOCUMENTACAO.md), [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md).
+Documentos irmãos: [`DOCUMENTACAO.md`](DOCUMENTACAO.md), [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md), [`DOCUMENTACAO-FORTALECIMENTO.md`](DOCUMENTACAO-FORTALECIMENTO.md) (forja / fortalecer).
 
 ---
 
@@ -67,7 +67,7 @@ Dá para:
 - Criar comando de GM, evento, sistema novo (se você programar)
 - Alterar login, anti-flood, o `if (true)` frouxo do `Login.ashx`
 - Corrigir bug, descomentar World Boss / League
-- Mudar o que acontece ao fortalecer, fundir, casar, farm
+- Mudar o que acontece ao fortalecer, fundir, casar, farm — detalhe da forja em [`DOCUMENTACAO-FORTALECIMENTO.md`](DOCUMENTACAO-FORTALECIMENTO.md)
 
 **Até onde:** praticamente qualquer regra de servidor. É emulador aberto, não binário lacrado.
 

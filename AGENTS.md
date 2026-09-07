@@ -10,6 +10,7 @@ Documentação humana (não reescrever o que já está aqui):
 | [`DOCUMENTACAO-AMBIENTE-LOCAL.md`](DOCUMENTACAO-AMBIENTE-LOCAL.md) | O que foi feito **neste PC** (boot até o lobby, 5/set/2026) |
 | [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md) | Subir o ambiente neste PC |
 | [`DOCUMENTACAO-COMBATE.md`](DOCUMENTACAO-COMBATE.md) | Física, dano, turnos, recompensas |
+| [`DOCUMENTACAO-FORTALECIMENTO.md`](DOCUMENTACAO-FORTALECIMENTO.md) | Forja: fortalecer arma/elmo/roupa, pedras, chance, falha |
 | [`DOCUMENTACAO-MODIFICACOES.md`](DOCUMENTACAO-MODIFICACOES.md) | Onde cada tipo de mudança mora |
 | [`DOCUMENTACAO-RESOURCE.md`](DOCUMENTACAO-RESOURCE.md) | Pacote gráfico `resource/` |
 | [`DOCUMENTACAO-LAUNCHER.md`](DOCUMENTACAO-LAUNCHER.md) | Launcher (referência; não copiar CDN de terceiros) |
