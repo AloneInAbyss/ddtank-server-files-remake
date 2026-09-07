@@ -11,6 +11,7 @@ Documentação humana (não reescrever o que já está aqui):
 | [`GUIA-SUBIR-SERVIDOR.md`](GUIA-SUBIR-SERVIDOR.md) | Subir o ambiente neste PC |
 | [`DOCUMENTACAO-COMBATE.md`](DOCUMENTACAO-COMBATE.md) | Física, dano, turnos, recompensas |
 | [`DOCUMENTACAO-FORTALECIMENTO.md`](DOCUMENTACAO-FORTALECIMENTO.md) | Forja: fortalecer arma/elmo/roupa, pedras, chance, falha |
+| [`DOCUMENTACAO-DROP-DUNGEON.md`](DOCUMENTACAO-DROP-DUNGEON.md) | Drop de dungeon: cartas, NPC, caixa, SQL |
 | [`DOCUMENTACAO-MODIFICACOES.md`](DOCUMENTACAO-MODIFICACOES.md) | Onde cada tipo de mudança mora |
 | [`DOCUMENTACAO-RESOURCE.md`](DOCUMENTACAO-RESOURCE.md) | Pacote gráfico `resource/` |
 | [`DOCUMENTACAO-LAUNCHER.md`](DOCUMENTACAO-LAUNCHER.md) | Launcher (referência; não copiar CDN de terceiros) |

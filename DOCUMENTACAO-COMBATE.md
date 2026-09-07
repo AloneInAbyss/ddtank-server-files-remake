@@ -419,7 +419,7 @@ gp = XP_total_dos_NPCs × ratio × penalidade × bônusParty
 
 Score: `(200 − TurnIndex)×5 + kills×5 + (vida/vidaMáx)×10` (−400 se perdeu).
 
-Cartas do boss: `BossCardCount`, `TakeCardCommand`, `DropInventory.BossDrop`.
+Cartas do boss: `BossCardCount`, `TakeCardCommand`, `DropInventory.CopyDrop` (não `BossDrop`). Detalhe das tabelas e da %: [`DOCUMENTACAO-DROP-DUNGEON.md`](DOCUMENTACAO-DROP-DUNGEON.md).
 
 ### Atenção: chaves de config que **existem e não entram** nesta fórmula
 
